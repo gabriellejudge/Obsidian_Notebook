@@ -1,0 +1,19 @@
+{
+  "themes": {
+    "ideas": ["idea", "concept", "thought", "brainstorm", "what if", "could", "might", "explore", "hypothesis"],
+    "drafts": ["draft", "wip", "work in progress", "rough", "outline", "skeleton", "incomplete"],
+    "references": ["reference", "source", "citation", "link", "resource", "article", "paper", "book"],
+    "personal": ["journal", "diary", "reflection", "feeling", "today", "personal", "mood", "gratitude"],
+    "projects": ["project", "task", "todo", "milestone", "deadline", "sprint", "goal", "plan"],
+    "research": ["research", "study", "analysis", "findings", "data", "experiment", "evidence"],
+    "learning": ["learn", "note", "lesson", "course", "tutorial", "how to", "guide", "tip"],
+    "meeting": ["meeting", "agenda", "minutes", "discussion", "sync", "standup", "retrospective"],
+    "creative": ["story", "poem", "writing", "fiction", "creative", "narrative", "character"]
+  },
+  "min_similarity_threshold": 0.25,
+  "auto_link": true,
+  "generate_summaries": true,
+  "track_patterns": true,
+  "excluded_folders": ["_agent", "_meta", ".obsidian", "templates"],
+  "run_interval_minutes": 30
+}

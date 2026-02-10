@@ -1,0 +1,118 @@
+{
+  "README.md": {
+    "title": "README",
+    "summary": "This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
+    "themes": [
+      "ideas",
+      "references",
+      "personal",
+      "projects",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "obsidian",
+      "vault",
+      "organization",
+      "agent",
+      "obsidian",
+      "vault",
+      "includes",
+      "powered",
+      "background",
+      "agent"
+    ]
+  },
+  "notes/Personal Knowledge Management.md": {
+    "title": "Personal Knowledge Management",
+    "summary": "A system for capturing, organizing, and retrieving personal knowledge over time.",
+    "themes": [
+      "ideas",
+      "references",
+      "personal",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "personal",
+      "knowledge",
+      "management",
+      "system",
+      "capturing",
+      "organizing",
+      "retrieving",
+      "personal",
+      "knowledge",
+      "time"
+    ]
+  },
+  "notes/Research - Note-Taking Studies.md": {
+    "title": "Research - Note-Taking Studies",
+    "summary": "Collection of research findings on effective note-taking and knowledge management.",
+    "themes": [
+      "ideas",
+      "personal",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "research",
+      "note",
+      "taking",
+      "studies",
+      "collection",
+      "research",
+      "findings",
+      "effective",
+      "note",
+      "taking"
+    ]
+  },
+  "notes/AI Writing Assistant Idea.md": {
+    "title": "AI Writing Assistant Idea",
+    "summary": "What if we could build a writing assistant that doesn't just correct grammar, but actually unders...",
+    "themes": [
+      "ideas",
+      "drafts",
+      "personal",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "writing",
+      "assistant",
+      "idea",
+      "build",
+      "writing",
+      "assistant",
+      "doesn",
+      "correct",
+      "grammar",
+      "actually"
+    ]
+  },
+  "notes/2024-02-10 Morning Reflection.md": {
+    "title": "2024-02-10 Morning Reflection",
+    "summary": "Today I'm feeling motivated to work on organizing my notes. I've been letting them accumulate wit...",
+    "themes": [
+      "ideas",
+      "personal",
+      "projects",
+      "creative"
+    ],
+    "keywords": [
+      "morning",
+      "reflection",
+      "february",
+      "today",
+      "feeling",
+      "motivated",
+      "work",
+      "organizing",
+      "notes",
+      "letting"
+    ]
+  }
+}
