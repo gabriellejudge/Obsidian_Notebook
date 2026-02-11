@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-02-10T22:54:01.044024",
+  "last_run": "2026-02-11T00:07:16.610226",
   "processed_notes": {
     "README.md": {
-      "hash": "4f816c30caca74f99a9978821f679c7b",
+      "hash": "66fcd2648b956e7b72bcbe9da5a4ccc0",
       "themes": [
         "ideas",
         "references",
@@ -15,10 +15,11 @@
       "intents": [
         "note"
       ],
-      "processed": "2026-02-10T22:54:01.041680"
+      "summary": "This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
+      "processed": "2026-02-11T00:07:16.608007"
     },
     "notes/Personal Knowledge Management.md": {
-      "hash": "e1ca21b2193910626eae8f40f41a0cbd",
+      "hash": "35581d081cfab02177f10c5440e957cb",
       "themes": [
         "ideas",
         "references",
@@ -29,10 +30,11 @@
       "intents": [
         "note"
       ],
-      "processed": "2026-02-10T22:54:01.041982"
+      "summary": "This note explores ideas, references topics. A system for capturing, organizing, and retrieving personal knowledge over time.",
+      "processed": "2026-02-11T00:07:16.608420"
     },
     "notes/Research - Note-Taking Studies.md": {
-      "hash": "ce55f5d1e2be33703406f242fe189011",
+      "hash": "6393212ec8ca72689102837439a5b2d2",
       "themes": [
         "ideas",
         "personal",
@@ -43,10 +45,11 @@
       "intents": [
         "note"
       ],
-      "processed": "2026-02-10T22:54:01.042252"
+      "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
+      "processed": "2026-02-11T00:07:16.608764"
     },
     "notes/AI Writing Assistant Idea.md": {
-      "hash": "a4d82ea5f73100de3cc99f56c6b7f5e6",
+      "hash": "828454e9ff0a7365429bf26d2b20e109",
       "themes": [
         "ideas",
         "drafts",
@@ -57,10 +60,11 @@
       "intents": [
         "question"
       ],
-      "processed": "2026-02-10T22:54:01.042495"
+      "summary": "This question explores ideas, drafts topics. What if we could build a writing assistant that doesn't just correct grammar, but actually understands the *intent* behind what you're trying to say?",
+      "processed": "2026-02-11T00:07:16.609102"
     },
     "notes/2024-02-10 Morning Reflection.md": {
-      "hash": "e5517df8387a2d9b3b6364bdf5e9af63",
+      "hash": "885da57ca0293962234d431b72d3a09d",
       "themes": [
         "ideas",
         "personal",
@@ -70,7 +74,8 @@
       "intents": [
         "note"
       ],
-      "processed": "2026-02-10T22:54:01.042752"
+      "summary": "This note explores ideas, personal topics. Today I'm feeling motivated to work on organizing my notes. I've been letting them accumulate without any structure, and it's getting hard to find ...",
+      "processed": "2026-02-11T00:07:16.609415"
     }
   },
   "patterns_detected": [

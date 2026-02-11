@@ -1,7 +1,7 @@
 ---
 oz_tags: [ideas, drafts, personal, learning, creative, intent:question]
 oz_created: 2026-02-10
-oz_updated: 2026-02-10
+oz_updated: 2026-02-11
 ---
 # AI Writing Assistant Idea
 
@@ -32,3 +32,7 @@ Could this integrate with Obsidian plugins?
 ## Related Thoughts
 
 This connects to my thinking about [[Personal Knowledge Management]] and how tools can augment our thinking without replacing it.
+
+## Summary
+
+This question explores ideas, drafts topics. What if we could build a writing assistant that doesn't just correct grammar, but actually understands the *intent* behind what you're trying to say?

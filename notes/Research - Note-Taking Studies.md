@@ -1,7 +1,7 @@
 ---
 oz_tags: [ideas, personal, research, learning, creative, intent:note]
 oz_created: 2026-02-10
-oz_updated: 2026-02-10
+oz_updated: 2026-02-11
 ---
 # Research: Note-Taking Studies
 
@@ -37,3 +37,7 @@ How does digital note-taking compare to physical?
 Can AI augmentation enhance or hinder the generation effect?
 
 These questions connect to my exploration of [[AI Writing Assistant Idea]].
+
+## Summary
+
+This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.

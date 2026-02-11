@@ -1,7 +1,7 @@
 ---
 oz_tags: [ideas, references, personal, learning, creative, intent:note]
 oz_created: 2026-02-10
-oz_updated: 2026-02-10
+oz_updated: 2026-02-11
 ---
 # Personal Knowledge Management
 
@@ -37,3 +37,7 @@ The biggest challenge is maintenance. It's easy to capture notes but hard to kee
 - "How to Take Smart Notes" by Sönke Ahrens
 - Zettelkasten method
 - Building a Second Brain (BASB)
+
+## Summary
+
+This note explores ideas, references topics. A system for capturing, organizing, and retrieving personal knowledge over time.
