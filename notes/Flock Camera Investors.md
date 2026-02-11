@@ -1,5 +1,5 @@
 ---
-oz_tags: [surveillance, venture-capital, investors, flock-safety, startups]
+oz_tags: [references, research, creative, intent:note]
 oz_created: 2026-02-11
 oz_updated: 2026-02-11
 ---
@@ -41,3 +41,7 @@ The same investors backing Flock also back:
 
 ---
 *Original source: Flock Camera Investors.pdf*
+
+## Summary
+
+This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...

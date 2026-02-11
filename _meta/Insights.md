@@ -1,53 +1,43 @@
 # Vault Insights
 
-_Generated: 2026-02-11 00:46_
-
-## Key Figure: Peter Thiel
-
-**Central Node** connecting multiple themes:
-- Listed in [[All Kings]] as tech/VC power broker
-- Founded [[Palantir Origin Story|Palantir]] with DARPA connections
-- **Founders Fund** invested in [[Flock Camera Investors|Flock Safety]]
-- Mentor to JD Vance (noted in [[All Kings]])
+_Generated: 2026-02-11 06:00_
 
 ## Recurring Concepts
 
-### Surveillance & Data
-- **Surveillance technology** appears in 4 notes (Palantir Origin Story, Palantir Products, Flock Camera Investors, LinkedIn)
-- Pattern: Government programs → Private sector implementation
-- Example: DARPA TIA → Palantir Gotham
+Keywords that appear across multiple notes:
 
-### Power Networks
-- **Tech elite** concentrated power (All Kings)
-- **VC networks** legitimizing surveillance (Flock Camera Investors)
-- **Intelligence-corporate bridges** (Corporate Cabal, Palantir Origin Story)
-
-### Data as Infrastructure
-- LinkedIn as "national security asset"
-- Palantir products for "connecting people, places, events"
-- Flock cameras for law enforcement
+- **palantir** (23 notes)
+- **agent** (18 notes)
+- **surveillance** (16 notes)
+- **notes** (15 notes)
+- **thiel** (14 notes)
+- **tech** (13 notes)
+- **data** (12 notes)
+- **peter** (12 notes)
+- **note** (10 notes)
+- **linkedin** (10 notes)
+- **government** (10 notes)
+- **flock** (10 notes)
+- **products** (10 notes)
+- **bash** (9 notes)
+- **kings** (9 notes)
+- **origin** (9 notes)
+- **story** (9 notes)
+- **investors** (9 notes)
+- **intelligence** (8 notes)
+- **source** (8 notes)
 
 ## Theme Distribution
 
-- Tech Elite & Power: 2 notes
-- Surveillance Technology: 4 notes
-- Government & Intelligence: 3 notes
-- Venture Capital Networks: 2 notes
-- Knowledge Management: 2 notes
-- AI & Automation: 2 notes
-- Personal Reflections: 1 note
-
-## Observed Patterns
-
-1. **Government-to-Private Pipeline**: Defunded government programs (TIA) become private companies (Palantir)
-2. **VC Legitimization**: Top-tier VCs (a16z, Founders Fund, YC) normalize surveillance business models
-3. **Platform Power**: Tech platforms (LinkedIn, Meta) function as data aggregators with national security implications
-4. **Network Effects**: Same individuals (Thiel) and firms appear across multiple surveillance investments
+- References: 7 notes
+- Research: 6 notes
+- Creative: 6 notes
+- Ideas: 2 notes
+- Personal: 1 notes
+- Projects: 1 notes
+- Learning: 1 notes
+- Meeting: 1 notes
 
 ## Suggested Next Steps
 
-- 🔍 Research other Founders Fund investments for surveillance connections
-- 🕸️ Map out complete Thiel network (Palantir → Founders Fund → portfolio companies)
-- 📊 Track which "All Kings" figures have government contracts or advisory roles
-- 🔗 Investigate a16z's defense tech portfolio beyond Flock
-- ❓ Explore: What data flows exist between LinkedIn, Palantir, and law enforcement?
+- 📚 'palantir' appears frequently. Consider creating a hub note.

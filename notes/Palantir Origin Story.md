@@ -1,5 +1,5 @@
 ---
-oz_tags: [palantir, surveillance, darpa, intelligence, peter-thiel, founding-story]
+oz_tags: [references, meeting, creative, intent:note]
 oz_created: 2026-02-11
 oz_updated: 2026-02-11
 ---
@@ -39,3 +39,7 @@ Washingtonian article "Killer App" (2012): http://washingtonian.com/2012/01/31/k
 
 ---
 *Original source: Palanatir Origin Story.pdf*
+
+## Summary
+
+This note explores references, meeting topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...

@@ -1,5 +1,5 @@
 ---
-oz_tags: [people, power, tech-elite, finance, politics]
+oz_tags: [references, research, creative, intent:note]
 oz_created: 2026-02-11
 oz_updated: 2026-02-11
 ---
@@ -34,3 +34,7 @@ oz_updated: 2026-02-11
 
 ---
 *Original source: All Kings.pdf*
+
+## Summary
+
+This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...

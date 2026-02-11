@@ -1,5 +1,5 @@
 ---
-oz_tags: [intelligence, cia, ngo, networks, research]
+oz_tags: [ideas, references, research, creative, intent:note]
 oz_created: 2026-02-11
 oz_updated: 2026-02-11
 ---
@@ -32,3 +32,7 @@ This relates to the broader theme of **institutional power networks**:
 
 ---
 *Original source: Corporate Cabal.pdf*
+
+## Summary
+
+This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the "liberal CIA...

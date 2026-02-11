@@ -1,5 +1,5 @@
 ---
-oz_tags: [palantir, products, surveillance, defense, software, data-analytics]
+oz_tags: [references, research, creative, intent:note]
 oz_created: 2026-02-11
 oz_updated: 2026-02-11
 ---
@@ -48,3 +48,7 @@ Apollo (deployment layer)
 
 ---
 *Original source: Palantir Products.pdf*
+
+## Summary
+
+This note explores references, research topics. > **Summary**: Overview of Palantir's three core products—Gotham, Foundry, and Apollo—which serve intelligence, defense, and enterprise clients wit...

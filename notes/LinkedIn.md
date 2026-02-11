@@ -1,5 +1,5 @@
 ---
-oz_tags: [platforms, surveillance, national-security, media, social-networks]
+oz_tags: [references, research, intent:note]
 oz_created: 2026-02-11
 oz_updated: 2026-02-11
 ---
@@ -41,3 +41,7 @@ LinkedIn represents the convergence of:
 
 ---
 *Original source: Linkedin.pdf*
+
+## Summary
+
+This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network—viewing it as a national security asset and media controller that shapes th...
