@@ -1,45 +1,37 @@
 # Vault Insights
 
-_Generated: 2026-02-11 00:07_
+_Generated: 2026-02-11 00:18_
 
 ## Recurring Concepts
 
 Keywords that appear across multiple notes:
 
-- **notes** (22 notes)
-- **agent** (15 notes)
-- **note** (10 notes)
-- **writing** (10 notes)
-- **your** (9 notes)
-- **bash** (9 notes)
-- **suggestions** (8 notes)
-- **knowledge** (8 notes)
-- **obsidian** (7 notes)
-- **content** (7 notes)
-- **personal** (7 notes)
-- **json** (7 notes)
-- **insights** (7 notes)
-- **theme** (6 notes)
-- **link** (6 notes)
-- **idea** (6 notes)
-- **assistant** (6 notes)
-- **how** (6 notes)
-- **ideas** (5 notes)
-- **questions** (5 notes)
+- **notes** - Central theme across vault documentation and knowledge management content
+- **agent** - AI automation is a key focus in README and AI Writing Assistant Idea
+- **knowledge** - Personal knowledge management is a recurring theme
+- **obsidian** - Vault-specific tooling and workflows
+- **organization** - Structuring and connecting notes
 
 ## Theme Distribution
 
-- Ideas: 5 notes
-- Personal: 5 notes
-- Creative: 5 notes
+- Documentation & Setup: 1 note (README)
+- Knowledge Management: 2 notes
+- AI & Automation: 2 notes
+- Research: 1 note
+- Personal Reflections: 1 note
+- Ideas & Concepts: 3 notes
 - Learning: 4 notes
-- References: 2 notes
-- Projects: 2 notes
-- Research: 2 notes
-- Drafts: 1 notes
+
+## Observed Patterns
+
+- The vault centers around **personal knowledge management** with AI-assisted organization
+- Strong focus on **automation** and reducing manual effort in note-taking workflows
+- Research notes support practical implementation ideas
+- Morning reflections connect personal growth to knowledge systems
 
 ## Suggested Next Steps
 
-- 💡 You have several ideas brewing. Consider developing one into a draft.
-- 🔗 1 notes have no links. Check link suggestions.
-- 📚 'notes' appears frequently. Consider creating a hub note.
+- 🔗 Consider linking AI Writing Assistant Idea more directly to the README's agent documentation
+- 📚 The README serves as a natural hub note - ensure all notes reference it for context
+- 💡 Research findings could be expanded into actionable guidelines for note organization
+- 📝 Morning reflections could be tagged to track recurring personal themes over time

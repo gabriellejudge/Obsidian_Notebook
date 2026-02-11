@@ -137,4 +137,15 @@ rm _meta/agent_state.json
 
 ## Summary
 
-This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.
+This note serves as the documentation hub for the Obsidian vault, explaining how the AI-powered organization agent works. The author's intent is to provide users with a clear guide on installation, configuration, and usage of the automated note organization system, including folder structure, agent capabilities, and troubleshooting tips.
+
+## Tags
+
+#documentation #obsidian #automation #ai-agent #knowledge-management #organization #vault-setup
+
+## Related Notes
+
+- [[Personal Knowledge Management]] - Shares themes of note organization and knowledge systems
+- [[AI Writing Assistant Idea]] - Related AI automation concepts
+- [[Research - Note-Taking Studies]] - Research context for note-taking approaches
+- [[2024-02-10 Morning Reflection]] - Personal reflections on knowledge workflows

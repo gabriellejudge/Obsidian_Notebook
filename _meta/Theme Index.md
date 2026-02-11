@@ -1,24 +1,32 @@
 # Vault Theme Index
 
-_Last updated: 2026-02-11 00:07_
+_Last updated: 2026-02-11 00:18_
 
-## Creative
+## Documentation & Setup
+
+- [[README]] - Vault documentation and agent setup guide
+
+## Knowledge Management
 
 - [[README]]
 - [[Personal Knowledge Management]]
-- [[Research - Note-Taking Studies]]
+
+## AI & Automation
+
+- [[README]]
 - [[AI Writing Assistant Idea]]
+
+## Research
+
+- [[Research - Note-Taking Studies]]
+
+## Personal Reflections
+
 - [[2024-02-10 Morning Reflection]]
 
-## Drafts
+## Ideas & Concepts
 
-- [[AI Writing Assistant Idea]]
-
-## Ideas
-
-- [[README]]
 - [[Personal Knowledge Management]]
-- [[Research - Note-Taking Studies]]
 - [[AI Writing Assistant Idea]]
 - [[2024-02-10 Morning Reflection]]
 
@@ -28,27 +36,3 @@ _Last updated: 2026-02-11 00:07_
 - [[Personal Knowledge Management]]
 - [[Research - Note-Taking Studies]]
 - [[AI Writing Assistant Idea]]
-
-## Personal
-
-- [[README]]
-- [[Personal Knowledge Management]]
-- [[Research - Note-Taking Studies]]
-- [[AI Writing Assistant Idea]]
-- [[2024-02-10 Morning Reflection]]
-
-## Projects
-
-- [[README]]
-- [[2024-02-10 Morning Reflection]]
-
-## References
-
-- [[README]]
-- [[Personal Knowledge Management]]
-
-## Research
-
-- [[README]]
-- [[Research - Note-Taking Studies]]
-
