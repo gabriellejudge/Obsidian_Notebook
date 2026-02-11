@@ -1,5 +1,5 @@
 ---
-oz_tags: [references, meeting, creative, intent:note]
+oz_tags: [references, learning, meeting, creative, intent:note]
 oz_created: 2026-02-11
 oz_updated: 2026-02-11
 ---

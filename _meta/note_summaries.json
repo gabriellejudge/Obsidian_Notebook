@@ -31,6 +31,7 @@
       "ideas",
       "references",
       "research",
+      "learning",
       "creative"
     ],
     "keywords": [
@@ -52,6 +53,7 @@
     "themes": [
       "references",
       "research",
+      "learning",
       "creative"
     ],
     "keywords": [
@@ -69,9 +71,10 @@
   },
   "notes/Palantir Origin Story.md": {
     "title": "Palantir Origin Story",
-    "summary": "This note explores references, meeting topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+    "summary": "This note explores references, learning topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
     "themes": [
       "references",
+      "learning",
       "meeting",
       "creative"
     ],
@@ -94,6 +97,7 @@
     "themes": [
       "references",
       "research",
+      "learning",
       "creative"
     ],
     "keywords": [
@@ -114,7 +118,8 @@
     "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
     "themes": [
       "references",
-      "research"
+      "research",
+      "learning"
     ],
     "keywords": [
       "linkedin",
@@ -135,6 +140,7 @@
     "themes": [
       "references",
       "research",
+      "learning",
       "creative"
     ],
     "keywords": [
