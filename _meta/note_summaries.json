@@ -114,5 +114,137 @@
       "notes",
       "letting"
     ]
+  },
+  "notes/All Kings.md": {
+    "title": "All Kings",
+    "summary": "A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. Includes Jamie Dimon, Larry Ellison, Peter Thiel, Elon Musk, Larry Fink, Bill Gates, Mark Zuckerberg, and JD Vance.",
+    "themes": [
+      "people",
+      "power",
+      "tech-elite",
+      "finance",
+      "politics"
+    ],
+    "keywords": [
+      "peter-thiel",
+      "elon-musk",
+      "bill-gates",
+      "mark-zuckerberg",
+      "jd-vance",
+      "larry-fink",
+      "jamie-dimon",
+      "larry-ellison",
+      "power",
+      "influence"
+    ]
+  },
+  "notes/Corporate Cabal.md": {
+    "title": "Corporate Cabal",
+    "summary": "Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the 'liberal CIA' concept and institutional power structures.",
+    "themes": [
+      "intelligence",
+      "cia",
+      "ngo",
+      "networks",
+      "research"
+    ],
+    "keywords": [
+      "cia",
+      "ngo",
+      "liberal",
+      "networks",
+      "intelligence",
+      "corporate",
+      "power",
+      "institutions"
+    ]
+  },
+  "notes/Flock Camera Investors.md": {
+    "title": "Flock Camera Investors",
+    "summary": "Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcement. Notable investors include a16z, Founders Fund, and Y Combinator.",
+    "themes": [
+      "surveillance",
+      "venture-capital",
+      "investors",
+      "flock-safety",
+      "startups"
+    ],
+    "keywords": [
+      "a16z",
+      "founders-fund",
+      "tiger-global",
+      "y-combinator",
+      "surveillance",
+      "flock",
+      "cameras",
+      "law-enforcement",
+      "venture-capital"
+    ]
+  },
+  "notes/LinkedIn.md": {
+    "title": "LinkedIn",
+    "summary": "Analysis of LinkedIn as a national security asset and media controller that shapes the culture of work, beyond its role as a professional networking platform.",
+    "themes": [
+      "platforms",
+      "surveillance",
+      "national-security",
+      "media",
+      "social-networks"
+    ],
+    "keywords": [
+      "linkedin",
+      "microsoft",
+      "national-security",
+      "media",
+      "professional",
+      "data",
+      "work-culture"
+    ]
+  },
+  "notes/Palantir Origin Story.md": {
+    "title": "Palantir Origin Story",
+    "summary": "Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Thiel, Alex Karp, and Admiral John Poindexter established the vision.",
+    "themes": [
+      "palantir",
+      "surveillance",
+      "darpa",
+      "intelligence",
+      "peter-thiel",
+      "founding-story"
+    ],
+    "keywords": [
+      "peter-thiel",
+      "alex-karp",
+      "john-poindexter",
+      "darpa",
+      "tia",
+      "total-information-awareness",
+      "palantir",
+      "surveillance",
+      "founding"
+    ]
+  },
+  "notes/Palantir Products.md": {
+    "title": "Palantir Products",
+    "summary": "Overview of Palantir's three core products—Gotham, Foundry, and Apollo—which serve intelligence, defense, and enterprise clients with data integration and analysis capabilities.",
+    "themes": [
+      "palantir",
+      "products",
+      "surveillance",
+      "defense",
+      "software",
+      "data-analytics"
+    ],
+    "keywords": [
+      "gotham",
+      "foundry",
+      "apollo",
+      "palantir",
+      "defense",
+      "intelligence",
+      "data",
+      "analytics",
+      "software"
+    ]
   }
 }
