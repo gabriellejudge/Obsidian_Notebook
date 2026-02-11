@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-02-11T12:00:15.833718",
+  "last_run": "2026-02-11T18:00:26.275224",
   "processed_notes": {
     "README.md": {
       "hash": "733d93c418390c60227bdfdd780229a8",
@@ -16,7 +16,7 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
-      "processed": "2026-02-11T12:00:15.830593"
+      "processed": "2026-02-11T18:00:26.271772"
     },
     "notes/Personal Knowledge Management.md": {
       "hash": "35581d081cfab02177f10c5440e957cb",
@@ -78,7 +78,7 @@
       "processed": "2026-02-11T00:07:16.609415"
     },
     "notes/Corporate Cabal.md": {
-      "hash": "3f5c288db5f28bc599d4bf3568e1d1ca",
+      "hash": "d5df8cdf124694c285e566944a6bf5ce",
       "themes": [
         "ideas",
         "references",
@@ -90,10 +90,10 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
-      "processed": "2026-02-11T12:00:15.830996"
+      "processed": "2026-02-11T18:00:26.272165"
     },
     "notes/Palantir Products.md": {
-      "hash": "e10980d33c954550ad5114b990bf4727",
+      "hash": "1c0131c7891f75b8b3077eb4c619d458",
       "themes": [
         "references",
         "research",
@@ -104,10 +104,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
-      "processed": "2026-02-11T12:00:15.831379"
+      "processed": "2026-02-11T18:00:26.272582"
     },
     "notes/Palantir Origin Story.md": {
-      "hash": "e74eec01498714599844118ac34886b7",
+      "hash": "ee3b71c9b0cc88dabf00cb449372ad01",
       "themes": [
         "references",
         "learning",
@@ -118,10 +118,10 @@
         "note"
       ],
       "summary": "This note explores references, learning topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-      "processed": "2026-02-11T12:00:15.831724"
+      "processed": "2026-02-11T18:00:26.272961"
     },
     "notes/Flock Camera Investors.md": {
-      "hash": "6b897961b511c556655e704ae1ec6c48",
+      "hash": "fd35940a9914e9b911ee9038c5c2e36f",
       "themes": [
         "references",
         "research",
@@ -132,10 +132,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
-      "processed": "2026-02-11T12:00:15.832090"
+      "processed": "2026-02-11T18:00:26.273379"
     },
     "notes/LinkedIn.md": {
-      "hash": "8cdfd1ddfa47fb42b3e98ee7082e5390",
+      "hash": "6dbcfafe8c56761ec70f9389ee1089f4",
       "themes": [
         "references",
         "research",
@@ -145,10 +145,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-      "processed": "2026-02-11T12:00:15.832429"
+      "processed": "2026-02-11T18:00:26.273759"
     },
     "notes/All Kings.md": {
-      "hash": "327739cf882e5f78c1969630e13b7abe",
+      "hash": "49564eea4754e7ffb275ab9fbbbe445d",
       "themes": [
         "references",
         "research",
@@ -159,7 +159,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-      "processed": "2026-02-11T12:00:15.832769"
+      "processed": "2026-02-11T18:00:26.274122"
     }
   },
   "patterns_detected": [
