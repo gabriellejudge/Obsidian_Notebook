@@ -145,7 +145,7 @@ This note serves as the documentation hub for the Obsidian vault, explaining how
 
 ## Related Notes
 
-- [[Personal Knowledge Management]] - Shares themes of note organization and knowledge systems
-- [[AI Writing Assistant Idea]] - Related AI automation concepts
-- [[Research - Note-Taking Studies]] - Research context for note-taking approaches
-- [[2024-02-10 Morning Reflection]] - Personal reflections on knowledge workflows
+- [[Palantir Products]] - Data integration and analysis platforms that parallel the agent's note organization capabilities
+- [[LinkedIn]] - Example of a data aggregation platform discussed in this vault
+- [[All Kings]] - Central hub note demonstrating interconnected knowledge networks
+- [[Corporate Cabal]] - Explores institutional power networks, exemplifying the connected research this agent helps organize
