@@ -1,45 +1,43 @@
 # Vault Insights
 
-_Generated: 2026-02-12 18:00_
+_Generated: 2026-02-13 00:00_
 
 ## Recurring Concepts
 
-Key themes appearing across multiple notes:
+Keywords that appear across multiple notes:
 
-- **Surveillance Technology** - Palantir, Flock Safety, data aggregation (5 notes)
-- **Peter Thiel** - Central connecting figure across surveillance, VC, and power networks (5 notes)
-- **Government-Private Sector Pipeline** - DARPA, intelligence agencies, defense contracts (4 notes)
-- **Data as Power** - Professional data, surveillance data, intelligence data (4 notes)
-- **VC/Investment Networks** - Founders Fund, a16z, Y Combinator patterns (3 notes)
-
-## Connection Patterns
-
-**Peter Thiel as Central Node:**
-- [[Palantir Origin Story]] → Founded Palantir with DARPA connections
-- [[All Kings]] → Listed as key power figure
-- [[Flock Camera Investors]] → Founders Fund invests in surveillance tech
-
-**Surveillance Ecosystem:**
-- Palantir (government/enterprise) → Flock (local law enforcement) → LinkedIn (professional data)
-- All represent different scales of data aggregation and surveillance
-
-**Institutional Power Theme:**
-- [[Corporate Cabal]] explores CIA-NGO networks
-- [[All Kings]] maps tech/finance/political power concentration
-- Multiple notes question government-corporate data sharing
+- **palantir** (26 notes)
+- **agent** (20 notes)
+- **summary** (19 notes)
+- **surveillance** (17 notes)
+- **notes** (15 notes)
+- **note** (15 notes)
+- **data** (14 notes)
+- **thiel** (14 notes)
+- **tech** (13 notes)
+- **peter** (13 notes)
+- **products** (12 notes)
+- **linkedin** (12 notes)
+- **flock** (11 notes)
+- **kings** (10 notes)
+- **intelligence** (10 notes)
+- **government** (10 notes)
+- **bash** (9 notes)
+- **corporate** (9 notes)
+- **explores** (9 notes)
+- **between** (9 notes)
 
 ## Theme Distribution
 
-- Surveillance & Data Technology: 4 notes
-- Power Networks & Institutions: 2 notes
-- Documentation: 1 note
+- References: 7 notes
+- Learning: 7 notes
+- Research: 6 notes
+- Creative: 6 notes
+- Ideas: 2 notes
+- Personal: 1 notes
+- Projects: 1 notes
+- Meeting: 1 notes
 
 ## Suggested Next Steps
 
-- 📚 **Create a Peter Thiel hub note** - Appears in 5/7 notes as connecting figure
-- 🔗 **Explore Founders Fund portfolio** - Pattern of surveillance/defense tech investments
-- ❓ **Research questions raised** across notes:
-  - What data does LinkedIn share with government agencies?
-  - How do Palantir products connect to local surveillance (Flock)?
-  - What role do VC firms play in government-tech pipelines?
-- 📄 **Source PDFs available** - All Kings, Corporate Cabal, Flock Camera Investors, LinkedIn, Palantir Origin Story, Palantir Products
+- 📚 'palantir' appears frequently. Consider creating a hub note.

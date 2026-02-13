@@ -1,28 +1,59 @@
 # Vault Theme Index
 
-_Last updated: 2026-02-12 18:00_
+_Last updated: 2026-02-13 00:00_
 
-## Surveillance & Data Technology
-- [[Palantir Products]] - Core products: Gotham, Foundry, Apollo
-- [[Palantir Origin Story]] - DARPA/TIA origins, Peter Thiel founding
-- [[Flock Camera Investors]] - License plate readers, VC surveillance investments
-- [[LinkedIn]] - Professional data as national security asset
+## Creative
 
-## Power Networks & Institutions
-- [[All Kings]] - Roster of influential tech/finance/political figures
-- [[Corporate Cabal]] - CIA-NGO-corporate network research
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[All Kings]]
 
-## Key Figures
-- [[All Kings]] - Jamie Dimon, Larry Ellison, Peter Thiel, Elon Musk, Larry Fink, Bill Gates, Mark Zuckerberg, JD Vance
-- [[Palantir Origin Story]] - Peter Thiel, Alex Karp, Admiral Poindexter
+## Ideas
 
-## Investment & VC Patterns
-- [[Flock Camera Investors]] - a16z, Tiger Global, Founders Fund, Y Combinator
-- [[Palantir Origin Story]] - Founders Fund connections
+- [[README]]
+- [[Corporate Cabal]]
 
-## Documentation
-- [[README]] - Vault setup and AI organization agent guide
+## Learning
 
----
-*7 notes indexed across 5 thematic categories*
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
+
+## Meeting
+
+- [[Palantir Origin Story]]
+
+## Personal
+
+- [[README]]
+
+## Projects
+
+- [[README]]
+
+## References
+
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
+
+## Research
+
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
