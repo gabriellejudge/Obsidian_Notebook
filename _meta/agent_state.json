@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-02-13T00:00:25.887484",
+  "last_run": "2026-02-13T06:00:19.786290",
   "processed_notes": {
     "README.md": {
-      "hash": "38968221a5c926567c459f7976f76ec2",
+      "hash": "5ddf9db1e72bbc6a0355e79b8957c8b1",
       "themes": [
         "ideas",
         "references",
@@ -16,7 +16,7 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
-      "processed": "2026-02-13T00:00:25.883851"
+      "processed": "2026-02-13T06:00:19.782680"
     },
     "notes/Personal Knowledge Management.md": {
       "hash": "35581d081cfab02177f10c5440e957cb",
@@ -78,7 +78,7 @@
       "processed": "2026-02-11T00:07:16.609415"
     },
     "notes/Corporate Cabal.md": {
-      "hash": "08eea87032ea4d62df331f4018aed558",
+      "hash": "c49ace2555c9a54d7a2534b14b42787a",
       "themes": [
         "ideas",
         "references",
@@ -90,10 +90,10 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
-      "processed": "2026-02-13T00:00:25.884254"
+      "processed": "2026-02-13T06:00:19.783107"
     },
     "notes/Palantir Products.md": {
-      "hash": "354eb4d69585c4f42ddbd29276a1a261",
+      "hash": "688621ddc52abebd20cd2f5190e7d57e",
       "themes": [
         "references",
         "research",
@@ -104,12 +104,13 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
-      "processed": "2026-02-13T00:00:25.884680"
+      "processed": "2026-02-13T06:00:19.783542"
     },
     "notes/Palantir Origin Story.md": {
-      "hash": "2b189ffb8a0e93ec3b1974e70bd357dc",
+      "hash": "924a9b8289890d8aa5a72e40dcfaa847",
       "themes": [
         "references",
+        "research",
         "learning",
         "meeting",
         "creative"
@@ -117,11 +118,11 @@
       "intents": [
         "note"
       ],
-      "summary": "This note explores references, learning topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-      "processed": "2026-02-13T00:00:25.885110"
+      "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+      "processed": "2026-02-13T06:00:19.783963"
     },
     "notes/Flock Camera Investors.md": {
-      "hash": "d0ffef95fffd8b916ce4ff61a27b0be7",
+      "hash": "dbf2eaf492e5fec2ce08f39e75a474f0",
       "themes": [
         "references",
         "research",
@@ -132,23 +133,24 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
-      "processed": "2026-02-13T00:00:25.885508"
+      "processed": "2026-02-13T06:00:19.784412"
     },
     "notes/LinkedIn.md": {
-      "hash": "269318621e90baf22dc9c705167eb736",
+      "hash": "7561f469b529dc481ac8b44dfff1c6ca",
       "themes": [
         "references",
         "research",
-        "learning"
+        "learning",
+        "creative"
       ],
       "intents": [
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-      "processed": "2026-02-13T00:00:25.885934"
+      "processed": "2026-02-13T06:00:19.784796"
     },
     "notes/All Kings.md": {
-      "hash": "c8fb6e7baf904b4c04a8047fda8a61cd",
+      "hash": "67057f814fa6795d03178c3b39859af9",
       "themes": [
         "references",
         "research",
@@ -159,49 +161,49 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-      "processed": "2026-02-13T00:00:25.886329"
+      "processed": "2026-02-13T06:00:19.785176"
     }
   },
   "patterns_detected": [
     {
       "keyword": "palantir",
-      "count": 26
+      "count": 43
+    },
+    {
+      "keyword": "surveillance",
+      "count": 35
+    },
+    {
+      "keyword": "thiel",
+      "count": 29
+    },
+    {
+      "keyword": "tech",
+      "count": 25
+    },
+    {
+      "keyword": "peter",
+      "count": 24
+    },
+    {
+      "keyword": "data",
+      "count": 23
+    },
+    {
+      "keyword": "government",
+      "count": 23
+    },
+    {
+      "keyword": "products",
+      "count": 22
+    },
+    {
+      "keyword": "notes",
+      "count": 21
     },
     {
       "keyword": "agent",
       "count": 20
-    },
-    {
-      "keyword": "summary",
-      "count": 19
-    },
-    {
-      "keyword": "surveillance",
-      "count": 17
-    },
-    {
-      "keyword": "notes",
-      "count": 15
-    },
-    {
-      "keyword": "note",
-      "count": 15
-    },
-    {
-      "keyword": "data",
-      "count": 14
-    },
-    {
-      "keyword": "thiel",
-      "count": 14
-    },
-    {
-      "keyword": "tech",
-      "count": 13
-    },
-    {
-      "keyword": "peter",
-      "count": 13
     }
   ],
   "emerging_themes": [

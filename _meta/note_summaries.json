@@ -71,9 +71,10 @@
   },
   "notes/Palantir Origin Story.md": {
     "title": "Palantir Origin Story",
-    "summary": "This note explores references, learning topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
     "themes": [
       "references",
+      "research",
       "learning",
       "meeting",
       "creative"
@@ -119,7 +120,8 @@
     "themes": [
       "references",
       "research",
-      "learning"
+      "learning",
+      "creative"
     ],
     "keywords": [
       "linkedin",
