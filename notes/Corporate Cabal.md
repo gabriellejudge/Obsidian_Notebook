@@ -35,4 +35,16 @@ This relates to the broader theme of **institutional power networks**:
 
 ## Summary
 
-This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the "liberal CIA...
+This note documents research into the historical collaboration between U.S. intelligence agencies and liberal/progressive NGOs, foundations, and media organizations. The author's intent is to explore institutional power networks and how the "Liberal CIA" concept connects to modern tech ecosystem dynamics, particularly regarding VC firms, surveillance startups, and government-private sector relationships.
+
+## Tags
+
+#surveillance #intelligence #cia #ngo #power-networks #institutional-power #cold-war #tech-ecosystem #research
+
+## Related Notes
+
+- [[All Kings]] - Key figures operating within these institutional power structures
+- [[Palantir Origin Story]] - Direct DARPA/intelligence agency connections and government-to-startup pipeline
+- [[LinkedIn]] - Tech platforms as national security assets and data aggregation
+- [[Flock Camera Investors]] - Surveillance startup funding patterns connecting private enterprise to government
+- [[Palantir Products]] - Products emerging from intelligence community connections

@@ -44,4 +44,16 @@ The same investors backing Flock also back:
 
 ## Summary
 
-This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...
+This note catalogs the investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcement. The author's intent is to demonstrate how mainstream Silicon Valley VCs have legitimized surveillance-as-a-service, with particular emphasis on the Founders Fund connection linking Flock to the broader Palantir/Peter Thiel surveillance ecosystem.
+
+## Tags
+
+#flock-safety #surveillance #venture-capital #a16z #founders-fund #peter-thiel #y-combinator #law-enforcement #license-plate-readers #investment-patterns
+
+## Related Notes
+
+- [[Palantir Products]] - Similar surveillance/data products serving government clients
+- [[Palantir Origin Story]] - Founders Fund connection and Peter Thiel ecosystem
+- [[All Kings]] - Peter Thiel as connecting node through Founders Fund
+- [[LinkedIn]] - Another tech platform with surveillance implications
+- [[Corporate Cabal]] - VC firms connecting private enterprise to government

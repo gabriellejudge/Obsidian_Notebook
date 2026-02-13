@@ -37,4 +37,16 @@ oz_updated: 2026-02-13
 
 ## Summary
 
-This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...
+This note presents a roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. The author's intent is to map the concentration of power across domains, highlighting patterns of overlap between technology and government influence, with particular attention to Peter Thiel's network as a connecting thread through multiple power centers.
+
+## Tags
+
+#power-networks #tech-elite #finance #politics #peter-thiel #jamie-dimon #larry-ellison #elon-musk #larry-fink #bill-gates #mark-zuckerberg #jd-vance #institutional-power
+
+## Related Notes
+
+- [[Palantir Origin Story]] - Peter Thiel's role in founding surveillance tech company
+- [[Palantir Products]] - Products from Thiel-founded surveillance company
+- [[Corporate Cabal]] - Networks of elite influence and institutional power
+- [[Flock Camera Investors]] - Founders Fund (Thiel's VC) investment patterns
+- [[LinkedIn]] - Microsoft (Gates) owned platform as power asset

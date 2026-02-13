@@ -51,4 +51,16 @@ Apollo (deployment layer)
 
 ## Summary
 
-This note explores references, research topics. > **Summary**: Overview of Palantir's three core products—Gotham, Foundry, and Apollo—which serve intelligence, defense, and enterprise clients wit...
+This note provides a comprehensive overview of Palantir's core product suite: Gotham (intelligence/defense), Foundry (enterprise), and Apollo (deployment infrastructure). The author's intent is to document how these products function as an integrated surveillance and data analytics ecosystem, showing the architecture pattern and raising questions about relationships between government and commercial products.
+
+## Tags
+
+#palantir #surveillance #data-analytics #gotham #foundry #apollo #defense-tech #enterprise #intelligence #government-contracts
+
+## Related Notes
+
+- [[Palantir Origin Story]] - How these products trace back to DARPA's TIA program
+- [[All Kings]] - Peter Thiel as Palantir founder and central figure
+- [[Flock Camera Investors]] - Similar surveillance tech at local law enforcement scale
+- [[LinkedIn]] - Both platforms aggregate and analyze human data
+- [[Corporate Cabal]] - Government-private sector networks that Palantir exemplifies
