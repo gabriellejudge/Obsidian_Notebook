@@ -1,43 +1,78 @@
 # Vault Insights
 
-_Generated: 2026-02-14 06:00_
+_Generated: 2026-02-14 12:00_
+
+---
+
+## Vault Overview
+
+- **Total Notes**: 7 (6 research notes + 1 documentation)
+- **Primary Focus**: Surveillance technology, power networks, and institutional influence
+- **Central Figure**: Peter Thiel (appears in 5 of 6 research notes)
+
+---
 
 ## Recurring Concepts
 
-Keywords that appear across multiple notes:
+Keywords and themes appearing across multiple notes:
 
-- **palantir** (43 notes)
-- **surveillance** (35 notes)
-- **thiel** (29 notes)
-- **tech** (25 notes)
-- **peter** (24 notes)
-- **data** (23 notes)
-- **government** (23 notes)
-- **products** (22 notes)
-- **notes** (21 notes)
-- **agent** (20 notes)
-- **linkedin** (20 notes)
-- **power** (20 notes)
-- **flock** (18 notes)
-- **intelligence** (17 notes)
-- **note** (15 notes)
-- **kings** (15 notes)
-- **story** (15 notes)
-- **networks** (14 notes)
-- **corporate** (14 notes)
-- **origin** (14 notes)
+- **Surveillance Technology** — Palantir, Flock Safety, LinkedIn data collection (5 notes)
+- **Peter Thiel / Founders Fund** — Connecting node across tech and government (5 notes)
+- **Government-Private Sector Pipeline** — DARPA, intelligence agencies, VC funding (4 notes)
+- **Data Aggregation** — Professional, location, and behavioral data collection (4 notes)
+- **Power Networks** — Elite influence across tech, finance, and politics (3 notes)
+- **Defense Contracts** — Government contracts for surveillance products (3 notes)
 
-## Theme Distribution
+---
 
-- References: 7 notes
-- Research: 7 notes
-- Learning: 7 notes
-- Creative: 7 notes
-- Ideas: 2 notes
-- Personal: 1 notes
-- Projects: 1 notes
-- Meeting: 1 notes
+## Key Patterns Identified
+
+### 1. Peter Thiel as Central Connecting Node
+Thiel appears in nearly every note as a bridge between:
+- Silicon Valley (Founders Fund, PayPal)
+- Intelligence community (Palantir, DARPA connection)
+- Surveillance startups (Flock Safety investment)
+- Politics (JD Vance mentorship)
+
+### 2. Government-to-Startup Pipeline
+Multiple notes document the flow from defunded government programs to private sector:
+- DARPA TIA → Palantir
+- This pattern may extend to Flock Safety and similar surveillance startups
+
+### 3. VC Legitimization of Surveillance
+Mainstream VCs (a16z, Y Combinator, Tiger Global) now fund surveillance-as-a-service, normalizing technologies previously limited to government agencies.
+
+### 4. Data Platform Convergence
+LinkedIn, Palantir, and Flock represent different scales of the same pattern: aggregating human data for institutional use.
+
+---
+
+## Connection Density
+
+Most connected notes (by wikilink references):
+
+1. **[[All Kings]]** — Hub note connecting power figures to all other themes
+2. **[[Palantir Origin Story]]** — Links surveillance tech to government origins
+3. **[[Flock Camera Investors]]** — Bridges VC patterns to surveillance ecosystem
+
+---
 
 ## Suggested Next Steps
 
-- 📚 'palantir' appears frequently. Consider creating a hub note.
+- 📚 **Create a Peter Thiel hub note** — He is the central connecting figure across surveillance, VC, and politics
+- 🔍 **Research additional Founders Fund portfolio companies** — Pattern suggests more surveillance investments
+- 📝 **Add note on TIA (Total Information Awareness)** — The defunded program that became Palantir
+- 🔗 **Explore Microsoft/LinkedIn government data sharing** — Noted question in LinkedIn note
+- 📊 **Map VC overlap** — Which investors appear in both Flock and defense tech startups?
+
+---
+
+## Questions Raised Across Notes
+
+These questions appear in the research notes and could guide future investigation:
+
+1. What data does LinkedIn share with government agencies?
+2. How do these networks manifest in current tech ecosystem?
+3. What's the relationship between Gotham (government) and Foundry (commercial)?
+4. What data sharing exists between Palantir and local surveillance (Flock)?
+5. What role do VC firms play in connecting private enterprise to government?
