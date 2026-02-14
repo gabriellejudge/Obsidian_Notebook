@@ -1,18 +1,31 @@
 # Vault Insights
 
-_Generated: 2026-02-14 00:00_
+_Generated: 2026-02-14 06:00_
 
 ## Recurring Concepts
 
 Keywords that appear across multiple notes:
 
-- **surveillance** (5 notes: Corporate Cabal, Palantir Products, Palantir Origin Story, Flock Camera Investors, LinkedIn)
-- **peter-thiel** (4 notes: Palantir Origin Story, Flock Camera Investors, All Kings, plus connections in other notes)
-- **palantir** (3 notes: Palantir Products, Palantir Origin Story, All Kings)
-- **intelligence** (3 notes: Corporate Cabal, Palantir Products, Palantir Origin Story)
-- **power-networks** (3 notes: Corporate Cabal, All Kings, LinkedIn)
-- **data-aggregation** (3 notes: Palantir Products, LinkedIn, Flock Camera Investors)
-- **government-tech** (3 notes: Palantir Origin Story, Palantir Products, Flock Camera Investors)
+- **palantir** (43 notes)
+- **surveillance** (35 notes)
+- **thiel** (29 notes)
+- **tech** (25 notes)
+- **peter** (24 notes)
+- **data** (23 notes)
+- **government** (23 notes)
+- **products** (22 notes)
+- **notes** (21 notes)
+- **agent** (20 notes)
+- **linkedin** (20 notes)
+- **power** (20 notes)
+- **flock** (18 notes)
+- **intelligence** (17 notes)
+- **note** (15 notes)
+- **kings** (15 notes)
+- **story** (15 notes)
+- **networks** (14 notes)
+- **corporate** (14 notes)
+- **origin** (14 notes)
 
 ## Theme Distribution
 
@@ -20,23 +33,11 @@ Keywords that appear across multiple notes:
 - Research: 7 notes
 - Learning: 7 notes
 - Creative: 7 notes
-- Ideas: 2 notes (README, Corporate Cabal)
-- Personal: 1 note (README)
-- Projects: 1 note (README)
-- Meeting: 1 note (Palantir Origin Story)
-
-## Core Themes Identified
-
-1. **Surveillance Technology Ecosystem** - Notes trace connections between government programs (DARPA/TIA), private companies (Palantir, Flock Safety), and mainstream platforms (LinkedIn)
-
-2. **Peter Thiel Network** - Central figure connecting Palantir, Founders Fund investments in surveillance tech, and political influence (JD Vance)
-
-3. **Government-Private Sector Pipeline** - Pattern of defunded government programs becoming private ventures (TIA → Palantir)
-
-4. **Power Concentration** - "All Kings" documents how tech/finance leaders shape policy across domains
+- Ideas: 2 notes
+- Personal: 1 notes
+- Projects: 1 notes
+- Meeting: 1 notes
 
 ## Suggested Next Steps
 
-- 📚 Consider creating a hub note for "Surveillance Technology" linking all related notes
-- 🔗 The Peter Thiel network appears as a connecting thread—could benefit from a dedicated timeline or network map
-- ❓ Several notes contain open questions about data sharing between platforms—could be research areas
+- 📚 'palantir' appears frequently. Consider creating a hub note.
