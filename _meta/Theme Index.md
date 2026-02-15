@@ -1,62 +1,61 @@
 # Vault Theme Index
 
-_Last updated: 2026-02-15 12:00_
+_Last updated: 2026-02-15 18:00_
 
-This index organizes notes by thematic content rather than tags.
+## Creative
 
----
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
-## Surveillance Technology
+## Ideas
 
-Notes covering surveillance systems, data collection platforms, and monitoring technologies.
+- [[README]]
+- [[Corporate Cabal]]
 
-- [[Palantir Products]] - Gotham, Foundry, and Apollo product suite for intelligence and enterprise
-- [[Flock Camera Investors]] - License plate readers and camera systems for law enforcement
-- [[LinkedIn]] - Professional data aggregation as surveillance infrastructure
+## Learning
 
-## Power Networks & Institutional Influence
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
-Notes exploring connections between elite figures, government agencies, and corporate power.
+## Meeting
 
-- [[All Kings]] - Roster of powerful figures in tech, finance, and politics
-- [[Corporate Cabal]] - Intelligence agency connections to NGOs and corporate entities
-- [[Palantir Origin Story]] - DARPA-to-startup pipeline and government-private sector ties
+- [[Palantir Origin Story]]
 
-## Venture Capital & Investment Patterns
+## Personal
 
-Notes analyzing investment trends in surveillance and defense technology.
+- [[README]]
 
-- [[Flock Camera Investors]] - Major VCs (a16z, Founders Fund, Tiger Global) backing surveillance tech
-- [[Palantir Origin Story]] - Peter Thiel's role bridging Silicon Valley and intelligence community
+## Projects
 
-## Company Profiles
+- [[README]]
 
-Detailed analysis of specific companies and their products.
+## References
 
-- [[Palantir Products]] - Product architecture and capabilities overview
-- [[Palantir Origin Story]] - Founding story and DARPA connections
-- [[LinkedIn]] - Platform analysis as national security asset
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
-## Key Figures
+## Research
 
-Notes referencing influential individuals across domains.
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
-- [[All Kings]] - Central roster: Peter Thiel, Elon Musk, Bill Gates, Jamie Dimon, etc.
-- [[Palantir Origin Story]] - Peter Thiel, Alex Karp, Admiral John Poindexter
-
-## Documentation
-
-- [[README]] - Vault structure and AI organization agent documentation
-
----
-
-## Cross-Reference: Notes by Tag
-
-### Research
-- [[Corporate Cabal]], [[Palantir Products]], [[Palantir Origin Story]], [[Flock Camera Investors]], [[LinkedIn]], [[All Kings]]
-
-### Surveillance
-- [[Palantir Products]], [[Flock Camera Investors]], [[LinkedIn]], [[Corporate Cabal]]
-
-### Peter Thiel Network
-- [[Palantir Origin Story]], [[All Kings]], [[Flock Camera Investors]], [[Palantir Products]]
