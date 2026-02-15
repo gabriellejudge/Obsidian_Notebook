@@ -1,36 +1,61 @@
 # Vault Theme Index
 
-_Last updated: 2026-02-15 00:00_
+_Last updated: 2026-02-15 06:00_
 
-## Automation
+## Creative
 
-- [[README]] - Documentation for AI-powered note organization agent
-
-## Documentation
-
-- [[README]] - Vault setup and agent usage guide
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
 ## Ideas
 
-- [[README]] - Conceptual overview of automated knowledge management
+- [[README]]
+- [[Corporate Cabal]]
 
-## Knowledge Management
+## Learning
 
-- [[README]] - System for organizing and connecting notes
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
+
+## Meeting
+
+- [[Palantir Origin Story]]
 
 ## Personal
 
-- [[README]] - Personal vault configuration
+- [[README]]
 
 ## Projects
 
-- [[README]] - Obsidian vault organization project
+- [[README]]
 
 ## References
 
-- [[README]] - Reference documentation for agent capabilities
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
 ## Research
 
-- [[README]] - Research into AI-assisted note organization
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
