@@ -4,40 +4,31 @@ _Generated: 2026-02-15 00:00_
 
 ## Recurring Concepts
 
-Keywords that appear across multiple notes:
+Keywords from processed notes (excluding /notes/, /_agent/, /_meta/):
 
-- **palantir** (43 notes)
-- **surveillance** (35 notes)
-- **thiel** (29 notes)
-- **tech** (25 notes)
-- **peter** (24 notes)
-- **data** (23 notes)
-- **government** (23 notes)
-- **products** (22 notes)
-- **notes** (21 notes)
-- **agent** (20 notes)
-- **linkedin** (20 notes)
-- **power** (20 notes)
-- **flock** (18 notes)
-- **intelligence** (17 notes)
-- **note** (15 notes)
-- **kings** (15 notes)
-- **story** (15 notes)
-- **networks** (14 notes)
-- **corporate** (14 notes)
-- **origin** (14 notes)
+- **agent** - Core functionality for automated organization
+- **notes** - Primary content being organized
+- **organization** - Structuring and categorizing knowledge
+- **themes** - Grouping notes by topic
+- **tags** - Metadata for classification
+- **obsidian** - Vault platform
+- **automation** - Scheduled and background processing
 
 ## Theme Distribution
 
-- References: 7 notes
-- Research: 7 notes
-- Learning: 7 notes
-- Creative: 7 notes
-- Ideas: 2 notes
-- Personal: 1 notes
-- Projects: 1 notes
-- Meeting: 1 notes
+- Documentation: 1 note (README)
+- Automation: 1 note
+- Knowledge Management: 1 note
+
+## Observed Patterns
+
+- The vault is configured for AI-assisted note organization
+- The agent adds metadata without modifying original content
+- Theme detection uses keyword matching from config.json
+- Link suggestions based on content similarity
 
 ## Suggested Next Steps
 
-- 📚 'palantir' appears frequently. Consider creating a hub note.
+- 📝 Add markdown notes outside the /notes/ directory to be processed by the organization agent
+- ⚙️ Customize themes in `_agent/config.json` for your knowledge domains
+- 🔗 Review link suggestions in `_meta/Link Suggestions.md` to strengthen connections

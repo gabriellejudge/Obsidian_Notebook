@@ -2,60 +2,35 @@
 
 _Last updated: 2026-02-15 00:00_
 
-## Creative
+## Automation
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
+- [[README]] - Documentation for AI-powered note organization agent
+
+## Documentation
+
+- [[README]] - Vault setup and agent usage guide
 
 ## Ideas
 
-- [[README]]
-- [[Corporate Cabal]]
+- [[README]] - Conceptual overview of automated knowledge management
 
-## Learning
+## Knowledge Management
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
-
-## Meeting
-
-- [[Palantir Origin Story]]
+- [[README]] - System for organizing and connecting notes
 
 ## Personal
 
-- [[README]]
+- [[README]] - Personal vault configuration
 
 ## Projects
 
-- [[README]]
+- [[README]] - Obsidian vault organization project
 
 ## References
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
+- [[README]] - Reference documentation for agent capabilities
 
 ## Research
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
+- [[README]] - Research into AI-assisted note organization
 
