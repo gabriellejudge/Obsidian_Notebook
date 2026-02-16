@@ -1,35 +1,61 @@
 # Vault Theme Index
 
-_Last updated: 2026-02-16_
+_Last updated: 2026-02-16 06:00_
 
-Notes organized by content theme.
+## Creative
 
-## Surveillance Technology
-Companies and products built for data collection and analysis.
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
-- [[Palantir Products]] - Gotham, Foundry, Apollo product suite for intelligence and enterprise
-- [[Palantir Origin Story]] - DARPA TIA origins and founding meeting
-- [[Flock Camera Investors]] - License plate reader startup VC backing
+## Ideas
 
-## Power Networks & Institutional Influence
-How elites, corporations, and government agencies interconnect.
+- [[README]]
+- [[Corporate Cabal]]
 
-- [[All Kings]] - Roster of powerful figures in tech, finance, and politics
-- [[Corporate Cabal]] - CIA-NGO networks and institutional power structures
+## Learning
 
-## Data Platforms & National Security
-Tech platforms as intelligence and influence assets.
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
-- [[LinkedIn]] - Professional network as national security asset and media controller
+## Meeting
 
-## Key Figures
-Individuals who appear as connecting nodes across multiple themes.
+- [[Palantir Origin Story]]
 
-- **Peter Thiel** - Appears in: [[All Kings]], [[Palantir Origin Story]], [[Flock Camera Investors]], [[Corporate Cabal]]
-- **Alex Karp** - Appears in: [[Palantir Origin Story]]
-- **Admiral John Poindexter** - Appears in: [[Palantir Origin Story]]
+## Personal
 
-## Vault Documentation
+- [[README]]
 
-- [[README]] - How the AI organization agent works
+## Projects
+
+- [[README]]
+
+## References
+
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
+
+## Research
+
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
