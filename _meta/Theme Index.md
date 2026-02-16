@@ -1,61 +1,35 @@
 # Vault Theme Index
 
-_Last updated: 2026-02-15 18:00_
+_Last updated: 2026-02-16_
 
-## Creative
+Notes organized by content theme.
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
+## Surveillance Technology
+Companies and products built for data collection and analysis.
 
-## Ideas
+- [[Palantir Products]] - Gotham, Foundry, Apollo product suite for intelligence and enterprise
+- [[Palantir Origin Story]] - DARPA TIA origins and founding meeting
+- [[Flock Camera Investors]] - License plate reader startup VC backing
 
-- [[README]]
-- [[Corporate Cabal]]
+## Power Networks & Institutional Influence
+How elites, corporations, and government agencies interconnect.
 
-## Learning
+- [[All Kings]] - Roster of powerful figures in tech, finance, and politics
+- [[Corporate Cabal]] - CIA-NGO networks and institutional power structures
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
+## Data Platforms & National Security
+Tech platforms as intelligence and influence assets.
 
-## Meeting
+- [[LinkedIn]] - Professional network as national security asset and media controller
 
-- [[Palantir Origin Story]]
+## Key Figures
+Individuals who appear as connecting nodes across multiple themes.
 
-## Personal
+- **Peter Thiel** - Appears in: [[All Kings]], [[Palantir Origin Story]], [[Flock Camera Investors]], [[Corporate Cabal]]
+- **Alex Karp** - Appears in: [[Palantir Origin Story]]
+- **Admiral John Poindexter** - Appears in: [[Palantir Origin Story]]
 
-- [[README]]
+## Vault Documentation
 
-## Projects
-
-- [[README]]
-
-## References
-
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
-
-## Research
-
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
+- [[README]] - How the AI organization agent works
 
