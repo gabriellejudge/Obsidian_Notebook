@@ -6,26 +6,14 @@ _Generated: 2026-02-16 12:00_
 
 Keywords that appear across multiple notes:
 
-- **palantir** (43 notes)
-- **surveillance** (35 notes)
-- **thiel** (29 notes)
-- **tech** (25 notes)
-- **peter** (24 notes)
-- **data** (23 notes)
-- **government** (23 notes)
-- **products** (22 notes)
-- **notes** (21 notes)
-- **agent** (20 notes)
-- **linkedin** (20 notes)
-- **power** (20 notes)
-- **flock** (18 notes)
-- **intelligence** (17 notes)
-- **note** (15 notes)
-- **kings** (15 notes)
-- **story** (15 notes)
-- **networks** (14 notes)
-- **corporate** (14 notes)
-- **origin** (14 notes)
+- **palantir** (5 notes) - Palantir Products, Palantir Origin Story, All Kings, Flock Camera Investors, Corporate Cabal
+- **surveillance** (5 notes) - Palantir Products, Palantir Origin Story, Flock Camera Investors, LinkedIn, Corporate Cabal
+- **peter thiel** (4 notes) - Palantir Origin Story, All Kings, Flock Camera Investors, Corporate Cabal
+- **data** (5 notes) - Palantir Products, LinkedIn, All Kings, Flock Camera Investors, README
+- **government** (4 notes) - Palantir Origin Story, Palantir Products, Corporate Cabal, Flock Camera Investors
+- **power networks** (3 notes) - All Kings, Corporate Cabal, LinkedIn
+- **intelligence** (3 notes) - Palantir Origin Story, Palantir Products, Corporate Cabal
+- **founders fund** (3 notes) - Palantir Origin Story, Flock Camera Investors, All Kings
 
 ## Theme Distribution
 
@@ -33,11 +21,23 @@ Keywords that appear across multiple notes:
 - Research: 7 notes
 - Learning: 7 notes
 - Creative: 7 notes
-- Ideas: 2 notes
-- Personal: 1 notes
-- Projects: 1 notes
-- Meeting: 1 notes
+- Ideas: 2 notes (README, Corporate Cabal)
+- Personal: 1 note (README)
+- Projects: 1 note (README)
+- Meeting: 1 note (Palantir Origin Story)
+
+## Key Themes Emerging
+
+1. **Surveillance Technology Ecosystem**: Notes document the connections between government programs (DARPA/TIA), private companies (Palantir, Flock), and venture capital (Founders Fund, a16z).
+
+2. **Peter Thiel as Central Node**: Thiel appears as a connecting figure across multiple notes—founder of Palantir, Founders Fund investor in Flock, and mentor to political figures.
+
+3. **Data Aggregation Platforms**: LinkedIn and Palantir both framed as tools for large-scale data collection serving both commercial and government interests.
+
+4. **Government-Private Sector Pipeline**: Multiple notes trace how surveillance capabilities move from government programs to private companies.
 
 ## Suggested Next Steps
 
-- 📚 'palantir' appears frequently. Consider creating a hub note.
+- 📚 Consider creating a "Peter Thiel" hub note to centralize references across the vault
+- 🔗 The "surveillance technology" theme spans most notes—could benefit from a consolidated overview
+- ❓ Several notes raise unanswered questions about data sharing between platforms—potential research direction
