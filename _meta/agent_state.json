@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-02-16T06:00:20.867415",
+  "last_run": "2026-02-16T12:00:18.637751",
   "processed_notes": {
     "README.md": {
-      "hash": "74a457176d391b752cc0001537a86e38",
+      "hash": "7037397bf95289249a52f558775238b0",
       "themes": [
         "ideas",
         "references",
@@ -16,7 +16,7 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
-      "processed": "2026-02-16T06:00:20.863723"
+      "processed": "2026-02-16T12:00:18.632871"
     },
     "notes/Personal Knowledge Management.md": {
       "hash": "35581d081cfab02177f10c5440e957cb",
@@ -78,7 +78,7 @@
       "processed": "2026-02-11T00:07:16.609415"
     },
     "notes/Corporate Cabal.md": {
-      "hash": "03f6236df5fbf90dcca1d0b0bb33ba1e",
+      "hash": "5017ee7d6e4272b32548905c9c9a3db8",
       "themes": [
         "ideas",
         "references",
@@ -90,10 +90,10 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
-      "processed": "2026-02-16T06:00:20.864114"
+      "processed": "2026-02-16T12:00:18.633403"
     },
     "notes/Palantir Products.md": {
-      "hash": "234f5599000b3fcaa5f17029c5972966",
+      "hash": "8683487c6982f572cdaa540f9bc94b4b",
       "themes": [
         "references",
         "research",
@@ -104,10 +104,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
-      "processed": "2026-02-16T06:00:20.864523"
+      "processed": "2026-02-16T12:00:18.633875"
     },
     "notes/Palantir Origin Story.md": {
-      "hash": "64f22ec50fe584b900795e3032bc647f",
+      "hash": "4afe0707087c03311a2d934cc168cd47",
       "themes": [
         "references",
         "research",
@@ -119,10 +119,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-      "processed": "2026-02-16T06:00:20.864921"
+      "processed": "2026-02-16T12:00:18.634354"
     },
     "notes/Flock Camera Investors.md": {
-      "hash": "d2a62830fe08b76a5cf190e8e69b4924",
+      "hash": "9ead5c6ddd0826de20239dff0c747cbc",
       "themes": [
         "references",
         "research",
@@ -133,10 +133,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
-      "processed": "2026-02-16T06:00:20.865357"
+      "processed": "2026-02-16T12:00:18.635361"
     },
     "notes/LinkedIn.md": {
-      "hash": "334816d9e8a43b7199e7f3f22e3d4c49",
+      "hash": "616e5918322c0e4f519d7531ab073969",
       "themes": [
         "references",
         "research",
@@ -147,10 +147,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-      "processed": "2026-02-16T06:00:20.865734"
+      "processed": "2026-02-16T12:00:18.635816"
     },
     "notes/All Kings.md": {
-      "hash": "73741e2906ebeff476a1a3797ec2f8fc",
+      "hash": "0413deb7fec0b7493127aed652ae3b17",
       "themes": [
         "references",
         "research",
@@ -161,7 +161,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-      "processed": "2026-02-16T06:00:20.866329"
+      "processed": "2026-02-16T12:00:18.636264"
     }
   },
   "patterns_detected": [
