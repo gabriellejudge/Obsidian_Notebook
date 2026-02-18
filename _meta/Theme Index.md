@@ -1,41 +1,61 @@
 # Vault Theme Index
 
-_Last updated: 2026-02-17 12:00_
+_Last updated: 2026-02-18 00:00_
 
-This index groups notes by thematic content rather than frontmatter tags.
+## Creative
 
-## Surveillance Technology
-Notes exploring surveillance platforms, data collection systems, and their architecture.
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
-- [[Palantir Products]] - Gotham, Foundry, Apollo product suite overview
-- [[Palantir Origin Story]] - DARPA/TIA program origins and founding story
-- [[Flock Camera Investors]] - License plate readers and VC funding patterns
-- [[LinkedIn]] - Professional network as data aggregation platform
+## Ideas
 
-## Power Networks & Elite Influence
-Notes mapping institutional power, elite networks, and cross-sector influence.
+- [[README]]
+- [[Corporate Cabal]]
 
-- [[All Kings]] - Roster of powerful figures across tech, finance, politics
-- [[Corporate Cabal]] - CIA-NGO networks and institutional power structures
-- [[LinkedIn]] - Tech platform as national security asset
+## Learning
 
-## Peter Thiel Ecosystem
-Notes connected to Peter Thiel's investments, companies, and network.
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
-- [[Palantir Origin Story]] - Co-founder role, DARPA connection
-- [[Palantir Products]] - Thiel-founded company's product line
-- [[Flock Camera Investors]] - Founders Fund investment
-- [[All Kings]] - Central figure in tech-government bridge
+## Meeting
 
-## Government-Tech Pipeline
-Notes examining the relationship between government agencies and private tech.
+- [[Palantir Origin Story]]
 
-- [[Palantir Origin Story]] - DARPA to startup pipeline
-- [[Corporate Cabal]] - Intelligence agency-NGO collaboration
-- [[Flock Camera Investors]] - VC funding of surveillance for law enforcement
+## Personal
 
-## Vault Infrastructure
-Documentation and tooling for this vault.
+- [[README]]
 
-- [[README]] - Vault documentation and AI agent setup guide
+## Projects
+
+- [[README]]
+
+## References
+
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
+
+## Research
+
+- [[README]]
+- [[Corporate Cabal]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
 
