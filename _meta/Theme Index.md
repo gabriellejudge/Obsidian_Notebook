@@ -2,60 +2,45 @@
 
 _Last updated: 2026-02-19 12:00_
 
-## Creative
+## Surveillance & Intelligence Technology
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
+Core research theme connecting government programs to private sector tech.
 
-## Ideas
+- [[Palantir Origin Story]] - DARPA TIA program origins, government-to-startup pipeline
+- [[Palantir Products]] - Gotham, Foundry, Apollo product suite for defense/enterprise
+- [[Flock Camera Investors]] - VC legitimization of surveillance-as-a-service
+- [[LinkedIn]] - Professional network as national security data asset
 
-- [[README]]
-- [[Corporate Cabal]]
+## Power Networks & Institutional Analysis
 
-## Learning
+Mapping connections between tech leaders, government, and finance.
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
+- [[All Kings]] - Central roster of power figures (Thiel, Musk, Dimon, Fink, etc.)
+- [[Corporate Cabal]] - Liberal CIA/NGO networks, institutional power structures
 
-## Meeting
+## Peter Thiel Ecosystem
 
-- [[Palantir Origin Story]]
+Notes connected through Peter Thiel as a central node.
 
-## Personal
+- [[Palantir Origin Story]] - Thiel as co-founder
+- [[Palantir Products]] - Thiel-founded company products
+- [[Flock Camera Investors]] - Founders Fund investment
+- [[All Kings]] - Thiel as power network connector (JD Vance protégé, etc.)
 
-- [[README]]
+## Documentation
 
-## Projects
+- [[README]] - Vault structure and AI organization agent documentation
 
-- [[README]]
+---
 
-## References
+## By Original Tag Classification
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
+### References
+- [[Corporate Cabal]], [[Palantir Products]], [[Palantir Origin Story]], [[Flock Camera Investors]], [[LinkedIn]], [[All Kings]], [[README]]
 
-## Research
+### Research
+- [[Corporate Cabal]], [[Palantir Products]], [[Palantir Origin Story]], [[Flock Camera Investors]], [[LinkedIn]], [[All Kings]], [[README]]
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
+### Learning
+- [[Corporate Cabal]], [[Palantir Products]], [[Palantir Origin Story]], [[Flock Camera Investors]], [[LinkedIn]], [[All Kings]], [[README]]
 
