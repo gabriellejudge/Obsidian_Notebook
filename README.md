@@ -1,7 +1,7 @@
 ---
 oz_tags: [ideas, references, personal, projects, research, learning, creative, intent:note]
 oz_created: 2026-02-10
-oz_updated: 2026-02-19
+oz_updated: 2026-02-20
 ---
 # Obsidian Vault with AI Organization Agent
 
@@ -146,6 +146,8 @@ This note serves as the documentation hub for the Obsidian vault, explaining how
 ## Related Notes
 
 - [[Palantir Products]] - Data integration and analysis platforms that parallel the agent's note organization capabilities
+- [[Palantir Origin Story]] - Founding narrative demonstrating the interconnected research this vault organizes
 - [[LinkedIn]] - Example of a data aggregation platform discussed in this vault
 - [[All Kings]] - Central hub note demonstrating interconnected knowledge networks
 - [[Corporate Cabal]] - Explores institutional power networks, exemplifying the connected research this agent helps organize
+- [[Flock Camera Investors]] - Surveillance startup investment patterns tracked across vault notes

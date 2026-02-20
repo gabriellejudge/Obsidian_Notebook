@@ -1,7 +1,7 @@
 ---
 oz_tags: [references, research, learning, creative, intent:note]
 oz_created: 2026-02-11
-oz_updated: 2026-02-19
+oz_updated: 2026-02-20
 ---
 # All Kings
 
@@ -41,7 +41,7 @@ This note presents a roster of the most powerful figures in technology, finance,
 
 ## Tags
 
-#power-networks #tech-elite #finance #politics #peter-thiel #jamie-dimon #larry-ellison #elon-musk #larry-fink #bill-gates #mark-zuckerberg #jd-vance #institutional-power
+#power-networks #tech-elite #finance #politics #surveillance #peter-thiel #jamie-dimon #larry-ellison #elon-musk #larry-fink #bill-gates #mark-zuckerberg #jd-vance #institutional-power
 
 ## Related Notes
 
