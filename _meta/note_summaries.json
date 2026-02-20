@@ -1,7 +1,7 @@
 {
   "README.md": {
     "title": "README",
-    "summary": "This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
+    "summary": "Documentation hub for the Obsidian vault, explaining the AI-powered organization agent's capabilities, folder structure, configuration, and usage.",
     "themes": [
       "ideas",
       "references",
@@ -26,7 +26,7 @@
   },
   "notes/Corporate Cabal.md": {
     "title": "Corporate Cabal",
-    "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
+    "summary": "Research on networks connecting CIA with NGOs and corporate entities, exploring the 'liberal CIA' concept and institutional power structures in the modern tech ecosystem.",
     "themes": [
       "ideas",
       "references",
@@ -49,7 +49,7 @@
   },
   "notes/Palantir Products.md": {
     "title": "Palantir Products",
-    "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
+    "summary": "Overview of Palantir's three core products\u2014Gotham (intelligence/defense), Foundry (enterprise), and Apollo (deployment infrastructure)\u2014serving government and commercial data analytics needs.",
     "themes": [
       "references",
       "research",
@@ -71,7 +71,7 @@
   },
   "notes/Palantir Origin Story.md": {
     "title": "Palantir Origin Story",
-    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+    "summary": "Documents Palantir's founding connection to DARPA's Total Information Awareness (TIA) program through the meeting between Peter Thiel, Alex Karp, and Admiral John Poindexter.",
     "themes": [
       "references",
       "research",
@@ -94,7 +94,7 @@
   },
   "notes/Flock Camera Investors.md": {
     "title": "Flock Camera Investors",
-    "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
+    "summary": "Investor list for Flock Safety, a surveillance technology company, showing mainstream VC acceptance of surveillance tech through backers like a16z, Founders Fund, and Y Combinator.",
     "themes": [
       "references",
       "research",
@@ -116,7 +116,7 @@
   },
   "notes/LinkedIn.md": {
     "title": "LinkedIn",
-    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
+    "summary": "Analysis of LinkedIn as a national security asset and media controller, examining its role at the convergence of social networking, professional identity, and media influence.",
     "themes": [
       "references",
       "research",
@@ -138,7 +138,7 @@
   },
   "notes/All Kings.md": {
     "title": "All Kings",
-    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
+    "summary": "Roster of powerful figures in technology, finance, and politics (Thiel, Musk, Dimon, Fink, Gates, Zuckerberg, Vance) mapping concentrated power and government influence overlap.",
     "themes": [
       "references",
       "research",
