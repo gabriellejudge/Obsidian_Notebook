@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-02-20T06:00:14.000000",
+  "last_run": "2026-02-20T12:00:24.099960",
   "processed_notes": {
     "README.md": {
-      "hash": "c63703c10bf3341cb61177245b77b039",
+      "hash": "75b7c85ccf86c739a1090ae7021cd983",
       "themes": [
         "ideas",
         "references",
@@ -16,10 +16,10 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
-      "processed": "2026-02-20T06:00:14.000000"
+      "processed": "2026-02-20T12:00:24.096192"
     },
     "notes/Corporate Cabal.md": {
-      "hash": "2fec53913129b0cd35dbf5f4eff50679",
+      "hash": "3bb5ee1c2bf3faa217e3949a7728c512",
       "themes": [
         "ideas",
         "references",
@@ -31,10 +31,10 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
-      "processed": "2026-02-19T12:00:17.696546"
+      "processed": "2026-02-20T12:00:24.096617"
     },
     "notes/Palantir Products.md": {
-      "hash": "af4803e03d7c96ed3e6e665035f61a7d",
+      "hash": "34c60f7a0345bf83550e0365224a753d",
       "themes": [
         "references",
         "research",
@@ -45,10 +45,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
-      "processed": "2026-02-19T12:00:17.696996"
+      "processed": "2026-02-20T12:00:24.097064"
     },
     "notes/Palantir Origin Story.md": {
-      "hash": "df3781bbe9750ed47a7868918cd49b7a",
+      "hash": "2f56c99ba44381dac64570ee55c75a3d",
       "themes": [
         "references",
         "research",
@@ -60,10 +60,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-      "processed": "2026-02-19T12:00:17.697416"
+      "processed": "2026-02-20T12:00:24.097487"
     },
     "notes/Flock Camera Investors.md": {
-      "hash": "a4b9264fed12d08568a82f1bc2da366c",
+      "hash": "a2fbfcf01a1d494c5f7941b67ec3635d",
       "themes": [
         "references",
         "research",
@@ -74,10 +74,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
-      "processed": "2026-02-19T12:00:17.697848"
+      "processed": "2026-02-20T12:00:24.097931"
     },
     "notes/LinkedIn.md": {
-      "hash": "e4ca5e283ca40f50e773a747e53c1a7e",
+      "hash": "642fff789bf30d540d5c58b61c9fba70",
       "themes": [
         "references",
         "research",
@@ -88,10 +88,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-      "processed": "2026-02-19T12:00:17.698248"
+      "processed": "2026-02-20T12:00:24.098337"
     },
     "notes/All Kings.md": {
-      "hash": "1a8f568db6884434133135ef0671fa25",
+      "hash": "adf6a71edbe5c6bb2fdc7fe60803dd39",
       "themes": [
         "references",
         "research",
@@ -102,17 +102,17 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-      "processed": "2026-02-19T12:00:17.698651"
+      "processed": "2026-02-20T12:00:24.098729"
     }
   },
   "patterns_detected": [
     {
       "keyword": "palantir",
-      "count": 43
+      "count": 44
     },
     {
       "keyword": "surveillance",
-      "count": 35
+      "count": 37
     },
     {
       "keyword": "thiel",
@@ -135,12 +135,12 @@
       "count": 23
     },
     {
-      "keyword": "products",
+      "keyword": "notes",
       "count": 22
     },
     {
-      "keyword": "notes",
-      "count": 21
+      "keyword": "products",
+      "count": 22
     },
     {
       "keyword": "agent",
