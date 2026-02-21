@@ -41,7 +41,7 @@ This note presents a roster of the most powerful figures in technology, finance,
 
 ## Tags
 
-#power-networks #tech-elite #finance #politics #surveillance #peter-thiel #jamie-dimon #larry-ellison #elon-musk #larry-fink #bill-gates #mark-zuckerberg #jd-vance #institutional-power
+#power-networks #tech-elite #finance #politics #surveillance #peter-thiel #jamie-dimon #larry-ellison #elon-musk #larry-fink #bill-gates #mark-zuckerberg #jd-vance #institutional-power #venture-capital #silicon-valley
 
 ## Related Notes
 

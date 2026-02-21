@@ -39,7 +39,7 @@ This note documents research into the historical collaboration between U.S. inte
 
 ## Tags
 
-#surveillance #intelligence #cia #ngo #power-networks #institutional-power #cold-war #tech-ecosystem #research
+#surveillance #intelligence #cia #ngo #power-networks #institutional-power #cold-war #tech-ecosystem #research #liberal-cia #government-tech-pipeline
 
 ## Related Notes
 

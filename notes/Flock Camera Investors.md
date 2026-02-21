@@ -48,7 +48,7 @@ This note catalogs the investor list for Flock Safety, a surveillance technology
 
 ## Tags
 
-#flock-safety #surveillance #venture-capital #a16z #founders-fund #peter-thiel #y-combinator #law-enforcement #license-plate-readers #investment-patterns
+#flock-safety #surveillance #venture-capital #a16z #founders-fund #peter-thiel #y-combinator #law-enforcement #license-plate-readers #investment-patterns #tiger-global #defense-tech
 
 ## Related Notes
 

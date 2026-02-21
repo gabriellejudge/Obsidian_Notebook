@@ -48,7 +48,7 @@ This note analyzes LinkedIn as more than a professional networking platform, fra
 
 ## Tags
 
-#linkedin #microsoft #surveillance #data-aggregation #professional-network #national-security #media-influence #social-networking #work-culture
+#linkedin #microsoft #surveillance #data-aggregation #professional-network #national-security #media-influence #social-networking #work-culture #bill-gates #platform-power
 
 ## Related Notes
 
