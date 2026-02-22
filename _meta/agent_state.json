@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-02-21T18:00:19.338351",
+  "last_run": "2026-02-22T00:00:17.053011",
   "processed_notes": {
     "README.md": {
       "hash": "85a6cd2aee1940486770097d5141daaf",
@@ -16,10 +16,10 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
-      "processed": "2026-02-21T18:00:19.334880"
+      "processed": "2026-02-22T00:00:17.049313"
     },
     "notes/Corporate Cabal.md": {
-      "hash": "576c89f34bbde05c413062f5e5094116",
+      "hash": "cd0d600221281037a38033e79b58d3d9",
       "themes": [
         "ideas",
         "references",
@@ -31,7 +31,7 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
-      "processed": "2026-02-21T18:00:19.335269"
+      "processed": "2026-02-22T00:00:17.049765"
     },
     "notes/Palantir Products.md": {
       "hash": "7062d911c8cbc247eb84a19994c00da3",
@@ -45,7 +45,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
-      "processed": "2026-02-21T18:00:19.335674"
+      "processed": "2026-02-22T00:00:17.050213"
     },
     "notes/Palantir Origin Story.md": {
       "hash": "3f0f4f2541cb94603da065f5829e9bcb",
@@ -60,10 +60,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-      "processed": "2026-02-21T18:00:19.336137"
+      "processed": "2026-02-22T00:00:17.050624"
     },
     "notes/Flock Camera Investors.md": {
-      "hash": "347ab47b0f37ff05a19ae428e7c28e61",
+      "hash": "439b70649196fcccaec5afc155c4fe82",
       "themes": [
         "references",
         "research",
@@ -74,10 +74,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
-      "processed": "2026-02-21T18:00:19.336528"
+      "processed": "2026-02-22T00:00:17.051033"
     },
     "notes/LinkedIn.md": {
-      "hash": "efbb290181a9cc25066ee12629d19064",
+      "hash": "ca7635947bf4020ab61eec2dca1f1089",
       "themes": [
         "references",
         "research",
@@ -88,10 +88,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-      "processed": "2026-02-21T18:00:19.336900"
+      "processed": "2026-02-22T00:00:17.051431"
     },
     "notes/All Kings.md": {
-      "hash": "0e255c5e63fd8f256c61ffa96c6490b4",
+      "hash": "41f553d2cd0197e7f8241a8bfde5d6bd",
       "themes": [
         "references",
         "research",
@@ -102,7 +102,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-      "processed": "2026-02-21T18:00:19.337265"
+      "processed": "2026-02-22T00:00:17.051810"
     }
   },
   "patterns_detected": [
@@ -120,7 +120,11 @@
     },
     {
       "keyword": "tech",
-      "count": 25
+      "count": 27
+    },
+    {
+      "keyword": "government",
+      "count": 24
     },
     {
       "keyword": "peter",
@@ -128,10 +132,6 @@
     },
     {
       "keyword": "data",
-      "count": 23
-    },
-    {
-      "keyword": "government",
       "count": 23
     },
     {
@@ -143,8 +143,8 @@
       "count": 22
     },
     {
-      "keyword": "agent",
-      "count": 20
+      "keyword": "power",
+      "count": 21
     }
   ],
   "emerging_themes": [
