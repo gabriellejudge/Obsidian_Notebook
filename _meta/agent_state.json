@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-02-22T06:00:17.643666",
+  "last_run": "2026-02-23T00:00:22.262955",
   "processed_notes": {
     "README.md": {
       "hash": "c0653482cecc2b43fd82bf74c8d8725a",
@@ -16,7 +16,7 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
-      "processed": "2026-02-22T06:00:17.640342"
+      "processed": "2026-02-23T00:00:22.259103"
     },
     "notes/Corporate Cabal.md": {
       "hash": "80dbb9bef719ddb6c78f5726aa71be79",
@@ -31,7 +31,7 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
-      "processed": "2026-02-22T06:00:17.640707"
+      "processed": "2026-02-23T00:00:22.259549"
     },
     "notes/Palantir Products.md": {
       "hash": "37bea152820790e587101bd75544b7f7",
@@ -45,7 +45,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
-      "processed": "2026-02-22T06:00:17.641097"
+      "processed": "2026-02-23T00:00:22.259994"
     },
     "notes/Palantir Origin Story.md": {
       "hash": "e9c0b00d1f69820319d90da1324b7aae",
@@ -60,7 +60,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-      "processed": "2026-02-22T06:00:17.641477"
+      "processed": "2026-02-23T00:00:22.260425"
     },
     "notes/Flock Camera Investors.md": {
       "hash": "3b8b12822402737a7b17b62067ba27cc",
@@ -74,7 +74,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
-      "processed": "2026-02-22T06:00:17.641851"
+      "processed": "2026-02-23T00:00:22.260850"
     },
     "notes/LinkedIn.md": {
       "hash": "d2320a051c48c3e4be2548f0ba127476",
@@ -88,7 +88,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-      "processed": "2026-02-22T06:00:17.642214"
+      "processed": "2026-02-23T00:00:22.261257"
     },
     "notes/All Kings.md": {
       "hash": "e46ae95e4b2460db5fbedfee1fc90653",
@@ -102,7 +102,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-      "processed": "2026-02-22T06:00:17.642584"
+      "processed": "2026-02-23T00:00:22.261672"
     }
   },
   "patterns_detected": [
