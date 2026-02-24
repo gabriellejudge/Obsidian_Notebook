@@ -24,29 +24,6 @@
       "agent"
     ]
   },
-  "notes/Corporate Cabal.md": {
-    "title": "Corporate Cabal",
-    "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
-    "themes": [
-      "ideas",
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "corporate",
-      "cabal",
-      "summary",
-      "reference",
-      "research",
-      "networks",
-      "connecting",
-      "intelligence",
-      "agencies",
-      "cia"
-    ]
-  },
   "notes/Palantir Products.md": {
     "title": "Palantir Products",
     "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
@@ -114,26 +91,27 @@
       "technology"
     ]
   },
-  "notes/LinkedIn.md": {
-    "title": "LinkedIn",
-    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
+  "notes/Corporate Cabal.md": {
+    "title": "Corporate Cabal",
+    "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
     "themes": [
+      "ideas",
       "references",
       "research",
       "learning",
       "creative"
     ],
     "keywords": [
-      "linkedin",
+      "corporate",
+      "cabal",
       "summary",
-      "analysis",
-      "linkedin",
-      "more",
-      "professional",
-      "network",
-      "viewing",
-      "national",
-      "security"
+      "reference",
+      "research",
+      "networks",
+      "connecting",
+      "intelligence",
+      "agencies",
+      "cia"
     ]
   },
   "notes/All Kings.md": {
@@ -156,6 +134,28 @@
       "finance",
       "politics",
       "who"
+    ]
+  },
+  "notes/LinkedIn.md": {
+    "title": "LinkedIn",
+    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "linkedin",
+      "summary",
+      "analysis",
+      "linkedin",
+      "more",
+      "professional",
+      "network",
+      "viewing",
+      "national",
+      "security"
     ]
   }
 }
