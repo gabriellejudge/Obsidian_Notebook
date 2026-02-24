@@ -24,9 +24,9 @@
       "agent"
     ]
   },
-  "notes/Palantir Products.md": {
-    "title": "Palantir Products",
-    "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
+  "notes/Flock Camera Investors.md": {
+    "title": "Flock Camera Investors",
+    "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
     "themes": [
       "references",
       "research",
@@ -34,16 +34,16 @@
       "creative"
     ],
     "keywords": [
-      "palantir",
-      "products",
+      "flock",
+      "camera",
+      "investors",
       "summary",
-      "overview",
-      "palantir",
-      "three",
-      "core",
-      "products",
-      "gotham",
-      "foundry"
+      "investor",
+      "list",
+      "flock",
+      "safety",
+      "surveillance",
+      "technology"
     ]
   },
   "notes/Palantir Origin Story.md": {
@@ -69,9 +69,9 @@
       "darpa"
     ]
   },
-  "notes/Flock Camera Investors.md": {
-    "title": "Flock Camera Investors",
-    "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
+  "notes/Palantir Products.md": {
+    "title": "Palantir Products",
+    "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
     "themes": [
       "references",
       "research",
@@ -79,16 +79,38 @@
       "creative"
     ],
     "keywords": [
-      "flock",
-      "camera",
-      "investors",
+      "palantir",
+      "products",
       "summary",
-      "investor",
-      "list",
-      "flock",
-      "safety",
-      "surveillance",
-      "technology"
+      "overview",
+      "palantir",
+      "three",
+      "core",
+      "products",
+      "gotham",
+      "foundry"
+    ]
+  },
+  "notes/LinkedIn.md": {
+    "title": "LinkedIn",
+    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "linkedin",
+      "summary",
+      "analysis",
+      "linkedin",
+      "more",
+      "professional",
+      "network",
+      "viewing",
+      "national",
+      "security"
     ]
   },
   "notes/Corporate Cabal.md": {
@@ -134,28 +156,6 @@
       "finance",
       "politics",
       "who"
-    ]
-  },
-  "notes/LinkedIn.md": {
-    "title": "LinkedIn",
-    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "linkedin",
-      "summary",
-      "analysis",
-      "linkedin",
-      "more",
-      "professional",
-      "network",
-      "viewing",
-      "national",
-      "security"
     ]
   }
 }
