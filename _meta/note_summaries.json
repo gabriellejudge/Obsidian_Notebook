@@ -24,26 +24,27 @@
       "agent"
     ]
   },
-  "notes/LinkedIn.md": {
-    "title": "LinkedIn",
-    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
+  "notes/Corporate Cabal.md": {
+    "title": "Corporate Cabal",
+    "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
     "themes": [
+      "ideas",
       "references",
       "research",
       "learning",
       "creative"
     ],
     "keywords": [
-      "linkedin",
+      "corporate",
+      "cabal",
       "summary",
-      "analysis",
-      "linkedin",
-      "more",
-      "professional",
-      "network",
-      "viewing",
-      "national",
-      "security"
+      "reference",
+      "research",
+      "networks",
+      "connecting",
+      "intelligence",
+      "agencies",
+      "cia"
     ]
   },
   "notes/Palantir Products.md": {
@@ -68,6 +69,29 @@
       "foundry"
     ]
   },
+  "notes/Palantir Origin Story.md": {
+    "title": "Palantir Origin Story",
+    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "meeting",
+      "creative"
+    ],
+    "keywords": [
+      "palantir",
+      "origin",
+      "story",
+      "summary",
+      "documents",
+      "founding",
+      "connection",
+      "between",
+      "palantir",
+      "darpa"
+    ]
+  },
   "notes/Flock Camera Investors.md": {
     "title": "Flock Camera Investors",
     "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
@@ -90,6 +114,28 @@
       "technology"
     ]
   },
+  "notes/LinkedIn.md": {
+    "title": "LinkedIn",
+    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "linkedin",
+      "summary",
+      "analysis",
+      "linkedin",
+      "more",
+      "professional",
+      "network",
+      "viewing",
+      "national",
+      "security"
+    ]
+  },
   "notes/All Kings.md": {
     "title": "All Kings",
     "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
@@ -110,52 +156,6 @@
       "finance",
       "politics",
       "who"
-    ]
-  },
-  "notes/Corporate Cabal.md": {
-    "title": "Corporate Cabal",
-    "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
-    "themes": [
-      "ideas",
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "corporate",
-      "cabal",
-      "summary",
-      "reference",
-      "research",
-      "networks",
-      "connecting",
-      "intelligence",
-      "agencies",
-      "cia"
-    ]
-  },
-  "notes/Palantir Origin Story.md": {
-    "title": "Palantir Origin Story",
-    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "meeting",
-      "creative"
-    ],
-    "keywords": [
-      "palantir",
-      "origin",
-      "story",
-      "summary",
-      "documents",
-      "founding",
-      "connection",
-      "between",
-      "palantir",
-      "darpa"
     ]
   }
 }
