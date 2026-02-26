@@ -24,9 +24,9 @@
       "agent"
     ]
   },
-  "notes/All Kings.md": {
-    "title": "All Kings",
-    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
+  "notes/Palantir Products.md": {
+    "title": "Palantir Products",
+    "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
     "themes": [
       "references",
       "research",
@@ -34,16 +34,16 @@
       "creative"
     ],
     "keywords": [
-      "kings",
+      "palantir",
+      "products",
       "summary",
-      "roster",
-      "most",
-      "powerful",
-      "figures",
-      "technology",
-      "finance",
-      "politics",
-      "who"
+      "overview",
+      "palantir",
+      "three",
+      "core",
+      "products",
+      "gotham",
+      "foundry"
     ]
   },
   "notes/Palantir Origin Story.md": {
@@ -92,9 +92,9 @@
       "cia"
     ]
   },
-  "notes/Palantir Products.md": {
-    "title": "Palantir Products",
-    "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
+  "notes/All Kings.md": {
+    "title": "All Kings",
+    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
     "themes": [
       "references",
       "research",
@@ -102,16 +102,16 @@
       "creative"
     ],
     "keywords": [
-      "palantir",
-      "products",
+      "kings",
       "summary",
-      "overview",
-      "palantir",
-      "three",
-      "core",
-      "products",
-      "gotham",
-      "foundry"
+      "roster",
+      "most",
+      "powerful",
+      "figures",
+      "technology",
+      "finance",
+      "politics",
+      "who"
     ]
   },
   "notes/Flock Camera Investors.md": {
