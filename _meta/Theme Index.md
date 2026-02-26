@@ -1,41 +1,61 @@
 # Vault Theme Index
 
-_Last updated: 2026-02-26 12:00_
+_Last updated: 2026-02-26 18:00_
 
-## Surveillance Technology
-Notes exploring surveillance systems, tools, and their adoption.
+## Creative
 
-- [[Palantir Products]] — Intelligence/defense analytics platform suite (Gotham, Foundry, Apollo)
-- [[Palantir Origin Story]] — DARPA TIA program origins of modern surveillance tech
-- [[Flock Camera Investors]] — VC-funded license plate reader and camera surveillance startup
-- [[LinkedIn]] — Professional data platform analyzed as a surveillance and national security asset
+- [[README]]
+- [[LinkedIn]]
+- [[Flock Camera Investors]]
+- [[Palantir Products]]
+- [[All Kings]]
+- [[Palantir Origin Story]]
+- [[Corporate Cabal]]
 
-## Power Networks & Institutional Influence
-Notes mapping concentrations of power across technology, finance, and politics.
+## Ideas
 
-- [[All Kings]] — Roster of key figures in tech, finance, and politics shaping global systems
-- [[Corporate Cabal]] — CIA/NGO institutional power networks and the "Liberal CIA" concept
-- [[LinkedIn]] — Platform power over professional identity and discourse
+- [[README]]
+- [[Corporate Cabal]]
 
-## Government-Private Sector Pipeline
-Notes documenting the flow of surveillance capabilities from government programs to private companies.
+## Learning
 
-- [[Palantir Origin Story]] — DARPA TIA → Palantir privatization pipeline
-- [[Corporate Cabal]] — Intelligence agency collaboration with NGOs and private entities
-- [[Flock Camera Investors]] — Defense tech VC funding patterns connecting government and startups
-- [[Palantir Products]] — Commercial products derived from intelligence community methodologies
+- [[README]]
+- [[LinkedIn]]
+- [[Flock Camera Investors]]
+- [[Palantir Products]]
+- [[All Kings]]
+- [[Palantir Origin Story]]
+- [[Corporate Cabal]]
 
-## Venture Capital & Investment Patterns
-Notes tracking VC involvement in surveillance and defense technology.
+## Meeting
 
-- [[Flock Camera Investors]] — Investor analysis: a16z, Founders Fund, Tiger Global, Y Combinator
-- [[All Kings]] — Peter Thiel and tech elite as investors and founders
-- [[Palantir Origin Story]] — Founders Fund (Thiel) bridging Silicon Valley and intelligence community
+- [[Palantir Origin Story]]
 
-## Data Platforms & Aggregation
-Notes examining platforms that collect and analyze large-scale human data.
+## Personal
 
-- [[Palantir Products]] — Enterprise and defense data integration platform
-- [[LinkedIn]] — Professional data on hundreds of millions of workers
-- [[Flock Camera Investors]] — License plate and location data collection at scale
+- [[README]]
+
+## Projects
+
+- [[README]]
+
+## References
+
+- [[README]]
+- [[LinkedIn]]
+- [[Flock Camera Investors]]
+- [[Palantir Products]]
+- [[All Kings]]
+- [[Palantir Origin Story]]
+- [[Corporate Cabal]]
+
+## Research
+
+- [[README]]
+- [[LinkedIn]]
+- [[Flock Camera Investors]]
+- [[Palantir Products]]
+- [[All Kings]]
+- [[Palantir Origin Story]]
+- [[Corporate Cabal]]
 
