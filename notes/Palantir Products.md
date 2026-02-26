@@ -55,7 +55,7 @@ This note provides a comprehensive overview of Palantir's core product suite: Go
 
 ## Tags
 
-#palantir #surveillance #data-analytics #gotham #foundry #apollo #defense-tech #enterprise #intelligence #government-contracts
+#palantir #surveillance #data-analytics #gotham #foundry #apollo #defense-tech #enterprise #intelligence #government-contracts #government-tech-pipeline #data-integration
 
 ## Related Notes
 
