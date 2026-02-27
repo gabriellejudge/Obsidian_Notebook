@@ -2,60 +2,51 @@
 
 _Last updated: 2026-02-27 12:00_
 
-## Creative
+Notes grouped by content theme. A note may appear under multiple themes.
 
-- [[README]]
-- [[All Kings]]
-- [[Palantir Origin Story]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
+## Surveillance Technology
 
-## Ideas
+Notes examining surveillance systems, tools, and their deployment:
 
-- [[README]]
-- [[Corporate Cabal]]
+- [[Palantir Products]] — Gotham, Foundry, and Apollo product suite for intelligence and defense
+- [[Palantir Origin Story]] — DARPA TIA origins and government-to-startup pipeline
+- [[Flock Camera Investors]] — Flock Safety's license plate reader investor ecosystem
+- [[LinkedIn]] — Professional data platform as national security asset
 
-## Learning
+## Power Networks & Elite Figures
 
-- [[README]]
-- [[All Kings]]
-- [[Palantir Origin Story]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
+Notes mapping influential individuals and institutional power:
 
-## Meeting
+- [[All Kings]] — Roster of powerful figures across tech, finance, and politics
+- [[Corporate Cabal]] — CIA/NGO institutional power structures and modern equivalents
+- [[Palantir Origin Story]] — Peter Thiel bridging Silicon Valley and the intelligence community
 
-- [[Palantir Origin Story]]
+## Government–Private Sector Pipeline
 
-## Personal
+Notes tracing how government programs become commercial ventures:
 
-- [[README]]
+- [[Palantir Origin Story]] — DARPA TIA → Palantir privatization
+- [[Corporate Cabal]] — Historical intelligence agency collaboration with private entities
+- [[Palantir Products]] — Defense/intelligence tools deployed as enterprise products
+- [[Flock Camera Investors]] — VC-funded surveillance serving law enforcement
 
-## Projects
+## Data Aggregation & Platform Power
 
-- [[README]]
+Notes exploring platforms that collect and analyze human data at scale:
 
-## References
+- [[LinkedIn]] — Professional identity and intelligence convergence
+- [[Palantir Products]] — Data integration across intelligence and enterprise
+- [[Flock Camera Investors]] — License plate surveillance data collection
 
-- [[README]]
-- [[All Kings]]
-- [[Palantir Origin Story]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
+## Venture Capital & Investment Patterns
 
-## Research
+Notes documenting how VC funding shapes the surveillance-tech landscape:
 
-- [[README]]
-- [[All Kings]]
-- [[Palantir Origin Story]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
+- [[Flock Camera Investors]] — a16z, Founders Fund, Tiger Global, Y Combinator backing Flock Safety
+- [[All Kings]] — Peter Thiel's Founders Fund as a connecting node
+- [[Palantir Origin Story]] — VC role in commercializing government technology
+
+## Vault Documentation
+
+- [[README]] — Vault structure, agent configuration, and usage guide
 
