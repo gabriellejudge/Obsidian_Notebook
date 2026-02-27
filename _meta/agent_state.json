@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-02-27T12:00:25.480331",
+  "last_run": "2026-02-27T18:00:43.568856",
   "processed_notes": {
     "README.md": {
-      "hash": "8520fc740af687ade2c5ecc3f3805874",
+      "hash": "c638537cc1a7cd7b40ef397a8577a33d",
       "themes": [
         "ideas",
         "references",
@@ -16,10 +16,10 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
-      "processed": "2026-02-27T12:00:25.477044"
+      "processed": "2026-02-27T18:00:43.562920"
     },
     "notes/Corporate Cabal.md": {
-      "hash": "fa3b471b27a6ec5a4c818d2fc3cd4d12",
+      "hash": "7ff345c3efbb70133c01a7de8a6cb345",
       "themes": [
         "ideas",
         "references",
@@ -31,10 +31,10 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
-      "processed": "2026-02-27T12:00:25.478162"
+      "processed": "2026-02-27T18:00:43.564266"
     },
     "notes/Palantir Products.md": {
-      "hash": "5f5dfb55d430e6c4b4949bd386b1e182",
+      "hash": "e85c4b4f12bce0ff67f2483977ebb0db",
       "themes": [
         "references",
         "research",
@@ -45,10 +45,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
-      "processed": "2026-02-27T12:00:25.478552"
+      "processed": "2026-02-27T18:00:43.563676"
     },
     "notes/Palantir Origin Story.md": {
-      "hash": "4787b90f86f62158a9c7c7ced761bb5b",
+      "hash": "85f52031aa562749e4009f97369006cc",
       "themes": [
         "references",
         "research",
@@ -60,10 +60,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-      "processed": "2026-02-27T12:00:25.477843"
+      "processed": "2026-02-27T18:00:43.566199"
     },
     "notes/Flock Camera Investors.md": {
-      "hash": "b0f0673797d3016089e94a3d792c8b65",
+      "hash": "ce9611dc53b6168d20c5f1fc11944db8",
       "themes": [
         "references",
         "research",
@@ -74,10 +74,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
-      "processed": "2026-02-27T12:00:25.478944"
+      "processed": "2026-02-27T18:00:43.565545"
     },
     "notes/LinkedIn.md": {
-      "hash": "42af591fae71429281125308fc954e36",
+      "hash": "af7140c5726fda7940aa58c376c8d058",
       "themes": [
         "references",
         "research",
@@ -88,10 +88,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-      "processed": "2026-02-27T12:00:25.479299"
+      "processed": "2026-02-27T18:00:43.566819"
     },
     "notes/All Kings.md": {
-      "hash": "674036a42514a98ff29be5c661ab3d78",
+      "hash": "ee315af302be8181925af4d7e6198b14",
       "themes": [
         "references",
         "research",
@@ -102,7 +102,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-      "processed": "2026-02-27T12:00:25.477450"
+      "processed": "2026-02-27T18:00:43.564878"
     }
   },
   "patterns_detected": [
