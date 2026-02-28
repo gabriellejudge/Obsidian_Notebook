@@ -1,7 +1,7 @@
 ---
-oz_tags: [ideas, personal, projects, creative, intent:note]
+oz_tags: [ideas, personal, projects, research, learning, creative, intent:note]
 oz_created: 2026-02-10
-oz_updated: 2026-02-10
+oz_updated: 2026-02-28
 ---
 # Morning Reflection - February 10
 

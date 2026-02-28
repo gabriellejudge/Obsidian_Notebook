@@ -1,7 +1,7 @@
 ---
-oz_tags: [ideas, drafts, personal, learning, creative, intent:question]
+oz_tags: [ideas, drafts, personal, research, learning, creative, intent:question]
 oz_created: 2026-02-10
-oz_updated: 2026-02-10
+oz_updated: 2026-02-28
 ---
 # AI Writing Assistant Idea
 

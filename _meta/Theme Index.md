@@ -1,69 +1,87 @@
 # Vault Theme Index
 
-_Last updated: 2026-02-28 12:00_
+_Last updated: 2026-02-28 18:00_
 
-Notes grouped by content theme. A note may appear under multiple themes.
+## Creative
 
-## Surveillance Technology
+- [[README]]
+- [[Personal Knowledge Management]]
+- [[LinkedIn]]
+- [[AI Writing Assistant Idea]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[2024-02-10 Morning Reflection]]
+- [[Flock Camera Investors]]
+- [[All Kings]]
+- [[Corporate Cabal]]
+- [[Research - Note-Taking Studies]]
 
-Notes examining surveillance systems, tools, and their deployment:
+## Drafts
 
-- [[Palantir Products]] — Gotham, Foundry, and Apollo product suite for intelligence and defense
-- [[Palantir Origin Story]] — DARPA TIA origins and government-to-startup pipeline
-- [[Flock Camera Investors]] — Flock Safety's license plate reader investor ecosystem
-- [[LinkedIn]] — Professional data platform as national security asset
+- [[AI Writing Assistant Idea]]
 
-## Power Networks & Elite Figures
+## Ideas
 
-Notes mapping influential individuals and institutional power:
+- [[README]]
+- [[Personal Knowledge Management]]
+- [[AI Writing Assistant Idea]]
+- [[2024-02-10 Morning Reflection]]
+- [[Corporate Cabal]]
+- [[Research - Note-Taking Studies]]
 
-- [[All Kings]] — Roster of powerful figures across tech, finance, and politics
-- [[Corporate Cabal]] — CIA/NGO institutional power structures and modern equivalents
-- [[Palantir Origin Story]] — Peter Thiel bridging Silicon Valley and the intelligence community
+## Learning
 
-## Government–Private Sector Pipeline
+- [[README]]
+- [[Personal Knowledge Management]]
+- [[LinkedIn]]
+- [[AI Writing Assistant Idea]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[2024-02-10 Morning Reflection]]
+- [[Flock Camera Investors]]
+- [[All Kings]]
+- [[Corporate Cabal]]
+- [[Research - Note-Taking Studies]]
 
-Notes tracing how government programs become commercial ventures:
+## Meeting
 
-- [[Palantir Origin Story]] — DARPA TIA → Palantir privatization
-- [[Corporate Cabal]] — Historical intelligence agency collaboration with private entities
-- [[Palantir Products]] — Defense/intelligence tools deployed as enterprise products
-- [[Flock Camera Investors]] — VC-funded surveillance serving law enforcement
+- [[Palantir Origin Story]]
 
-## Data Aggregation & Platform Power
+## Personal
 
-Notes exploring platforms that collect and analyze human data at scale:
+- [[README]]
+- [[Personal Knowledge Management]]
+- [[AI Writing Assistant Idea]]
+- [[2024-02-10 Morning Reflection]]
+- [[Research - Note-Taking Studies]]
 
-- [[LinkedIn]] — Professional identity and intelligence convergence
-- [[Palantir Products]] — Data integration across intelligence and enterprise
-- [[Flock Camera Investors]] — License plate surveillance data collection
+## Projects
 
-## Venture Capital & Investment Patterns
+- [[README]]
+- [[2024-02-10 Morning Reflection]]
 
-Notes documenting how VC funding shapes the surveillance-tech landscape:
+## References
 
-- [[Flock Camera Investors]] — a16z, Founders Fund, Tiger Global, Y Combinator backing Flock Safety
-- [[All Kings]] — Peter Thiel's Founders Fund as a connecting node
-- [[Palantir Origin Story]] — VC role in commercializing government technology
+- [[README]]
+- [[Personal Knowledge Management]]
+- [[LinkedIn]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[All Kings]]
+- [[Corporate Cabal]]
 
-## Personal Knowledge Management
+## Research
 
-Notes on building and maintaining a personal knowledge system:
-
-- [[Personal Knowledge Management]] — PKM principles, tools, and challenges
-- [[Research - Note-Taking Studies]] — Research findings on generation effect, spacing, and retrieval practice
-- [[2024-02-10 Morning Reflection]] — Personal motivation for building better note organization systems
-
-## AI & Tool Augmentation
-
-Notes exploring how AI can enhance thinking and knowledge work:
-
-- [[AI Writing Assistant Idea]] — Concept for a context-aware writing assistant that understands intent
-- [[Personal Knowledge Management]] — Automated agents as part of the PKM toolchain
-- [[Research - Note-Taking Studies]] — Questions about AI augmentation and the generation effect
-
-## Vault Documentation
-
-- [[README]] — Vault structure, agent configuration, and usage guide
-- [[README]] also cross-references: [[Personal Knowledge Management]], [[AI Writing Assistant Idea]], [[Research - Note-Taking Studies]], [[2024-02-10 Morning Reflection]]
+- [[README]]
+- [[Personal Knowledge Management]]
+- [[LinkedIn]]
+- [[AI Writing Assistant Idea]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[2024-02-10 Morning Reflection]]
+- [[Flock Camera Investors]]
+- [[All Kings]]
+- [[Corporate Cabal]]
+- [[Research - Note-Taking Studies]]
 
