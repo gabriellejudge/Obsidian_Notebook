@@ -145,6 +145,10 @@ This note serves as the documentation hub for the Obsidian vault, explaining how
 
 ## Related Notes
 
+- [[Personal Knowledge Management]] - Core PKM principles that this vault and agent system implement
+- [[AI Writing Assistant Idea]] - Context-aware AI concept closely aligned with this agent's approach
+- [[Research - Note-Taking Studies]] - Research evidence supporting the automated organization this agent provides
+- [[2024-02-10 Morning Reflection]] - Personal motivation behind building this AI-powered organization system
 - [[Palantir Products]] - Data integration and analysis platforms that parallel the agent's note organization capabilities
 - [[Palantir Origin Story]] - Founding narrative demonstrating the interconnected research this vault organizes
 - [[LinkedIn]] - Example of a data aggregation platform discussed in this vault

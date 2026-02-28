@@ -1,6 +1,6 @@
 # Vault Theme Index
 
-_Last updated: 2026-02-28 06:00_
+_Last updated: 2026-02-28 12:00_
 
 Notes grouped by content theme. A note may appear under multiple themes.
 
@@ -65,4 +65,5 @@ Notes exploring how AI can enhance thinking and knowledge work:
 ## Vault Documentation
 
 - [[README]] — Vault structure, agent configuration, and usage guide
+- [[README]] also cross-references: [[Personal Knowledge Management]], [[AI Writing Assistant Idea]], [[Research - Note-Taking Studies]], [[2024-02-10 Morning Reflection]]
 

@@ -1,6 +1,6 @@
 # Vault Insights
 
-_Generated: 2026-02-28 06:00_
+_Generated: 2026-02-28 12:00_
 
 ## Overview
 
@@ -77,7 +77,7 @@ The vault contains two note clusters:
 
 **PKM cluster** (4 notes): Fully interconnected within the cluster. Each note links to all 3 other notes in its Related Notes section.
 
-The README links to all 6 surveillance research notes. The two clusters are not directly cross-linked, but share the meta-theme of information organization.
+The README links to all 6 surveillance research notes and all 4 PKM cluster notes, serving as the only note that bridges both clusters. This cross-linking reflects the shared meta-theme of information organization.
 
 Most connected notes:
 1. [[All Kings]] — Referenced by all other surveillance notes; serves as the central power roster
