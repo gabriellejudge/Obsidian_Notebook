@@ -1,6 +1,6 @@
 # Vault Theme Index
 
-_Last updated: 2026-02-28 00:00_
+_Last updated: 2026-02-28 06:00_
 
 Notes grouped by content theme. A note may appear under multiple themes.
 
@@ -45,6 +45,22 @@ Notes documenting how VC funding shapes the surveillance-tech landscape:
 - [[Flock Camera Investors]] — a16z, Founders Fund, Tiger Global, Y Combinator backing Flock Safety
 - [[All Kings]] — Peter Thiel's Founders Fund as a connecting node
 - [[Palantir Origin Story]] — VC role in commercializing government technology
+
+## Personal Knowledge Management
+
+Notes on building and maintaining a personal knowledge system:
+
+- [[Personal Knowledge Management]] — PKM principles, tools, and challenges
+- [[Research - Note-Taking Studies]] — Research findings on generation effect, spacing, and retrieval practice
+- [[2024-02-10 Morning Reflection]] — Personal motivation for building better note organization systems
+
+## AI & Tool Augmentation
+
+Notes exploring how AI can enhance thinking and knowledge work:
+
+- [[AI Writing Assistant Idea]] — Concept for a context-aware writing assistant that understands intent
+- [[Personal Knowledge Management]] — Automated agents as part of the PKM toolchain
+- [[Research - Note-Taking Studies]] — Questions about AI augmentation and the generation effect
 
 ## Vault Documentation
 
