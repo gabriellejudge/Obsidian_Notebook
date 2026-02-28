@@ -24,9 +24,9 @@
       "agent"
     ]
   },
-  "notes/Palantir Products.md": {
-    "title": "Palantir Products",
-    "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
+  "notes/All Kings.md": {
+    "title": "All Kings",
+    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
     "themes": [
       "references",
       "research",
@@ -34,16 +34,39 @@
       "creative"
     ],
     "keywords": [
-      "palantir",
-      "products",
+      "kings",
       "summary",
-      "overview",
+      "roster",
+      "most",
+      "powerful",
+      "figures",
+      "technology",
+      "finance",
+      "politics",
+      "who"
+    ]
+  },
+  "notes/Palantir Origin Story.md": {
+    "title": "Palantir Origin Story",
+    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "meeting",
+      "creative"
+    ],
+    "keywords": [
       "palantir",
-      "three",
-      "core",
-      "products",
-      "gotham",
-      "foundry"
+      "origin",
+      "story",
+      "summary",
+      "documents",
+      "founding",
+      "connection",
+      "between",
+      "palantir",
+      "darpa"
     ]
   },
   "notes/Corporate Cabal.md": {
@@ -69,9 +92,9 @@
       "cia"
     ]
   },
-  "notes/All Kings.md": {
-    "title": "All Kings",
-    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
+  "notes/Palantir Products.md": {
+    "title": "Palantir Products",
+    "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
     "themes": [
       "references",
       "research",
@@ -79,16 +102,16 @@
       "creative"
     ],
     "keywords": [
-      "kings",
+      "palantir",
+      "products",
       "summary",
-      "roster",
-      "most",
-      "powerful",
-      "figures",
-      "technology",
-      "finance",
-      "politics",
-      "who"
+      "overview",
+      "palantir",
+      "three",
+      "core",
+      "products",
+      "gotham",
+      "foundry"
     ]
   },
   "notes/Flock Camera Investors.md": {
@@ -111,29 +134,6 @@
       "safety",
       "surveillance",
       "technology"
-    ]
-  },
-  "notes/Palantir Origin Story.md": {
-    "title": "Palantir Origin Story",
-    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "meeting",
-      "creative"
-    ],
-    "keywords": [
-      "palantir",
-      "origin",
-      "story",
-      "summary",
-      "documents",
-      "founding",
-      "connection",
-      "between",
-      "palantir",
-      "darpa"
     ]
   },
   "notes/LinkedIn.md": {
