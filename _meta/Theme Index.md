@@ -1,87 +1,68 @@
 # Vault Theme Index
 
-_Last updated: 2026-03-01 00:00_
+_Last updated: 2026-03-01_
 
-## Creative
+Notes organized by content theme. A note may appear under multiple themes.
 
-- [[README]]
-- [[LinkedIn]]
-- [[All Kings]]
-- [[Palantir Origin Story]]
-- [[Personal Knowledge Management]]
-- [[AI Writing Assistant Idea]]
-- [[Flock Camera Investors]]
-- [[Palantir Products]]
-- [[Research - Note-Taking Studies]]
-- [[2024-02-10 Morning Reflection]]
-- [[Corporate Cabal]]
+---
 
-## Drafts
+## Surveillance & Intelligence
 
-- [[AI Writing Assistant Idea]]
+Notes examining surveillance technology, intelligence agencies, and the government-to-startup pipeline.
 
-## Ideas
+- [[Palantir Origin Story]] — Founding connection between Palantir and DARPA's Total Information Awareness program
+- [[Palantir Products]] — Gotham, Foundry, and Apollo product suite serving intelligence and enterprise clients
+- [[Flock Camera Investors]] — VC investor list for Flock Safety; mainstream acceptance of surveillance-as-a-service
+- [[LinkedIn]] — Analysis of LinkedIn as a national security asset and media controller
+- [[Corporate Cabal]] — CIA-NGO networks and institutional power structures
 
-- [[README]]
-- [[Personal Knowledge Management]]
-- [[AI Writing Assistant Idea]]
-- [[Research - Note-Taking Studies]]
-- [[2024-02-10 Morning Reflection]]
-- [[Corporate Cabal]]
+## Power Networks & Tech Elite
 
-## Learning
+Notes mapping concentrated power across technology, finance, and politics.
 
-- [[README]]
-- [[LinkedIn]]
-- [[All Kings]]
-- [[Palantir Origin Story]]
-- [[Personal Knowledge Management]]
-- [[AI Writing Assistant Idea]]
-- [[Flock Camera Investors]]
-- [[Palantir Products]]
-- [[Research - Note-Taking Studies]]
-- [[2024-02-10 Morning Reflection]]
-- [[Corporate Cabal]]
+- [[All Kings]] — Roster of powerful figures (Thiel, Musk, Dimon, Fink, Gates, Zuckerberg, Vance) and their overlapping influence
+- [[Corporate Cabal]] — Government-private sector networks and the "Liberal CIA" concept
+- [[Flock Camera Investors]] — How VC firms (Founders Fund, a16z, Y Combinator) connect private enterprise to government
+- [[LinkedIn]] — Tech platform as institutional power; Microsoft ownership
 
-## Meeting
+## Peter Thiel & Founders Fund Ecosystem
 
-- [[Palantir Origin Story]]
+Notes where Peter Thiel or Founders Fund appear as a connecting thread.
 
-## Personal
+- [[Palantir Origin Story]] — Thiel co-founded Palantir after meeting with DARPA's Poindexter
+- [[Palantir Products]] — Products of the Thiel-founded company
+- [[All Kings]] — Thiel as a central node connecting VC, tech, and politics (JD Vance, Musk)
+- [[Flock Camera Investors]] — Founders Fund invested in Flock Safety surveillance tech
 
-- [[README]]
-- [[Personal Knowledge Management]]
-- [[AI Writing Assistant Idea]]
-- [[Research - Note-Taking Studies]]
-- [[2024-02-10 Morning Reflection]]
+## Personal Knowledge Management
 
-## Projects
+Notes on PKM philosophy, tools, and the challenge of maintaining organized knowledge.
 
-- [[README]]
-- [[2024-02-10 Morning Reflection]]
+- [[Personal Knowledge Management]] — PKM principles: capture, process, connect, review
+- [[Research - Note-Taking Studies]] — Evidence base: generation effect, spacing effect, elaborative interrogation
+- [[AI Writing Assistant Idea]] — Concept for a context-aware writing tool that augments PKM
+- [[2024-02-10 Morning Reflection]] — Personal motivation to build systems over collecting information
 
-## References
+## AI & Automation
 
-- [[README]]
-- [[LinkedIn]]
-- [[All Kings]]
-- [[Palantir Origin Story]]
-- [[Personal Knowledge Management]]
-- [[Flock Camera Investors]]
-- [[Palantir Products]]
-- [[Corporate Cabal]]
+Notes exploring AI-assisted tools for thinking and writing.
 
-## Research
+- [[AI Writing Assistant Idea]] — Intent-aware writing assistant that learns from vault context
+- [[2024-02-10 Morning Reflection]] — Excitement about AI organizing notes in the background
+- [[README]] — Documentation for the AI-powered vault organization agent
 
-- [[README]]
-- [[LinkedIn]]
-- [[All Kings]]
-- [[Palantir Origin Story]]
-- [[Personal Knowledge Management]]
-- [[AI Writing Assistant Idea]]
-- [[Flock Camera Investors]]
-- [[Palantir Products]]
-- [[Research - Note-Taking Studies]]
-- [[2024-02-10 Morning Reflection]]
-- [[Corporate Cabal]]
+## Research & Evidence
 
+Notes grounded in external research, sources, or documented evidence.
+
+- [[Research - Note-Taking Studies]] — Cognitive science studies on note-taking effectiveness
+- [[Palantir Origin Story]] — Sourced from Washingtonian "Killer App" article (2012)
+- [[Corporate Cabal]] — Sourced from ISGP network analysis
+- [[Flock Camera Investors]] — Investor data from Flock Safety funding rounds
+
+## Personal Reflections & Journal
+
+Notes capturing the author's personal thoughts, intentions, and motivations.
+
+- [[2024-02-10 Morning Reflection]] — Morning journal: gratitude, intention-setting, motivation for note organization
+- [[Personal Knowledge Management]] — Author's own PKM principles and tool choices
