@@ -1,7 +1,7 @@
 {
   "README.md": {
     "title": "README",
-    "summary": "Documentation hub for the Obsidian vault, explaining how the AI-powered organization agent works, including folder structure, agent capabilities, configuration, and troubleshooting.",
+    "summary": "This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
     "themes": [
       "ideas",
       "references",
@@ -16,39 +16,17 @@
       "vault",
       "organization",
       "agent",
-      "automation",
-      "configuration",
-      "themes",
-      "summaries",
-      "patterns",
-      "metadata"
-    ]
-  },
-  "notes/LinkedIn.md": {
-    "title": "LinkedIn",
-    "summary": "Analysis of LinkedIn as more than a professional network, framing it as a national security asset and media controller that shapes the culture of work through data aggregation and algorithmic curation.",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "linkedin",
-      "microsoft",
-      "surveillance",
-      "data-aggregation",
-      "national-security",
-      "media-influence",
-      "professional-network",
-      "platform-power",
-      "work-culture",
-      "bill-gates"
+      "obsidian",
+      "vault",
+      "includes",
+      "powered",
+      "background",
+      "agent"
     ]
   },
   "notes/All Kings.md": {
     "title": "All Kings",
-    "summary": "A roster of the most powerful figures in technology, finance, and politics who shape global systems, mapping concentrated power and overlap between technology and government influence with Peter Thiel's network as a connecting thread.",
+    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
     "themes": [
       "references",
       "research",
@@ -56,21 +34,44 @@
       "creative"
     ],
     "keywords": [
-      "power-networks",
-      "tech-elite",
-      "peter-thiel",
-      "jamie-dimon",
-      "elon-musk",
-      "larry-fink",
-      "bill-gates",
-      "mark-zuckerberg",
-      "jd-vance",
-      "institutional-power"
+      "kings",
+      "summary",
+      "roster",
+      "most",
+      "powerful",
+      "figures",
+      "technology",
+      "finance",
+      "politics",
+      "who"
+    ]
+  },
+  "notes/Research - Note-Taking Studies.md": {
+    "title": "Research - Note-Taking Studies",
+    "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
+    "themes": [
+      "ideas",
+      "personal",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "research",
+      "note",
+      "taking",
+      "studies",
+      "collection",
+      "research",
+      "findings",
+      "effective",
+      "note",
+      "taking"
     ]
   },
   "notes/Palantir Origin Story.md": {
     "title": "Palantir Origin Story",
-    "summary": "Documents the founding meeting between Peter Thiel, Alex Karp, and Admiral John Poindexter that led to Palantir's creation as a privatized continuation of DARPA's defunded Total Information Awareness program.",
+    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
     "themes": [
       "references",
       "research",
@@ -80,44 +81,43 @@
     ],
     "keywords": [
       "palantir",
-      "darpa",
-      "tia",
-      "peter-thiel",
-      "alex-karp",
-      "poindexter",
-      "surveillance",
-      "intelligence",
-      "government-tech-pipeline",
-      "privatization"
+      "origin",
+      "story",
+      "summary",
+      "documents",
+      "founding",
+      "connection",
+      "between",
+      "palantir",
+      "darpa"
     ]
   },
-  "notes/Personal Knowledge Management.md": {
-    "title": "Personal Knowledge Management",
-    "summary": "Outlines the author's PKM system and philosophy: capture quickly, process regularly, connect actively, review periodically. Documents tools used (Obsidian, Git, automated agents) and identifies maintenance as the core challenge.",
+  "notes/Corporate Cabal.md": {
+    "title": "Corporate Cabal",
+    "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
     "themes": [
       "ideas",
       "references",
-      "personal",
       "research",
       "learning",
       "creative"
     ],
     "keywords": [
-      "pkm",
-      "knowledge-management",
-      "obsidian",
-      "zettelkasten",
-      "second-brain",
-      "note-taking",
-      "systems-thinking",
-      "automation",
-      "maintenance",
-      "organization"
+      "corporate",
+      "cabal",
+      "summary",
+      "reference",
+      "research",
+      "networks",
+      "connecting",
+      "intelligence",
+      "agencies",
+      "cia"
     ]
   },
   "notes/AI Writing Assistant Idea.md": {
     "title": "AI Writing Assistant Idea",
-    "summary": "Explores the concept of a writing assistant that goes beyond grammar correction to understand the author's intent and context from their vault, with context-aware suggestions and pattern learning.",
+    "summary": "This question explores ideas, drafts topics. What if we could build a writing assistant that doesn't just correct grammar, but actually understands the *intent* behind what you're trying to say?",
     "themes": [
       "ideas",
       "drafts",
@@ -127,43 +127,21 @@
       "creative"
     ],
     "keywords": [
-      "ai-assistant",
-      "writing-tools",
-      "pkm",
-      "context-awareness",
-      "product-idea",
-      "obsidian",
-      "intent-detection",
-      "knowledge-management",
-      "augmentation",
-      "vault"
-    ]
-  },
-  "notes/Flock Camera Investors.md": {
-    "title": "Flock Camera Investors",
-    "summary": "Catalogs the investor list for Flock Safety, demonstrating mainstream VC acceptance of surveillance-as-a-service, with emphasis on Founders Fund connecting Flock to the broader Palantir/Peter Thiel ecosystem.",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "flock-safety",
-      "surveillance",
-      "venture-capital",
-      "a16z",
-      "founders-fund",
-      "peter-thiel",
-      "y-combinator",
-      "law-enforcement",
-      "investment-patterns",
-      "defense-tech"
+      "writing",
+      "assistant",
+      "idea",
+      "build",
+      "writing",
+      "assistant",
+      "doesn",
+      "correct",
+      "grammar",
+      "actually"
     ]
   },
   "notes/Palantir Products.md": {
     "title": "Palantir Products",
-    "summary": "Overview of Palantir's core product suite: Gotham (intelligence/defense), Foundry (enterprise), and Apollo (deployment infrastructure), showing how they function as an integrated surveillance and data analytics ecosystem.",
+    "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
     "themes": [
       "references",
       "research",
@@ -172,43 +150,88 @@
     ],
     "keywords": [
       "palantir",
+      "products",
+      "summary",
+      "overview",
+      "palantir",
+      "three",
+      "core",
+      "products",
       "gotham",
-      "foundry",
-      "apollo",
-      "surveillance",
-      "data-analytics",
-      "defense-tech",
-      "intelligence",
-      "government-contracts",
-      "data-integration"
+      "foundry"
     ]
   },
-  "notes/Research - Note-Taking Studies.md": {
-    "title": "Research - Note-Taking Studies",
-    "summary": "Collection of research findings on effective note-taking, including the generation effect, spacing effect, and elaborative interrogation, building an evidence base for active note-taking practices.",
+  "notes/Flock Camera Investors.md": {
+    "title": "Flock Camera Investors",
+    "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "flock",
+      "camera",
+      "investors",
+      "summary",
+      "investor",
+      "list",
+      "flock",
+      "safety",
+      "surveillance",
+      "technology"
+    ]
+  },
+  "notes/Personal Knowledge Management.md": {
+    "title": "Personal Knowledge Management",
+    "summary": "This note explores ideas, references topics. A system for capturing, organizing, and retrieving personal knowledge over time.",
     "themes": [
       "ideas",
+      "references",
       "personal",
       "research",
       "learning",
       "creative"
     ],
     "keywords": [
+      "personal",
+      "knowledge",
+      "management",
+      "system",
+      "capturing",
+      "organizing",
+      "retrieving",
+      "personal",
+      "knowledge",
+      "time"
+    ]
+  },
+  "notes/LinkedIn.md": {
+    "title": "LinkedIn",
+    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
+    "themes": [
+      "references",
       "research",
-      "note-taking",
-      "learning-science",
-      "generation-effect",
-      "spacing-effect",
-      "cognitive-science",
-      "retrieval-practice",
-      "study-methods",
-      "pkm",
-      "evidence"
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "linkedin",
+      "summary",
+      "analysis",
+      "linkedin",
+      "more",
+      "professional",
+      "network",
+      "viewing",
+      "national",
+      "security"
     ]
   },
   "notes/2024-02-10 Morning Reflection.md": {
     "title": "2024-02-10 Morning Reflection",
-    "summary": "Personal morning reflection capturing the author's motivation to organize their notes and excitement about AI-assisted note organization, with an intention to focus on building systems rather than just capturing information.",
+    "summary": "This note explores ideas, personal topics. Today I'm feeling motivated to work on organizing my notes. I've been letting them accumulate without any structure, and it's getting hard to find ...",
     "themes": [
       "ideas",
       "personal",
@@ -218,39 +241,16 @@
       "creative"
     ],
     "keywords": [
-      "morning-reflection",
-      "motivation",
-      "note-organization",
-      "ai-assistant",
-      "gratitude",
-      "systems-thinking",
-      "pkm",
-      "daily-journal",
-      "intention",
-      "automation"
-    ]
-  },
-  "notes/Corporate Cabal.md": {
-    "title": "Corporate Cabal",
-    "summary": "Documents research into historical collaboration between U.S. intelligence agencies and liberal/progressive NGOs, exploring institutional power networks and how the 'Liberal CIA' concept connects to modern tech ecosystem dynamics.",
-    "themes": [
-      "ideas",
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "surveillance",
-      "intelligence",
-      "cia",
-      "ngo",
-      "power-networks",
-      "institutional-power",
-      "tech-ecosystem",
-      "liberal-cia",
-      "government-tech-pipeline",
-      "cold-war"
+      "morning",
+      "reflection",
+      "february",
+      "today",
+      "feeling",
+      "motivated",
+      "work",
+      "organizing",
+      "notes",
+      "letting"
     ]
   }
 }
