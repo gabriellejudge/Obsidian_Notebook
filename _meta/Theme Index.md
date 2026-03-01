@@ -1,6 +1,6 @@
 # Vault Theme Index
 
-_Last updated: 2026-03-01_
+_Last updated: 2026-03-01T06:00Z_
 
 Notes organized by content theme. A note may appear under multiple themes.
 
@@ -49,7 +49,16 @@ Notes exploring AI-assisted tools for thinking and writing.
 
 - [[AI Writing Assistant Idea]] — Intent-aware writing assistant that learns from vault context
 - [[2024-02-10 Morning Reflection]] — Excitement about AI organizing notes in the background
-- [[README]] — Documentation for the AI-powered vault organization agent
+- [[Personal Knowledge Management]] — Automated agents listed as a core tool in the PKM stack
+
+## Venture Capital & Defense Tech Investment
+
+Notes documenting how venture capital firms fund surveillance and defense technology.
+
+- [[Flock Camera Investors]] — a16z, Founders Fund, Tiger Global, Y Combinator backing surveillance-as-a-service
+- [[Palantir Origin Story]] — Founders Fund seeding a company born from a defunded DARPA program
+- [[All Kings]] — Peter Thiel (Founders Fund) as central VC node connecting tech and politics
+- [[Corporate Cabal]] — VC firms as bridge between private enterprise and government
 
 ## Research & Evidence
 

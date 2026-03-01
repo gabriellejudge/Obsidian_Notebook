@@ -1,10 +1,10 @@
 # Vault Insights
 
-_Generated: 2026-03-01_
+_Generated: 2026-03-01T06:00Z_
 
 ## Overview
 
-This vault contains **10 notes** (plus 1 vault documentation README) across two distinct clusters:
+This vault contains **10 notes** across two distinct clusters:
 
 - **Surveillance & Power Networks** (6 notes): [[Palantir Origin Story]], [[Palantir Products]], [[All Kings]], [[Corporate Cabal]], [[Flock Camera Investors]], [[LinkedIn]]
 - **Personal Knowledge Management & AI** (4 notes): [[Personal Knowledge Management]], [[AI Writing Assistant Idea]], [[Research - Note-Taking Studies]], [[2024-02-10 Morning Reflection]]
@@ -32,6 +32,13 @@ Several notes examine different forms of data aggregation:
 - [[LinkedIn]]: professional identity data as a national security asset
 - [[Flock Camera Investors]]: local law enforcement surveillance (license plate readers)
 
+### Venture Capital as Connective Tissue
+VC firms appear repeatedly as the mechanism linking government programs to private enterprise:
+- **Founders Fund** (Peter Thiel): invested in both Palantir and Flock Safety
+- **a16z**: legitimized surveillance-as-a-service by backing Flock
+- **Y Combinator**: provided early validation for the surveillance startup model
+- [[Corporate Cabal]] explicitly asks what role VC firms play in connecting private enterprise to government
+
 ### PKM Maintenance as Core Challenge
 The PKM cluster consistently identifies maintenance—not capture—as the central problem:
 - [[Personal Knowledge Management]]: "easy to capture notes but hard to keep them organized"
@@ -42,6 +49,8 @@ The PKM cluster consistently identifies maintenance—not capture—as the centr
 ## Cross-Cluster Connection
 
 The vault implicitly draws a parallel between surveillance data platforms and personal knowledge systems. Both aim to integrate disparate data sources, surface hidden connections, and enable better decision-making. The author's interest in both clusters suggests a deeper question: how do information systems—at any scale—shape understanding?
+
+Specifically, Palantir's Gotham product (connecting people, places, and events for analysts) mirrors what a PKM system does for an individual thinker—the difference is scale and intent, not mechanism.
 
 ## Open Questions Captured in Notes
 
