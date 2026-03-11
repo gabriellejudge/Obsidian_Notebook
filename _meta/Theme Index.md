@@ -1,87 +1,48 @@
 # Vault Theme Index
 
-_Last updated: 2026-03-11 06:00_
+_Last updated: 2026-03-11_
 
-## Creative
+Notes grouped by theme based on content analysis. A note may appear under multiple themes.
 
-- [[README]]
-- [[2024-02-10 Morning Reflection]]
-- [[Flock Camera Investors]]
-- [[Palantir Origin Story]]
-- [[All Kings]]
-- [[Palantir Products]]
-- [[Personal Knowledge Management]]
-- [[AI Writing Assistant Idea]]
-- [[LinkedIn]]
-- [[Corporate Cabal]]
-- [[Research - Note-Taking Studies]]
+## Surveillance & Privacy Technology
+Notes exploring surveillance tools, data collection platforms, and their societal implications.
 
-## Drafts
+- [[Palantir Origin Story]] — Founding of Palantir from DARPA's defunded TIA program
+- [[Palantir Products]] — Gotham, Foundry, and Apollo product suite for intelligence and enterprise
+- [[Flock Camera Investors]] — VC funding behind Flock Safety's law enforcement surveillance tech
+- [[LinkedIn]] — Analysis of LinkedIn as a national security asset and data aggregation platform
 
-- [[AI Writing Assistant Idea]]
+## Power Networks & Institutional Influence
+Notes mapping elite figures, government-corporate relationships, and concentrated power.
 
-## Ideas
+- [[All Kings]] — Roster of powerful figures across tech, finance, and politics
+- [[Corporate Cabal]] — Research on CIA-NGO-corporate networks and institutional power structures
+- [[Palantir Origin Story]] — Government-to-startup pipeline for surveillance technology
+- [[LinkedIn]] — Tech platform as institutional power and media controller
 
-- [[README]]
-- [[2024-02-10 Morning Reflection]]
-- [[Personal Knowledge Management]]
-- [[AI Writing Assistant Idea]]
-- [[Corporate Cabal]]
-- [[Research - Note-Taking Studies]]
+## Peter Thiel's Ecosystem
+Notes connected through Peter Thiel as a central figure bridging VC, surveillance, and politics.
 
-## Learning
+- [[All Kings]] — Thiel as a key power figure; JD Vance as protégé
+- [[Palantir Origin Story]] — Thiel co-founded Palantir from DARPA meeting
+- [[Palantir Products]] — Products of the Thiel-founded company
+- [[Flock Camera Investors]] — Founders Fund (Thiel's VC) invested in Flock Safety
 
-- [[README]]
-- [[2024-02-10 Morning Reflection]]
-- [[Flock Camera Investors]]
-- [[Palantir Origin Story]]
-- [[All Kings]]
-- [[Palantir Products]]
-- [[Personal Knowledge Management]]
-- [[AI Writing Assistant Idea]]
-- [[LinkedIn]]
-- [[Corporate Cabal]]
-- [[Research - Note-Taking Studies]]
+## Personal Knowledge Management & Note-Taking
+Notes on PKM systems, research on learning, and the author's note-taking practice.
 
-## Meeting
+- [[Personal Knowledge Management]] — PKM principles, tools, and maintenance challenges
+- [[Research - Note-Taking Studies]] — Research on generation effect, spacing, and elaborative interrogation
+- [[2024-02-10 Morning Reflection]] — Motivation to improve note organization systems
 
-- [[Palantir Origin Story]]
+## AI-Assisted Tooling & Ideas
+Notes exploring how AI can augment personal knowledge work.
 
-## Personal
+- [[AI Writing Assistant Idea]] — Concept for a context-aware writing assistant integrated with Obsidian
+- [[2024-02-10 Morning Reflection]] — Vision for AI that surfaces connections and reduces PKM friction
+- [[Personal Knowledge Management]] — Explores automated agents as part of the PKM toolchain
 
-- [[README]]
-- [[2024-02-10 Morning Reflection]]
-- [[Personal Knowledge Management]]
-- [[AI Writing Assistant Idea]]
-- [[Research - Note-Taking Studies]]
+## Vault Documentation
 
-## Projects
-
-- [[README]]
-- [[2024-02-10 Morning Reflection]]
-
-## References
-
-- [[README]]
-- [[Flock Camera Investors]]
-- [[Palantir Origin Story]]
-- [[All Kings]]
-- [[Palantir Products]]
-- [[Personal Knowledge Management]]
-- [[LinkedIn]]
-- [[Corporate Cabal]]
-
-## Research
-
-- [[README]]
-- [[2024-02-10 Morning Reflection]]
-- [[Flock Camera Investors]]
-- [[Palantir Origin Story]]
-- [[All Kings]]
-- [[Palantir Products]]
-- [[Personal Knowledge Management]]
-- [[AI Writing Assistant Idea]]
-- [[LinkedIn]]
-- [[Corporate Cabal]]
-- [[Research - Note-Taking Studies]]
+- [[README]] — How the AI organization agent works, folder structure, and configuration
 
