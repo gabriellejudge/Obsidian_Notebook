@@ -1,48 +1,87 @@
 # Vault Theme Index
 
-_Last updated: 2026-03-11_
+_Last updated: 2026-03-11 12:00_
 
-Notes grouped by theme based on content analysis. A note may appear under multiple themes.
+## Creative
 
-## Surveillance & Privacy Technology
-Notes exploring surveillance tools, data collection platforms, and their societal implications.
+- [[README]]
+- [[Flock Camera Investors]]
+- [[All Kings]]
+- [[2024-02-10 Morning Reflection]]
+- [[Corporate Cabal]]
+- [[LinkedIn]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Personal Knowledge Management]]
+- [[Research - Note-Taking Studies]]
+- [[AI Writing Assistant Idea]]
 
-- [[Palantir Origin Story]] — Founding of Palantir from DARPA's defunded TIA program
-- [[Palantir Products]] — Gotham, Foundry, and Apollo product suite for intelligence and enterprise
-- [[Flock Camera Investors]] — VC funding behind Flock Safety's law enforcement surveillance tech
-- [[LinkedIn]] — Analysis of LinkedIn as a national security asset and data aggregation platform
+## Drafts
 
-## Power Networks & Institutional Influence
-Notes mapping elite figures, government-corporate relationships, and concentrated power.
+- [[AI Writing Assistant Idea]]
 
-- [[All Kings]] — Roster of powerful figures across tech, finance, and politics
-- [[Corporate Cabal]] — Research on CIA-NGO-corporate networks and institutional power structures
-- [[Palantir Origin Story]] — Government-to-startup pipeline for surveillance technology
-- [[LinkedIn]] — Tech platform as institutional power and media controller
+## Ideas
 
-## Peter Thiel's Ecosystem
-Notes connected through Peter Thiel as a central figure bridging VC, surveillance, and politics.
+- [[README]]
+- [[2024-02-10 Morning Reflection]]
+- [[Corporate Cabal]]
+- [[Personal Knowledge Management]]
+- [[Research - Note-Taking Studies]]
+- [[AI Writing Assistant Idea]]
 
-- [[All Kings]] — Thiel as a key power figure; JD Vance as protégé
-- [[Palantir Origin Story]] — Thiel co-founded Palantir from DARPA meeting
-- [[Palantir Products]] — Products of the Thiel-founded company
-- [[Flock Camera Investors]] — Founders Fund (Thiel's VC) invested in Flock Safety
+## Learning
 
-## Personal Knowledge Management & Note-Taking
-Notes on PKM systems, research on learning, and the author's note-taking practice.
+- [[README]]
+- [[Flock Camera Investors]]
+- [[All Kings]]
+- [[2024-02-10 Morning Reflection]]
+- [[Corporate Cabal]]
+- [[LinkedIn]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Personal Knowledge Management]]
+- [[Research - Note-Taking Studies]]
+- [[AI Writing Assistant Idea]]
 
-- [[Personal Knowledge Management]] — PKM principles, tools, and maintenance challenges
-- [[Research - Note-Taking Studies]] — Research on generation effect, spacing, and elaborative interrogation
-- [[2024-02-10 Morning Reflection]] — Motivation to improve note organization systems
+## Meeting
 
-## AI-Assisted Tooling & Ideas
-Notes exploring how AI can augment personal knowledge work.
+- [[Palantir Origin Story]]
 
-- [[AI Writing Assistant Idea]] — Concept for a context-aware writing assistant integrated with Obsidian
-- [[2024-02-10 Morning Reflection]] — Vision for AI that surfaces connections and reduces PKM friction
-- [[Personal Knowledge Management]] — Explores automated agents as part of the PKM toolchain
+## Personal
 
-## Vault Documentation
+- [[README]]
+- [[2024-02-10 Morning Reflection]]
+- [[Personal Knowledge Management]]
+- [[Research - Note-Taking Studies]]
+- [[AI Writing Assistant Idea]]
 
-- [[README]] — How the AI organization agent works, folder structure, and configuration
+## Projects
+
+- [[README]]
+- [[2024-02-10 Morning Reflection]]
+
+## References
+
+- [[README]]
+- [[Flock Camera Investors]]
+- [[All Kings]]
+- [[Corporate Cabal]]
+- [[LinkedIn]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Personal Knowledge Management]]
+
+## Research
+
+- [[README]]
+- [[Flock Camera Investors]]
+- [[All Kings]]
+- [[2024-02-10 Morning Reflection]]
+- [[Corporate Cabal]]
+- [[LinkedIn]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+- [[Personal Knowledge Management]]
+- [[Research - Note-Taking Studies]]
+- [[AI Writing Assistant Idea]]
 
