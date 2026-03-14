@@ -24,28 +24,6 @@
       "agent"
     ]
   },
-  "notes/LinkedIn.md": {
-    "title": "LinkedIn",
-    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "linkedin",
-      "summary",
-      "analysis",
-      "linkedin",
-      "more",
-      "professional",
-      "network",
-      "viewing",
-      "national",
-      "security"
-    ]
-  },
   "notes/Research - Note-Taking Studies.md": {
     "title": "Research - Note-Taking Studies",
     "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
@@ -67,6 +45,73 @@
       "effective",
       "note",
       "taking"
+    ]
+  },
+  "notes/Flock Camera Investors.md": {
+    "title": "Flock Camera Investors",
+    "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "flock",
+      "camera",
+      "investors",
+      "summary",
+      "investor",
+      "list",
+      "flock",
+      "safety",
+      "surveillance",
+      "technology"
+    ]
+  },
+  "notes/All Kings.md": {
+    "title": "All Kings",
+    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "kings",
+      "summary",
+      "roster",
+      "most",
+      "powerful",
+      "figures",
+      "technology",
+      "finance",
+      "politics",
+      "who"
+    ]
+  },
+  "notes/Palantir Origin Story.md": {
+    "title": "Palantir Origin Story",
+    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "meeting",
+      "creative"
+    ],
+    "keywords": [
+      "palantir",
+      "origin",
+      "story",
+      "summary",
+      "documents",
+      "founding",
+      "connection",
+      "between",
+      "palantir",
+      "darpa"
     ]
   },
   "notes/Personal Knowledge Management.md": {
@@ -93,9 +138,9 @@
       "time"
     ]
   },
-  "notes/All Kings.md": {
-    "title": "All Kings",
-    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
+  "notes/LinkedIn.md": {
+    "title": "LinkedIn",
+    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
     "themes": [
       "references",
       "research",
@@ -103,40 +148,16 @@
       "creative"
     ],
     "keywords": [
-      "kings",
+      "linkedin",
       "summary",
-      "roster",
-      "most",
-      "powerful",
-      "figures",
-      "technology",
-      "finance",
-      "politics",
-      "who"
-    ]
-  },
-  "notes/AI Writing Assistant Idea.md": {
-    "title": "AI Writing Assistant Idea",
-    "summary": "This question explores ideas, drafts topics. What if we could build a writing assistant that doesn't just correct grammar, but actually understands the *intent* behind what you're trying to say?",
-    "themes": [
-      "ideas",
-      "drafts",
-      "personal",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "writing",
-      "assistant",
-      "idea",
-      "build",
-      "writing",
-      "assistant",
-      "doesn",
-      "correct",
-      "grammar",
-      "actually"
+      "analysis",
+      "linkedin",
+      "more",
+      "professional",
+      "network",
+      "viewing",
+      "national",
+      "security"
     ]
   },
   "notes/Palantir Products.md": {
@@ -185,27 +206,28 @@
       "letting"
     ]
   },
-  "notes/Palantir Origin Story.md": {
-    "title": "Palantir Origin Story",
-    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+  "notes/AI Writing Assistant Idea.md": {
+    "title": "AI Writing Assistant Idea",
+    "summary": "This question explores ideas, drafts topics. What if we could build a writing assistant that doesn't just correct grammar, but actually understands the *intent* behind what you're trying to say?",
     "themes": [
-      "references",
+      "ideas",
+      "drafts",
+      "personal",
       "research",
       "learning",
-      "meeting",
       "creative"
     ],
     "keywords": [
-      "palantir",
-      "origin",
-      "story",
-      "summary",
-      "documents",
-      "founding",
-      "connection",
-      "between",
-      "palantir",
-      "darpa"
+      "writing",
+      "assistant",
+      "idea",
+      "build",
+      "writing",
+      "assistant",
+      "doesn",
+      "correct",
+      "grammar",
+      "actually"
     ]
   },
   "notes/Corporate Cabal.md": {
@@ -229,28 +251,6 @@
       "intelligence",
       "agencies",
       "cia"
-    ]
-  },
-  "notes/Flock Camera Investors.md": {
-    "title": "Flock Camera Investors",
-    "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "flock",
-      "camera",
-      "investors",
-      "summary",
-      "investor",
-      "list",
-      "flock",
-      "safety",
-      "surveillance",
-      "technology"
     ]
   }
 }
