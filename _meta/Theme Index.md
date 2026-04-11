@@ -1,87 +1,60 @@
 # Vault Theme Index
 
-_Last updated: 2026-04-11 12:00_
+_Last updated: 2026-04-11T12:00Z_
 
-## Creative
+Notes grouped by theme based on content analysis. A note may appear under multiple themes.
 
-- [[README]]
-- [[AI Writing Assistant Idea]]
-- [[LinkedIn]]
-- [[All Kings]]
-- [[Flock Camera Investors]]
-- [[2024-02-10 Morning Reflection]]
-- [[Palantir Origin Story]]
-- [[Personal Knowledge Management]]
-- [[Research - Note-Taking Studies]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
+---
 
-## Drafts
+## Surveillance & Privacy Technology
+Notes exploring surveillance tools, data collection platforms, and their societal implications.
 
-- [[AI Writing Assistant Idea]]
+- [[Palantir Origin Story]] — Founding of Palantir from DARPA's defunded TIA program
+- [[Palantir Products]] — Gotham, Foundry, and Apollo product suite for intelligence and enterprise
+- [[Flock Camera Investors]] — VC funding behind Flock Safety's law enforcement surveillance tech
+- [[LinkedIn]] — Analysis of LinkedIn as a national security asset and data aggregation platform
+- [[Corporate Cabal]] — Research on intelligence agency networks and surveillance infrastructure
 
-## Ideas
+## Power Networks & Institutional Influence
+Notes mapping elite figures, government-corporate relationships, and concentrated power.
 
-- [[README]]
-- [[AI Writing Assistant Idea]]
-- [[2024-02-10 Morning Reflection]]
-- [[Personal Knowledge Management]]
-- [[Research - Note-Taking Studies]]
-- [[Corporate Cabal]]
+- [[All Kings]] — Roster of powerful figures across tech, finance, and politics
+- [[Corporate Cabal]] — Research on CIA-NGO-corporate networks and institutional power structures
+- [[Palantir Origin Story]] — Government-to-startup pipeline for surveillance technology
+- [[LinkedIn]] — Tech platform as institutional power and media controller
 
-## Learning
+## Peter Thiel's Ecosystem
+Notes connected through Peter Thiel as a central figure bridging VC, surveillance, and politics.
 
-- [[README]]
-- [[AI Writing Assistant Idea]]
-- [[LinkedIn]]
-- [[All Kings]]
-- [[Flock Camera Investors]]
-- [[2024-02-10 Morning Reflection]]
-- [[Palantir Origin Story]]
-- [[Personal Knowledge Management]]
-- [[Research - Note-Taking Studies]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
+- [[All Kings]] — Thiel as a key power figure; JD Vance as protégé
+- [[Palantir Origin Story]] — Thiel co-founded Palantir from DARPA meeting
+- [[Palantir Products]] — Products of the Thiel-founded company
+- [[Flock Camera Investors]] — Founders Fund (Thiel's VC) invested in Flock Safety
 
-## Meeting
+## Data Aggregation & Platform Power
+Notes examining how different platforms collect, integrate, and leverage large-scale data.
 
-- [[Palantir Origin Story]]
+- [[Palantir Products]] — Integrates intelligence and enterprise data across Gotham, Foundry, and Apollo
+- [[LinkedIn]] — Aggregates professional identity data; framed as a national security asset
+- [[Flock Camera Investors]] — License plate readers aggregating law enforcement surveillance data
+- [[Corporate Cabal]] — Research into networks that coordinate data flows between institutions
 
-## Personal
+## Personal Knowledge Management & Note-Taking
+Notes on PKM systems, research on learning, and the author's note-taking practice.
 
-- [[README]]
-- [[AI Writing Assistant Idea]]
-- [[2024-02-10 Morning Reflection]]
-- [[Personal Knowledge Management]]
-- [[Research - Note-Taking Studies]]
+- [[Personal Knowledge Management]] — PKM principles, tools, and maintenance challenges
+- [[Research - Note-Taking Studies]] — Research on generation effect, spacing, and elaborative interrogation
+- [[2024-02-10 Morning Reflection]] — Motivation to improve note organization systems
+- [[AI Writing Assistant Idea]] — Concept for a context-aware tool to augment PKM workflows
 
-## Projects
+## AI-Assisted Tooling & Ideas
+Notes exploring how AI can augment personal knowledge work.
 
-- [[README]]
-- [[2024-02-10 Morning Reflection]]
+- [[AI Writing Assistant Idea]] — Concept for a context-aware writing assistant integrated with Obsidian
+- [[2024-02-10 Morning Reflection]] — Vision for AI that surfaces connections and reduces PKM friction
+- [[Personal Knowledge Management]] — Explores automated agents as part of the PKM toolchain
 
-## References
+## Vault Documentation
 
-- [[README]]
-- [[LinkedIn]]
-- [[All Kings]]
-- [[Flock Camera Investors]]
-- [[Palantir Origin Story]]
-- [[Personal Knowledge Management]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-
-## Research
-
-- [[README]]
-- [[AI Writing Assistant Idea]]
-- [[LinkedIn]]
-- [[All Kings]]
-- [[Flock Camera Investors]]
-- [[2024-02-10 Morning Reflection]]
-- [[Palantir Origin Story]]
-- [[Personal Knowledge Management]]
-- [[Research - Note-Taking Studies]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
+- [[README]] — How the AI organization agent works, folder structure, and configuration
 
