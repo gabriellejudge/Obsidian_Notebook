@@ -24,29 +24,6 @@
       "agent"
     ]
   },
-  "notes/Research - Note-Taking Studies.md": {
-    "title": "Research - Note-Taking Studies",
-    "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
-    "themes": [
-      "ideas",
-      "personal",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "research",
-      "note",
-      "taking",
-      "studies",
-      "collection",
-      "research",
-      "findings",
-      "effective",
-      "note",
-      "taking"
-    ]
-  },
   "notes/AI Writing Assistant Idea.md": {
     "title": "AI Writing Assistant Idea",
     "summary": "This question explores ideas, drafts topics. What if we could build a writing assistant that doesn't just correct grammar, but actually understands the *intent* behind what you're trying to say?",
@@ -69,6 +46,28 @@
       "correct",
       "grammar",
       "actually"
+    ]
+  },
+  "notes/LinkedIn.md": {
+    "title": "LinkedIn",
+    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "linkedin",
+      "summary",
+      "analysis",
+      "linkedin",
+      "more",
+      "professional",
+      "network",
+      "viewing",
+      "national",
+      "security"
     ]
   },
   "notes/All Kings.md": {
@@ -115,28 +114,6 @@
       "technology"
     ]
   },
-  "notes/LinkedIn.md": {
-    "title": "LinkedIn",
-    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "linkedin",
-      "summary",
-      "analysis",
-      "linkedin",
-      "more",
-      "professional",
-      "network",
-      "viewing",
-      "national",
-      "security"
-    ]
-  },
   "notes/2024-02-10 Morning Reflection.md": {
     "title": "2024-02-10 Morning Reflection",
     "summary": "This note explores ideas, personal topics. Today I'm feeling motivated to work on organizing my notes. I've been letting them accumulate without any structure, and it's getting hard to find ...",
@@ -159,6 +136,29 @@
       "organizing",
       "notes",
       "letting"
+    ]
+  },
+  "notes/Palantir Origin Story.md": {
+    "title": "Palantir Origin Story",
+    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "meeting",
+      "creative"
+    ],
+    "keywords": [
+      "palantir",
+      "origin",
+      "story",
+      "summary",
+      "documents",
+      "founding",
+      "connection",
+      "between",
+      "palantir",
+      "darpa"
     ]
   },
   "notes/Personal Knowledge Management.md": {
@@ -185,6 +185,29 @@
       "time"
     ]
   },
+  "notes/Research - Note-Taking Studies.md": {
+    "title": "Research - Note-Taking Studies",
+    "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
+    "themes": [
+      "ideas",
+      "personal",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "research",
+      "note",
+      "taking",
+      "studies",
+      "collection",
+      "research",
+      "findings",
+      "effective",
+      "note",
+      "taking"
+    ]
+  },
   "notes/Corporate Cabal.md": {
     "title": "Corporate Cabal",
     "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
@@ -206,29 +229,6 @@
       "intelligence",
       "agencies",
       "cia"
-    ]
-  },
-  "notes/Palantir Origin Story.md": {
-    "title": "Palantir Origin Story",
-    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "meeting",
-      "creative"
-    ],
-    "keywords": [
-      "palantir",
-      "origin",
-      "story",
-      "summary",
-      "documents",
-      "founding",
-      "connection",
-      "between",
-      "palantir",
-      "darpa"
     ]
   },
   "notes/Palantir Products.md": {

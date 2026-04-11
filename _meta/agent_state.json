@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-04-11T06:00:43.894566",
+  "last_run": "2026-04-11T12:00:44.739682",
   "processed_notes": {
     "README.md": {
-      "hash": "6b974737629f7a954bc6d1ce800229f8",
+      "hash": "12779372b79c04229f57179b3bc2d9da",
       "themes": [
         "ideas",
         "references",
@@ -16,10 +16,10 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
-      "processed": "2026-04-11T06:00:43.883464"
+      "processed": "2026-04-11T12:00:44.728446"
     },
     "notes/Corporate Cabal.md": {
-      "hash": "e9786d4acd038dcdd82f599ff6eeb2c7",
+      "hash": "18d27b7f8adf9fe0943d93f75542dbea",
       "themes": [
         "ideas",
         "references",
@@ -31,10 +31,10 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
-      "processed": "2026-04-11T06:00:43.889982"
+      "processed": "2026-04-11T12:00:44.735901"
     },
     "notes/Palantir Products.md": {
-      "hash": "388daae608d8ba15ccfa83c1c9a2121b",
+      "hash": "aa1fc21fa8f10f446903ef3332204836",
       "themes": [
         "references",
         "research",
@@ -45,10 +45,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
-      "processed": "2026-04-11T06:00:43.891582"
+      "processed": "2026-04-11T12:00:44.736728"
     },
     "notes/Palantir Origin Story.md": {
-      "hash": "0434c15e17c8e5edb435b0a6618f1fcc",
+      "hash": "faaf2cd3ad5e93e40904b6b811b2c0e8",
       "themes": [
         "references",
         "research",
@@ -60,10 +60,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-      "processed": "2026-04-11T06:00:43.890761"
+      "processed": "2026-04-11T12:00:44.733727"
     },
     "notes/Flock Camera Investors.md": {
-      "hash": "5ae63a42c04d10add4ea962c527385e9",
+      "hash": "4bb805335703c9eca67a575f77cbf0c0",
       "themes": [
         "references",
         "research",
@@ -74,10 +74,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
-      "processed": "2026-04-11T06:00:43.887163"
+      "processed": "2026-04-11T12:00:44.732233"
     },
     "notes/LinkedIn.md": {
-      "hash": "cc219dd3fbe4dc5cff29f1b8fab33a22",
+      "hash": "228007c8844e16105250a26373896842",
       "themes": [
         "references",
         "research",
@@ -88,10 +88,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-      "processed": "2026-04-11T06:00:43.887921"
+      "processed": "2026-04-11T12:00:44.730641"
     },
     "notes/All Kings.md": {
-      "hash": "eed89a57cb36362a3a0565ef03a6fdfb",
+      "hash": "3adb7da28939465ad79d43e1444b0ffa",
       "themes": [
         "references",
         "research",
@@ -102,10 +102,10 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-      "processed": "2026-04-11T06:00:43.886360"
+      "processed": "2026-04-11T12:00:44.731394"
     },
     "notes/Personal Knowledge Management.md": {
-      "hash": "54f80a5866470beee266cd2461d85257",
+      "hash": "cf1e97dc0249fb613dee315d3ac24204",
       "themes": [
         "ideas",
         "references",
@@ -118,10 +118,10 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. A system for capturing, organizing, and retrieving personal knowledge over time.",
-      "processed": "2026-04-11T06:00:43.889339"
+      "processed": "2026-04-11T12:00:44.734473"
     },
     "notes/AI Writing Assistant Idea.md": {
-      "hash": "28af84558b002bfcfdc5655eba61edce",
+      "hash": "e38aae1a674d84d1581086476fd55c9a",
       "themes": [
         "ideas",
         "drafts",
@@ -134,10 +134,10 @@
         "question"
       ],
       "summary": "This question explores ideas, drafts topics. What if we could build a writing assistant that doesn't just correct grammar, but actually understands the *intent* behind what you're trying to say?",
-      "processed": "2026-04-11T06:00:43.885387"
+      "processed": "2026-04-11T12:00:44.729562"
     },
     "notes/2024-02-10 Morning Reflection.md": {
-      "hash": "50e7d36e0c3a357faf57699892b30acd",
+      "hash": "679be7b03a1430e9fe682670451e9134",
       "themes": [
         "ideas",
         "personal",
@@ -150,10 +150,10 @@
         "note"
       ],
       "summary": "This note explores ideas, personal topics. Today I'm feeling motivated to work on organizing my notes. I've been letting them accumulate without any structure, and it's getting hard to find ...",
-      "processed": "2026-04-11T06:00:43.888594"
+      "processed": "2026-04-11T12:00:44.732917"
     },
     "notes/Research - Note-Taking Studies.md": {
-      "hash": "2cfb04dadf57628e188536ba2518a0e6",
+      "hash": "053c51d738ca0435c01fa796c782f90c",
       "themes": [
         "ideas",
         "personal",
@@ -165,7 +165,7 @@
         "note"
       ],
       "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
-      "processed": "2026-04-11T06:00:43.884624"
+      "processed": "2026-04-11T12:00:44.735259"
     }
   },
   "patterns_detected": [
