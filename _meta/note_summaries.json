@@ -24,51 +24,6 @@
       "agent"
     ]
   },
-  "notes/Corporate Cabal.md": {
-    "title": "Corporate Cabal",
-    "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
-    "themes": [
-      "ideas",
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "corporate",
-      "cabal",
-      "summary",
-      "reference",
-      "research",
-      "networks",
-      "connecting",
-      "intelligence",
-      "agencies",
-      "cia"
-    ]
-  },
-  "notes/All Kings.md": {
-    "title": "All Kings",
-    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "kings",
-      "summary",
-      "roster",
-      "most",
-      "powerful",
-      "figures",
-      "technology",
-      "finance",
-      "politics",
-      "who"
-    ]
-  },
   "notes/LinkedIn.md": {
     "title": "LinkedIn",
     "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
@@ -91,27 +46,27 @@
       "security"
     ]
   },
-  "notes/Palantir Origin Story.md": {
-    "title": "Palantir Origin Story",
-    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+  "notes/Research - Note-Taking Studies.md": {
+    "title": "Research - Note-Taking Studies",
+    "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
     "themes": [
-      "references",
+      "ideas",
+      "personal",
       "research",
       "learning",
-      "meeting",
       "creative"
     ],
     "keywords": [
-      "palantir",
-      "origin",
-      "story",
-      "summary",
-      "documents",
-      "founding",
-      "connection",
-      "between",
-      "palantir",
-      "darpa"
+      "research",
+      "note",
+      "taking",
+      "studies",
+      "collection",
+      "research",
+      "findings",
+      "effective",
+      "note",
+      "taking"
     ]
   },
   "notes/Personal Knowledge Management.md": {
@@ -138,9 +93,9 @@
       "time"
     ]
   },
-  "notes/Flock Camera Investors.md": {
-    "title": "Flock Camera Investors",
-    "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
+  "notes/All Kings.md": {
+    "title": "All Kings",
+    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
     "themes": [
       "references",
       "research",
@@ -148,16 +103,40 @@
       "creative"
     ],
     "keywords": [
-      "flock",
-      "camera",
-      "investors",
+      "kings",
       "summary",
-      "investor",
-      "list",
-      "flock",
-      "safety",
-      "surveillance",
-      "technology"
+      "roster",
+      "most",
+      "powerful",
+      "figures",
+      "technology",
+      "finance",
+      "politics",
+      "who"
+    ]
+  },
+  "notes/AI Writing Assistant Idea.md": {
+    "title": "AI Writing Assistant Idea",
+    "summary": "This question explores ideas, drafts topics. What if we could build a writing assistant that doesn't just correct grammar, but actually understands the *intent* behind what you're trying to say?",
+    "themes": [
+      "ideas",
+      "drafts",
+      "personal",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "writing",
+      "assistant",
+      "idea",
+      "build",
+      "writing",
+      "assistant",
+      "doesn",
+      "correct",
+      "grammar",
+      "actually"
     ]
   },
   "notes/Palantir Products.md": {
@@ -206,51 +185,72 @@
       "letting"
     ]
   },
-  "notes/AI Writing Assistant Idea.md": {
-    "title": "AI Writing Assistant Idea",
-    "summary": "This question explores ideas, drafts topics. What if we could build a writing assistant that doesn't just correct grammar, but actually understands the *intent* behind what you're trying to say?",
+  "notes/Palantir Origin Story.md": {
+    "title": "Palantir Origin Story",
+    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
     "themes": [
-      "ideas",
-      "drafts",
-      "personal",
+      "references",
       "research",
       "learning",
+      "meeting",
       "creative"
     ],
     "keywords": [
-      "writing",
-      "assistant",
-      "idea",
-      "build",
-      "writing",
-      "assistant",
-      "doesn",
-      "correct",
-      "grammar",
-      "actually"
+      "palantir",
+      "origin",
+      "story",
+      "summary",
+      "documents",
+      "founding",
+      "connection",
+      "between",
+      "palantir",
+      "darpa"
     ]
   },
-  "notes/Research - Note-Taking Studies.md": {
-    "title": "Research - Note-Taking Studies",
-    "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
+  "notes/Corporate Cabal.md": {
+    "title": "Corporate Cabal",
+    "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
     "themes": [
       "ideas",
-      "personal",
+      "references",
       "research",
       "learning",
       "creative"
     ],
     "keywords": [
+      "corporate",
+      "cabal",
+      "summary",
+      "reference",
       "research",
-      "note",
-      "taking",
-      "studies",
-      "collection",
+      "networks",
+      "connecting",
+      "intelligence",
+      "agencies",
+      "cia"
+    ]
+  },
+  "notes/Flock Camera Investors.md": {
+    "title": "Flock Camera Investors",
+    "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
+    "themes": [
+      "references",
       "research",
-      "findings",
-      "effective",
-      "note",
-      "taking"
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "flock",
+      "camera",
+      "investors",
+      "summary",
+      "investor",
+      "list",
+      "flock",
+      "safety",
+      "surveillance",
+      "technology"
     ]
   }
 }

@@ -1,7 +1,7 @@
 ---
 oz_tags: [references, research, learning, meeting, creative, intent:note]
 oz_created: 2026-02-11
-oz_updated: 2026-04-11
+oz_updated: 2026-04-12
 ---
 # Palantir Origin Story
 
