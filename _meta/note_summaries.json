@@ -48,28 +48,49 @@
       "time"
     ]
   },
-  "notes/2024-02-10 Morning Reflection.md": {
-    "title": "2024-02-10 Morning Reflection",
-    "summary": "This note explores ideas, personal topics. Today I'm feeling motivated to work on organizing my notes. I've been letting them accumulate without any structure, and it's getting hard to find ...",
+  "notes/All Kings.md": {
+    "title": "All Kings",
+    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
     "themes": [
-      "ideas",
-      "personal",
-      "projects",
+      "references",
       "research",
       "learning",
       "creative"
     ],
     "keywords": [
-      "morning",
-      "reflection",
-      "february",
-      "today",
-      "feeling",
-      "motivated",
-      "work",
-      "organizing",
-      "notes",
-      "letting"
+      "kings",
+      "summary",
+      "roster",
+      "most",
+      "powerful",
+      "figures",
+      "technology",
+      "finance",
+      "politics",
+      "who"
+    ]
+  },
+  "notes/Research - Note-Taking Studies.md": {
+    "title": "Research - Note-Taking Studies",
+    "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
+    "themes": [
+      "ideas",
+      "personal",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "research",
+      "note",
+      "taking",
+      "studies",
+      "collection",
+      "research",
+      "findings",
+      "effective",
+      "note",
+      "taking"
     ]
   },
   "notes/AI Writing Assistant Idea.md": {
@@ -96,93 +117,51 @@
       "actually"
     ]
   },
-  "notes/LinkedIn.md": {
-    "title": "LinkedIn",
-    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "linkedin",
-      "summary",
-      "analysis",
-      "linkedin",
-      "more",
-      "professional",
-      "network",
-      "viewing",
-      "national",
-      "security"
-    ]
-  },
-  "notes/All Kings.md": {
-    "title": "All Kings",
-    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "kings",
-      "summary",
-      "roster",
-      "most",
-      "powerful",
-      "figures",
-      "technology",
-      "finance",
-      "politics",
-      "who"
-    ]
-  },
-  "notes/Flock Camera Investors.md": {
-    "title": "Flock Camera Investors",
-    "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "flock",
-      "camera",
-      "investors",
-      "summary",
-      "investor",
-      "list",
-      "flock",
-      "safety",
-      "surveillance",
-      "technology"
-    ]
-  },
-  "notes/Research - Note-Taking Studies.md": {
-    "title": "Research - Note-Taking Studies",
-    "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
+  "notes/2024-02-10 Morning Reflection.md": {
+    "title": "2024-02-10 Morning Reflection",
+    "summary": "This note explores ideas, personal topics. Today I'm feeling motivated to work on organizing my notes. I've been letting them accumulate without any structure, and it's getting hard to find ...",
     "themes": [
       "ideas",
       "personal",
+      "projects",
       "research",
       "learning",
       "creative"
     ],
     "keywords": [
+      "morning",
+      "reflection",
+      "february",
+      "today",
+      "feeling",
+      "motivated",
+      "work",
+      "organizing",
+      "notes",
+      "letting"
+    ]
+  },
+  "notes/Palantir Origin Story.md": {
+    "title": "Palantir Origin Story",
+    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+    "themes": [
+      "references",
       "research",
-      "note",
-      "taking",
-      "studies",
-      "collection",
-      "research",
-      "findings",
-      "effective",
-      "note",
-      "taking"
+      "learning",
+      "meeting",
+      "creative"
+    ],
+    "keywords": [
+      "palantir",
+      "origin",
+      "story",
+      "summary",
+      "documents",
+      "founding",
+      "connection",
+      "between",
+      "palantir",
+      "darpa"
     ]
   },
   "notes/Corporate Cabal.md": {
@@ -208,27 +187,48 @@
       "cia"
     ]
   },
-  "notes/Palantir Origin Story.md": {
-    "title": "Palantir Origin Story",
-    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+  "notes/LinkedIn.md": {
+    "title": "LinkedIn",
+    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
     "themes": [
       "references",
       "research",
       "learning",
-      "meeting",
       "creative"
     ],
     "keywords": [
-      "palantir",
-      "origin",
-      "story",
+      "linkedin",
       "summary",
-      "documents",
-      "founding",
-      "connection",
-      "between",
-      "palantir",
-      "darpa"
+      "analysis",
+      "linkedin",
+      "more",
+      "professional",
+      "network",
+      "viewing",
+      "national",
+      "security"
+    ]
+  },
+  "notes/Flock Camera Investors.md": {
+    "title": "Flock Camera Investors",
+    "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "flock",
+      "camera",
+      "investors",
+      "summary",
+      "investor",
+      "list",
+      "flock",
+      "safety",
+      "surveillance",
+      "technology"
     ]
   },
   "notes/Palantir Products.md": {
