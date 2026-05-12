@@ -1,46 +1,87 @@
 # Vault Theme Index
 
-_Last updated: 2026-05-11 18:01_
+_Last updated: 2026-05-12 00:00_
 
-Notes grouped by content theme. A note may appear under multiple themes.
+## Creative
 
-## Surveillance Technology & Data Systems
-Notes exploring surveillance platforms, data aggregation tools, and the tech infrastructure enabling mass data collection.
+- [[README]]
+- [[LinkedIn]]
+- [[Personal Knowledge Management]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[Corporate Cabal]]
+- [[2024-02-10 Morning Reflection]]
+- [[AI Writing Assistant Idea]]
+- [[All Kings]]
+- [[Palantir Products]]
+- [[Research - Note-Taking Studies]]
 
-- [[Palantir Origin Story]] — Founding of Palantir from DARPA's TIA program
-- [[Palantir Products]] — Gotham, Foundry, and Apollo product suite
-- [[Flock Camera Investors]] — VC funding behind Flock Safety surveillance cameras
-- [[LinkedIn]] — LinkedIn as a data aggregation and national security asset
+## Drafts
 
-## Power Networks & Institutional Influence
-Notes mapping the individuals and institutions that concentrate power across tech, finance, and government.
+- [[AI Writing Assistant Idea]]
 
-- [[All Kings]] — Roster of the most powerful figures in tech, finance, and politics
-- [[Corporate Cabal]] — CIA–NGO networks and institutional power structures
-- [[Palantir Origin Story]] — Government-to-startup pipeline for surveillance tech
-- [[Flock Camera Investors]] — VC acceptance of surveillance technology
+## Ideas
 
-## Personal Knowledge Management & AI Tools
-Notes on PKM philosophy, tools, research, and ideas for AI-augmented writing and organization.
+- [[README]]
+- [[Personal Knowledge Management]]
+- [[Corporate Cabal]]
+- [[2024-02-10 Morning Reflection]]
+- [[AI Writing Assistant Idea]]
+- [[Research - Note-Taking Studies]]
 
-- [[Personal Knowledge Management]] — PKM principles, tools, and challenges
-- [[AI Writing Assistant Idea]] — Context-aware AI writing assistant concept
-- [[Research - Note-Taking Studies]] — Research on note-taking effectiveness and learning science
-- [[2024-02-10 Morning Reflection]] — Motivation for building automated note organization
+## Learning
 
-## Venture Capital & Investment Patterns
-Notes tracking how Silicon Valley investment connects private enterprise to government and defense.
+- [[README]]
+- [[LinkedIn]]
+- [[Personal Knowledge Management]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[Corporate Cabal]]
+- [[2024-02-10 Morning Reflection]]
+- [[AI Writing Assistant Idea]]
+- [[All Kings]]
+- [[Palantir Products]]
+- [[Research - Note-Taking Studies]]
 
-- [[Flock Camera Investors]] — Investor list showing mainstream VC in surveillance
-- [[All Kings]] — Peter Thiel and Founders Fund as connecting nodes
-- [[Palantir Origin Story]] — Thiel bridging Silicon Valley and intelligence community
+## Meeting
 
-## Peter Thiel Network
-Notes where Peter Thiel appears as a connecting figure across technology, politics, and surveillance.
+- [[Palantir Origin Story]]
 
-- [[Palantir Origin Story]] — Co-founded Palantir after meeting with DARPA
-- [[Palantir Products]] — Products from Thiel-founded company
-- [[All Kings]] — Thiel as central power figure; JD Vance as protégé
-- [[Flock Camera Investors]] — Founders Fund invests in Flock Safety
-- [[Corporate Cabal]] — Thiel's network spans government-private sector
+## Personal
+
+- [[README]]
+- [[Personal Knowledge Management]]
+- [[2024-02-10 Morning Reflection]]
+- [[AI Writing Assistant Idea]]
+- [[Research - Note-Taking Studies]]
+
+## Projects
+
+- [[README]]
+- [[2024-02-10 Morning Reflection]]
+
+## References
+
+- [[README]]
+- [[LinkedIn]]
+- [[Personal Knowledge Management]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[Corporate Cabal]]
+- [[All Kings]]
+- [[Palantir Products]]
+
+## Research
+
+- [[README]]
+- [[LinkedIn]]
+- [[Personal Knowledge Management]]
+- [[Palantir Origin Story]]
+- [[Flock Camera Investors]]
+- [[Corporate Cabal]]
+- [[2024-02-10 Morning Reflection]]
+- [[AI Writing Assistant Idea]]
+- [[All Kings]]
+- [[Palantir Products]]
+- [[Research - Note-Taking Studies]]
 
