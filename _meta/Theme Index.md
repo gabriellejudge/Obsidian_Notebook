@@ -2,86 +2,50 @@
 
 _Last updated: 2026-05-12 18:00_
 
-## Creative
+Notes grouped by content theme. A note may appear under multiple themes.
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[2024-02-10 Morning Reflection]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Research - Note-Taking Studies]]
-- [[Personal Knowledge Management]]
-- [[Flock Camera Investors]]
-- [[AI Writing Assistant Idea]]
-- [[LinkedIn]]
-- [[All Kings]]
+## Surveillance Technology & Intelligence
 
-## Drafts
+Notes exploring surveillance platforms, intelligence community ties, and the government-to-startup pipeline.
 
-- [[AI Writing Assistant Idea]]
+- [[Palantir Origin Story]] — DARPA/TIA origins and the founding meeting with Poindexter
+- [[Palantir Products]] — Gotham, Foundry, and Apollo product suite for defense and enterprise
+- [[Flock Camera Investors]] — VC funding behind license plate reader surveillance tech
+- [[LinkedIn]] — Analysis of LinkedIn as a national security asset and data aggregation platform
 
-## Ideas
+## Power Networks & Institutional Influence
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[2024-02-10 Morning Reflection]]
-- [[Research - Note-Taking Studies]]
-- [[Personal Knowledge Management]]
-- [[AI Writing Assistant Idea]]
+Notes mapping elite figures, corporate-government relationships, and concentrated power.
 
-## Learning
+- [[All Kings]] — Roster of powerful figures in tech, finance, and politics
+- [[Corporate Cabal]] — CIA-NGO-corporate networks and the "Liberal CIA" concept
+- [[Palantir Origin Story]] — Peter Thiel bridging Silicon Valley and the intelligence community
+- [[Flock Camera Investors]] — Mainstream VC legitimization of surveillance-as-a-service
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[2024-02-10 Morning Reflection]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Research - Note-Taking Studies]]
-- [[Personal Knowledge Management]]
-- [[Flock Camera Investors]]
-- [[AI Writing Assistant Idea]]
-- [[LinkedIn]]
-- [[All Kings]]
+## Peter Thiel Network
 
-## Meeting
+Notes where Peter Thiel appears as a connecting node between technology, venture capital, and government.
 
-- [[Palantir Origin Story]]
+- [[All Kings]] — Listed as a central power figure
+- [[Palantir Origin Story]] — Co-founded Palantir from a DARPA meeting
+- [[Flock Camera Investors]] — Founders Fund investment in Flock Safety
+- [[Corporate Cabal]] — Government-private sector power networks
+- [[Palantir Products]] — Products built by Thiel-co-founded company
 
-## Personal
+## Personal Knowledge Management & Note-Taking
 
-- [[README]]
-- [[2024-02-10 Morning Reflection]]
-- [[Research - Note-Taking Studies]]
-- [[Personal Knowledge Management]]
-- [[AI Writing Assistant Idea]]
+Notes on PKM philosophy, note-taking research, and the tools/systems the author uses.
 
-## Projects
+- [[Personal Knowledge Management]] — PKM principles: capture, process, connect, review
+- [[Research - Note-Taking Studies]] — Generation effect, spacing effect, elaborative interrogation
+- [[AI Writing Assistant Idea]] — Context-aware writing assistant that understands vault content
+- [[2024-02-10 Morning Reflection]] — Motivation for building systems over just capturing information
 
-- [[README]]
-- [[2024-02-10 Morning Reflection]]
+## Venture Capital & Tech Investment
 
-## References
+Notes tracking investment patterns in technology and surveillance startups.
 
-- [[README]]
-- [[Corporate Cabal]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Personal Knowledge Management]]
-- [[Flock Camera Investors]]
-- [[LinkedIn]]
-- [[All Kings]]
-
-## Research
-
-- [[README]]
-- [[Corporate Cabal]]
-- [[2024-02-10 Morning Reflection]]
-- [[Palantir Products]]
-- [[Palantir Origin Story]]
-- [[Research - Note-Taking Studies]]
-- [[Personal Knowledge Management]]
-- [[Flock Camera Investors]]
-- [[AI Writing Assistant Idea]]
-- [[LinkedIn]]
-- [[All Kings]]
+- [[Flock Camera Investors]] — a16z, Tiger Global, Founders Fund, Y Combinator backing Flock Safety
+- [[All Kings]] — Venture capitalists and tech leaders as power brokers
+- [[Palantir Origin Story]] — Thiel's role as VC funding surveillance tech
 
