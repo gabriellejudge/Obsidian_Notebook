@@ -1,87 +1,69 @@
 # Vault Theme Index
 
-_Last updated: 2026-05-13 00:01_
+_Last updated: 2026-05-13 00:00_
 
-## Creative
+Notes grouped by content theme. A note may appear under multiple themes.
 
-- [[README]]
-- [[All Kings]]
-- [[Palantir Products]]
-- [[Flock Camera Investors]]
-- [[AI Writing Assistant Idea]]
-- [[Research - Note-Taking Studies]]
-- [[Corporate Cabal]]
-- [[2024-02-10 Morning Reflection]]
-- [[Personal Knowledge Management]]
-- [[Palantir Origin Story]]
-- [[LinkedIn]]
+## Surveillance Technology & Intelligence
 
-## Drafts
+Notes exploring surveillance platforms, intelligence community ties, and the government-to-startup pipeline.
 
-- [[AI Writing Assistant Idea]]
+- [[Palantir Origin Story]] — DARPA/TIA origins and the founding meeting with Poindexter
+- [[Palantir Products]] — Gotham, Foundry, and Apollo product suite for defense and enterprise
+- [[Flock Camera Investors]] — VC funding behind license plate reader surveillance tech
+- [[LinkedIn]] — Analysis of LinkedIn as a national security asset and data aggregation platform
+- [[Corporate Cabal]] — CIA-NGO networks and institutional surveillance connections
 
-## Ideas
+## Power Networks & Institutional Influence
 
-- [[README]]
-- [[AI Writing Assistant Idea]]
-- [[Research - Note-Taking Studies]]
-- [[Corporate Cabal]]
-- [[2024-02-10 Morning Reflection]]
-- [[Personal Knowledge Management]]
+Notes mapping elite figures, corporate-government relationships, and concentrated power.
 
-## Learning
+- [[All Kings]] — Roster of powerful figures in tech, finance, and politics
+- [[Corporate Cabal]] — CIA-NGO-corporate networks and the "Liberal CIA" concept
+- [[Palantir Origin Story]] — Peter Thiel bridging Silicon Valley and the intelligence community
+- [[Flock Camera Investors]] — Mainstream VC legitimization of surveillance-as-a-service
+- [[LinkedIn]] — Tech platform as institutional power and media controller
 
-- [[README]]
-- [[All Kings]]
-- [[Palantir Products]]
-- [[Flock Camera Investors]]
-- [[AI Writing Assistant Idea]]
-- [[Research - Note-Taking Studies]]
-- [[Corporate Cabal]]
-- [[2024-02-10 Morning Reflection]]
-- [[Personal Knowledge Management]]
-- [[Palantir Origin Story]]
-- [[LinkedIn]]
+## Peter Thiel Network
 
-## Meeting
+Notes where Peter Thiel appears as a connecting node between technology, venture capital, and government.
 
-- [[Palantir Origin Story]]
+- [[All Kings]] — Listed as a central power figure
+- [[Palantir Origin Story]] — Co-founded Palantir from a DARPA meeting
+- [[Palantir Products]] — Products built by Thiel-co-founded company
+- [[Flock Camera Investors]] — Founders Fund investment in Flock Safety
+- [[Corporate Cabal]] — Government-private sector power networks
 
-## Personal
+## Personal Knowledge Management & Note-Taking
 
-- [[README]]
-- [[AI Writing Assistant Idea]]
-- [[Research - Note-Taking Studies]]
-- [[2024-02-10 Morning Reflection]]
-- [[Personal Knowledge Management]]
+Notes on PKM philosophy, note-taking research, and the tools/systems the author uses.
 
-## Projects
+- [[Personal Knowledge Management]] — PKM principles: capture, process, connect, review
+- [[Research - Note-Taking Studies]] — Generation effect, spacing effect, elaborative interrogation
+- [[AI Writing Assistant Idea]] — Context-aware writing assistant that understands vault content
+- [[2024-02-10 Morning Reflection]] — Motivation for building systems over just capturing information
 
-- [[README]]
-- [[2024-02-10 Morning Reflection]]
+## AI & Automation
 
-## References
+Notes involving AI-assisted tools, automation concepts, and intelligent systems.
 
-- [[README]]
-- [[All Kings]]
-- [[Palantir Products]]
-- [[Flock Camera Investors]]
-- [[Corporate Cabal]]
-- [[Personal Knowledge Management]]
-- [[Palantir Origin Story]]
-- [[LinkedIn]]
+- [[AI Writing Assistant Idea]] — Intent-aware writing assistant concept for Obsidian vaults
+- [[2024-02-10 Morning Reflection]] — Vision of AI organizing notes in the background
+- [[Personal Knowledge Management]] — Automated agents as part of the PKM toolchain
 
-## Research
+## Venture Capital & Tech Investment
 
-- [[README]]
-- [[All Kings]]
-- [[Palantir Products]]
-- [[Flock Camera Investors]]
-- [[AI Writing Assistant Idea]]
-- [[Research - Note-Taking Studies]]
-- [[Corporate Cabal]]
-- [[2024-02-10 Morning Reflection]]
-- [[Personal Knowledge Management]]
-- [[Palantir Origin Story]]
-- [[LinkedIn]]
+Notes tracking investment patterns in technology and surveillance startups.
+
+- [[Flock Camera Investors]] — a16z, Tiger Global, Founders Fund, Y Combinator backing Flock Safety
+- [[All Kings]] — Venture capitalists and tech leaders as power brokers
+- [[Palantir Origin Story]] — Thiel's role as VC funding surveillance tech
+
+## Data Aggregation & Platform Power
+
+Notes examining how platforms collect and leverage data at scale.
+
+- [[LinkedIn]] — Professional data as intelligence asset and cultural influence
+- [[Palantir Products]] — Data integration across defense and enterprise contexts
+- [[Flock Camera Investors]] — License plate reader data for law enforcement
 
