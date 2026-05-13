@@ -24,96 +24,6 @@
       "agent"
     ]
   },
-  "notes/All Kings.md": {
-    "title": "All Kings",
-    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "kings",
-      "summary",
-      "roster",
-      "most",
-      "powerful",
-      "figures",
-      "technology",
-      "finance",
-      "politics",
-      "who"
-    ]
-  },
-  "notes/Palantir Products.md": {
-    "title": "Palantir Products",
-    "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "palantir",
-      "products",
-      "summary",
-      "overview",
-      "palantir",
-      "three",
-      "core",
-      "products",
-      "gotham",
-      "foundry"
-    ]
-  },
-  "notes/Flock Camera Investors.md": {
-    "title": "Flock Camera Investors",
-    "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "flock",
-      "camera",
-      "investors",
-      "summary",
-      "investor",
-      "list",
-      "flock",
-      "safety",
-      "surveillance",
-      "technology"
-    ]
-  },
-  "notes/AI Writing Assistant Idea.md": {
-    "title": "AI Writing Assistant Idea",
-    "summary": "This question explores ideas, drafts topics. What if we could build a writing assistant that doesn't just correct grammar, but actually understands the *intent* behind what you're trying to say?",
-    "themes": [
-      "ideas",
-      "drafts",
-      "personal",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "writing",
-      "assistant",
-      "idea",
-      "build",
-      "writing",
-      "assistant",
-      "doesn",
-      "correct",
-      "grammar",
-      "actually"
-    ]
-  },
   "notes/Research - Note-Taking Studies.md": {
     "title": "Research - Note-Taking Studies",
     "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
@@ -137,51 +47,26 @@
       "taking"
     ]
   },
-  "notes/Corporate Cabal.md": {
-    "title": "Corporate Cabal",
-    "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
+  "notes/LinkedIn.md": {
+    "title": "LinkedIn",
+    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
     "themes": [
-      "ideas",
       "references",
       "research",
       "learning",
       "creative"
     ],
     "keywords": [
-      "corporate",
-      "cabal",
+      "linkedin",
       "summary",
-      "reference",
-      "research",
-      "networks",
-      "connecting",
-      "intelligence",
-      "agencies",
-      "cia"
-    ]
-  },
-  "notes/2024-02-10 Morning Reflection.md": {
-    "title": "2024-02-10 Morning Reflection",
-    "summary": "This note explores ideas, personal topics. Today I'm feeling motivated to work on organizing my notes. I've been letting them accumulate without any structure, and it's getting hard to find ...",
-    "themes": [
-      "ideas",
-      "personal",
-      "projects",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "morning",
-      "reflection",
-      "february",
-      "today",
-      "feeling",
-      "motivated",
-      "work",
-      "organizing",
-      "notes",
-      "letting"
+      "analysis",
+      "linkedin",
+      "more",
+      "professional",
+      "network",
+      "viewing",
+      "national",
+      "security"
     ]
   },
   "notes/Personal Knowledge Management.md": {
@@ -231,9 +116,9 @@
       "darpa"
     ]
   },
-  "notes/LinkedIn.md": {
-    "title": "LinkedIn",
-    "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
+  "notes/Palantir Products.md": {
+    "title": "Palantir Products",
+    "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
     "themes": [
       "references",
       "research",
@@ -241,16 +126,131 @@
       "creative"
     ],
     "keywords": [
-      "linkedin",
+      "palantir",
+      "products",
       "summary",
-      "analysis",
-      "linkedin",
-      "more",
-      "professional",
-      "network",
-      "viewing",
-      "national",
-      "security"
+      "overview",
+      "palantir",
+      "three",
+      "core",
+      "products",
+      "gotham",
+      "foundry"
+    ]
+  },
+  "notes/AI Writing Assistant Idea.md": {
+    "title": "AI Writing Assistant Idea",
+    "summary": "This question explores ideas, drafts topics. What if we could build a writing assistant that doesn't just correct grammar, but actually understands the *intent* behind what you're trying to say?",
+    "themes": [
+      "ideas",
+      "drafts",
+      "personal",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "writing",
+      "assistant",
+      "idea",
+      "build",
+      "writing",
+      "assistant",
+      "doesn",
+      "correct",
+      "grammar",
+      "actually"
+    ]
+  },
+  "notes/2024-02-10 Morning Reflection.md": {
+    "title": "2024-02-10 Morning Reflection",
+    "summary": "This note explores ideas, personal topics. Today I'm feeling motivated to work on organizing my notes. I've been letting them accumulate without any structure, and it's getting hard to find ...",
+    "themes": [
+      "ideas",
+      "personal",
+      "projects",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "morning",
+      "reflection",
+      "february",
+      "today",
+      "feeling",
+      "motivated",
+      "work",
+      "organizing",
+      "notes",
+      "letting"
+    ]
+  },
+  "notes/All Kings.md": {
+    "title": "All Kings",
+    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "kings",
+      "summary",
+      "roster",
+      "most",
+      "powerful",
+      "figures",
+      "technology",
+      "finance",
+      "politics",
+      "who"
+    ]
+  },
+  "notes/Corporate Cabal.md": {
+    "title": "Corporate Cabal",
+    "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
+    "themes": [
+      "ideas",
+      "references",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "corporate",
+      "cabal",
+      "summary",
+      "reference",
+      "research",
+      "networks",
+      "connecting",
+      "intelligence",
+      "agencies",
+      "cia"
+    ]
+  },
+  "notes/Flock Camera Investors.md": {
+    "title": "Flock Camera Investors",
+    "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "flock",
+      "camera",
+      "investors",
+      "summary",
+      "investor",
+      "list",
+      "flock",
+      "safety",
+      "surveillance",
+      "technology"
     ]
   }
 }
