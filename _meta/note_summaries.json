@@ -24,51 +24,26 @@
       "agent"
     ]
   },
-  "notes/Corporate Cabal.md": {
-    "title": "Corporate Cabal",
-    "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
+  "notes/All Kings.md": {
+    "title": "All Kings",
+    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
     "themes": [
-      "ideas",
       "references",
       "research",
       "learning",
       "creative"
     ],
     "keywords": [
-      "corporate",
-      "cabal",
+      "kings",
       "summary",
-      "reference",
-      "research",
-      "networks",
-      "connecting",
-      "intelligence",
-      "agencies",
-      "cia"
-    ]
-  },
-  "notes/2024-02-10 Morning Reflection.md": {
-    "title": "2024-02-10 Morning Reflection",
-    "summary": "This note explores ideas, personal topics. Today I'm feeling motivated to work on organizing my notes. I've been letting them accumulate without any structure, and it's getting hard to find ...",
-    "themes": [
-      "ideas",
-      "personal",
-      "projects",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "morning",
-      "reflection",
-      "february",
-      "today",
-      "feeling",
-      "motivated",
-      "work",
-      "organizing",
-      "notes",
-      "letting"
+      "roster",
+      "most",
+      "powerful",
+      "figures",
+      "technology",
+      "finance",
+      "politics",
+      "who"
     ]
   },
   "notes/Palantir Products.md": {
@@ -91,76 +66,6 @@
       "products",
       "gotham",
       "foundry"
-    ]
-  },
-  "notes/Palantir Origin Story.md": {
-    "title": "Palantir Origin Story",
-    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "meeting",
-      "creative"
-    ],
-    "keywords": [
-      "palantir",
-      "origin",
-      "story",
-      "summary",
-      "documents",
-      "founding",
-      "connection",
-      "between",
-      "palantir",
-      "darpa"
-    ]
-  },
-  "notes/Research - Note-Taking Studies.md": {
-    "title": "Research - Note-Taking Studies",
-    "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
-    "themes": [
-      "ideas",
-      "personal",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "research",
-      "note",
-      "taking",
-      "studies",
-      "collection",
-      "research",
-      "findings",
-      "effective",
-      "note",
-      "taking"
-    ]
-  },
-  "notes/Personal Knowledge Management.md": {
-    "title": "Personal Knowledge Management",
-    "summary": "This note explores ideas, references topics. A system for capturing, organizing, and retrieving personal knowledge over time.",
-    "themes": [
-      "ideas",
-      "references",
-      "personal",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "personal",
-      "knowledge",
-      "management",
-      "system",
-      "capturing",
-      "organizing",
-      "retrieving",
-      "personal",
-      "knowledge",
-      "time"
     ]
   },
   "notes/Flock Camera Investors.md": {
@@ -209,6 +114,123 @@
       "actually"
     ]
   },
+  "notes/Research - Note-Taking Studies.md": {
+    "title": "Research - Note-Taking Studies",
+    "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
+    "themes": [
+      "ideas",
+      "personal",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "research",
+      "note",
+      "taking",
+      "studies",
+      "collection",
+      "research",
+      "findings",
+      "effective",
+      "note",
+      "taking"
+    ]
+  },
+  "notes/Corporate Cabal.md": {
+    "title": "Corporate Cabal",
+    "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
+    "themes": [
+      "ideas",
+      "references",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "corporate",
+      "cabal",
+      "summary",
+      "reference",
+      "research",
+      "networks",
+      "connecting",
+      "intelligence",
+      "agencies",
+      "cia"
+    ]
+  },
+  "notes/2024-02-10 Morning Reflection.md": {
+    "title": "2024-02-10 Morning Reflection",
+    "summary": "This note explores ideas, personal topics. Today I'm feeling motivated to work on organizing my notes. I've been letting them accumulate without any structure, and it's getting hard to find ...",
+    "themes": [
+      "ideas",
+      "personal",
+      "projects",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "morning",
+      "reflection",
+      "february",
+      "today",
+      "feeling",
+      "motivated",
+      "work",
+      "organizing",
+      "notes",
+      "letting"
+    ]
+  },
+  "notes/Personal Knowledge Management.md": {
+    "title": "Personal Knowledge Management",
+    "summary": "This note explores ideas, references topics. A system for capturing, organizing, and retrieving personal knowledge over time.",
+    "themes": [
+      "ideas",
+      "references",
+      "personal",
+      "research",
+      "learning",
+      "creative"
+    ],
+    "keywords": [
+      "personal",
+      "knowledge",
+      "management",
+      "system",
+      "capturing",
+      "organizing",
+      "retrieving",
+      "personal",
+      "knowledge",
+      "time"
+    ]
+  },
+  "notes/Palantir Origin Story.md": {
+    "title": "Palantir Origin Story",
+    "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
+    "themes": [
+      "references",
+      "research",
+      "learning",
+      "meeting",
+      "creative"
+    ],
+    "keywords": [
+      "palantir",
+      "origin",
+      "story",
+      "summary",
+      "documents",
+      "founding",
+      "connection",
+      "between",
+      "palantir",
+      "darpa"
+    ]
+  },
   "notes/LinkedIn.md": {
     "title": "LinkedIn",
     "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
@@ -229,28 +251,6 @@
       "viewing",
       "national",
       "security"
-    ]
-  },
-  "notes/All Kings.md": {
-    "title": "All Kings",
-    "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-    "themes": [
-      "references",
-      "research",
-      "learning",
-      "creative"
-    ],
-    "keywords": [
-      "kings",
-      "summary",
-      "roster",
-      "most",
-      "powerful",
-      "figures",
-      "technology",
-      "finance",
-      "politics",
-      "who"
     ]
   }
 }
