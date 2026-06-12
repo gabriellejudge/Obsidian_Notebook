@@ -4,28 +4,13 @@ _Generated: 2026-06-12 12:00_
 
 ## Recurring Concepts
 
-Keywords that appear across multiple notes:
+Concepts that recur across the existing notes (count = number of notes that reference the concept):
 
-- **palantir** (44 notes)
-- **notes** (39 notes)
-- **surveillance** (38 notes)
-- **note** (37 notes)
-- **thiel** (29 notes)
-- **tech** (28 notes)
-- **government** (26 notes)
-- **data** (24 notes)
-- **peter** (24 notes)
-- **agent** (23 notes)
-- **products** (22 notes)
-- **research** (21 notes)
-- **power** (21 notes)
-- **linkedin** (20 notes)
-- **related** (19 notes)
-- **how** (19 notes)
-- **flock** (19 notes)
-- **writing** (18 notes)
-- **knowledge** (18 notes)
-- **personal** (17 notes)
+- **Surveillance & power networks** (6 notes)
+- **Palantir / Peter Thiel ecosystem** (5 notes)
+- **Government–private sector pipeline** (5 notes)
+- **Personal knowledge management & note-taking** (5 notes)
+- **AI-assisted tooling** (3 notes)
 
 ## Theme Distribution
 
@@ -36,10 +21,17 @@ Keywords that appear across multiple notes:
 - Ideas: 6 notes
 - Personal: 5 notes
 - Projects: 2 notes
-- Drafts: 1 notes
-- Meeting: 1 notes
+- Drafts: 1 note
+- Meeting: 1 note
+
+## Patterns
+
+- The vault separates into two clusters: a personal-productivity cluster ([[README]], [[Personal Knowledge Management]], [[AI Writing Assistant Idea]], [[2024-02-10 Morning Reflection]], [[Research - Note-Taking Studies]]) and a research cluster on surveillance, power, and the Palantir/Peter Thiel ecosystem.
+- The research cluster is densely interlinked: [[All Kings]], [[Palantir Origin Story]], [[Palantir Products]], [[Flock Camera Investors]], [[LinkedIn]], and [[Corporate Cabal]] all cross-reference one another around the government-to-private-sector surveillance pipeline.
+- The PKM cluster centers on [[Personal Knowledge Management]] and [[AI Writing Assistant Idea]], is motivated by [[2024-02-10 Morning Reflection]], and is supported by the evidence in [[Research - Note-Taking Studies]].
 
 ## Suggested Next Steps
 
-- 💡 You have several ideas brewing. Consider developing one into a draft.
-- 📚 'palantir' appears frequently. Consider creating a hub note.
+- 📝 [[AI Writing Assistant Idea]] is the only note tagged as a draft and still has unchecked feature items and open questions — consider developing it into a structured outline.
+- 📚 [[Research - Note-Taking Studies]] lists two studies still to review (Mueller & Oppenheimer, 2014; Karpicke & Blunt, 2011).
+- 🔗 The surveillance/Palantir notes are already well cross-linked; revisiting their open questions could deepen the existing research.
