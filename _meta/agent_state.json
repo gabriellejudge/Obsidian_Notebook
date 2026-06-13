@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-06-13T12:00:27.215681",
+  "last_run": "2026-06-13T18:00:33.432581",
   "processed_notes": {
     "README.md": {
       "hash": "486a459729bfe45577a280db59d1ee0b",
@@ -16,7 +16,7 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. This Obsidian vault includes an AI-powered background agent that automatically organizes your notes.",
-      "processed": "2026-06-13T12:00:27.207514"
+      "processed": "2026-06-13T18:00:33.424582"
     },
     "notes/Corporate Cabal.md": {
       "hash": "e016eeab5aae3a7a5d1bb2abe1a1981b",
@@ -31,7 +31,7 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. > **Summary**: Reference to research on networks connecting intelligence agencies (CIA) with NGOs and corporate entities. Explores the \"liberal CIA...",
-      "processed": "2026-06-13T12:00:27.209380"
+      "processed": "2026-06-13T18:00:33.426346"
     },
     "notes/Palantir Products.md": {
       "hash": "883c64e67ae7cb5ce3086e10e2d00b43",
@@ -45,7 +45,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Overview of Palantir's three core products\u2014Gotham, Foundry, and Apollo\u2014which serve intelligence, defense, and enterprise clients wit...",
-      "processed": "2026-06-13T12:00:27.212911"
+      "processed": "2026-06-13T18:00:33.429621"
     },
     "notes/Palantir Origin Story.md": {
       "hash": "d9f90ba01923d6096eb67282466796b9",
@@ -60,7 +60,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Documents the founding connection between Palantir and DARPA's Total Information Awareness (TIA) program. A meeting between Peter Th...",
-      "processed": "2026-06-13T12:00:27.213469"
+      "processed": "2026-06-13T18:00:33.430171"
     },
     "notes/Flock Camera Investors.md": {
       "hash": "57d715945004cf4bc5b0c14abef808fd",
@@ -74,7 +74,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Investor list for Flock Safety, a surveillance technology company providing license plate readers and camera systems to law enforcem...",
-      "processed": "2026-06-13T12:00:27.211299"
+      "processed": "2026-06-13T18:00:33.427905"
     },
     "notes/LinkedIn.md": {
       "hash": "2a6888fd2051bce84040f53eb9933d9f",
@@ -88,7 +88,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: Analysis of LinkedIn as more than a professional network\u2014viewing it as a national security asset and media controller that shapes th...",
-      "processed": "2026-06-13T12:00:27.211837"
+      "processed": "2026-06-13T18:00:33.428482"
     },
     "notes/All Kings.md": {
       "hash": "cd9771ddbe1e1b68d9889dc474ff3f4e",
@@ -102,7 +102,7 @@
         "note"
       ],
       "summary": "This note explores references, research topics. > **Summary**: A roster of the most powerful figures in technology, finance, and politics who shape global systems and policy. These individuals re...",
-      "processed": "2026-06-13T12:00:27.212333"
+      "processed": "2026-06-13T18:00:33.429008"
     },
     "notes/Personal Knowledge Management.md": {
       "hash": "228f24dd3bfb6479f60af9d8e1e981e3",
@@ -118,7 +118,7 @@
         "note"
       ],
       "summary": "This note explores ideas, references topics. A system for capturing, organizing, and retrieving personal knowledge over time.",
-      "processed": "2026-06-13T12:00:27.208789"
+      "processed": "2026-06-13T18:00:33.425780"
     },
     "notes/AI Writing Assistant Idea.md": {
       "hash": "ceb201bcbc894f9ce6f8aa3cbdbf4400",
@@ -134,7 +134,7 @@
         "question"
       ],
       "summary": "This question explores ideas, drafts topics. What if we could build a writing assistant that doesn't just correct grammar, but actually understands the *intent* behind what you're trying to say?",
-      "processed": "2026-06-13T12:00:27.208258"
+      "processed": "2026-06-13T18:00:33.425277"
     },
     "notes/2024-02-10 Morning Reflection.md": {
       "hash": "e3ad9b938e6852ea489ae452e1627524",
@@ -150,7 +150,7 @@
         "note"
       ],
       "summary": "This note explores ideas, personal topics. Today I'm feeling motivated to work on organizing my notes. I've been letting them accumulate without any structure, and it's getting hard to find ...",
-      "processed": "2026-06-13T12:00:27.210694"
+      "processed": "2026-06-13T18:00:33.427312"
     },
     "notes/Research - Note-Taking Studies.md": {
       "hash": "9cf9407f4d887c846e08a5856845ff9a",
@@ -165,7 +165,7 @@
         "note"
       ],
       "summary": "This note explores ideas, personal topics. Collection of research findings on effective note-taking and knowledge management.",
-      "processed": "2026-06-13T12:00:27.210005"
+      "processed": "2026-06-13T18:00:33.426867"
     }
   },
   "patterns_detected": [
