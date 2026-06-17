@@ -1,6 +1,6 @@
 # Vault Insights
 
-_Generated: 2026-06-13 18:00_
+_Generated: 2026-06-17 18:00_
 
 ## Recurring Concepts
 
