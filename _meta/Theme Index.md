@@ -1,31 +1,87 @@
 # Vault Theme Index
 
-_Last updated: 2026-06-18_
+_Last updated: 2026-06-18 18:00_
 
-This index groups existing notes by theme. It is generated from existing note content only and links to notes via wikilinks; it does not modify the notes themselves.
+## Creative
 
-## Surveillance, Power & Corporate Networks
-
-Notes mapping concentrated power across technology, finance, and government, with surveillance technology and the Peter Thiel / Founders Fund network as recurring threads.
-
-- [[All Kings]]
-- [[Palantir Origin Story]]
-- [[Palantir Products]]
+- [[README]]
+- [[AI Writing Assistant Idea]]
+- [[Personal Knowledge Management]]
 - [[Corporate Cabal]]
+- [[Research - Note-Taking Studies]]
+- [[2024-02-10 Morning Reflection]]
 - [[Flock Camera Investors]]
 - [[LinkedIn]]
+- [[All Kings]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
 
-## Personal Knowledge Management & Note-Taking
+## Drafts
 
-Notes about capturing, organizing, and retrieving personal knowledge, and the research and reflection behind those practices.
+- [[AI Writing Assistant Idea]]
 
+## Ideas
+
+- [[README]]
+- [[AI Writing Assistant Idea]]
+- [[Personal Knowledge Management]]
+- [[Corporate Cabal]]
+- [[Research - Note-Taking Studies]]
+- [[2024-02-10 Morning Reflection]]
+
+## Learning
+
+- [[README]]
+- [[AI Writing Assistant Idea]]
+- [[Personal Knowledge Management]]
+- [[Corporate Cabal]]
+- [[Research - Note-Taking Studies]]
+- [[2024-02-10 Morning Reflection]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+
+## Meeting
+
+- [[Palantir Origin Story]]
+
+## Personal
+
+- [[README]]
+- [[AI Writing Assistant Idea]]
 - [[Personal Knowledge Management]]
 - [[Research - Note-Taking Studies]]
 - [[2024-02-10 Morning Reflection]]
-- [[AI Writing Assistant Idea]]
 
-## Vault Documentation
-
-Documentation describing how this vault and its organization agent work.
+## Projects
 
 - [[README]]
+- [[2024-02-10 Morning Reflection]]
+
+## References
+
+- [[README]]
+- [[Personal Knowledge Management]]
+- [[Corporate Cabal]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+
+## Research
+
+- [[README]]
+- [[AI Writing Assistant Idea]]
+- [[Personal Knowledge Management]]
+- [[Corporate Cabal]]
+- [[Research - Note-Taking Studies]]
+- [[2024-02-10 Morning Reflection]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[All Kings]]
+- [[Palantir Products]]
+- [[Palantir Origin Story]]
+
