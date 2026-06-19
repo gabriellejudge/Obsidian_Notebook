@@ -1,7 +1,7 @@
 ---
-oz_tags: [ideas, references, personal, learning, creative, intent:note]
+oz_tags: [ideas, references, personal, research, learning, creative, intent:note]
 oz_created: 2026-02-10
-oz_updated: 2026-02-10
+oz_updated: 2026-06-19
 ---
 # Personal Knowledge Management
 
@@ -37,3 +37,17 @@ The biggest challenge is maintenance. It's easy to capture notes but hard to kee
 - "How to Take Smart Notes" by Sönke Ahrens
 - Zettelkasten method
 - Building a Second Brain (BASB)
+
+## Summary
+
+This note outlines the author's personal knowledge management system and philosophy. The author's intent is to define PKM principles (capture quickly, process regularly, connect actively, review periodically), document the tools they use (Obsidian, Git, automated agents), and acknowledge the central challenge of maintenance—which motivates exploring AI-assisted organization.
+
+## Tags
+
+#pkm #knowledge-management #obsidian #zettelkasten #second-brain #note-taking #systems-thinking #automation #tools
+
+## Related Notes
+
+- [[AI Writing Assistant Idea]] — Directly referenced as a solution to the PKM maintenance challenge
+- [[Research - Note-Taking Studies]] — Research findings that support active processing and spaced review
+- [[2024-02-10 Morning Reflection]] — Personal motivation for improving the PKM system

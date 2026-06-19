@@ -206,7 +206,7 @@ class VaultOrganizer:
         """Extract existing wiki-style links from content."""
         return re.findall(r"\[\[([^\]|]+)(?:\|[^\]]+)?\]\]", content)
 
-    def _generate_summary(self, content: str, title: str) -> str:
+    def _generate_summary(self, content: str, title: str, themes: list[str], intents: list[str]) -> str:
         """Generate a brief summary/context for the note."""
         lines = [l.strip() for l in content.split("\n") if l.strip() and not l.startswith("#")]
 
@@ -217,13 +217,74 @@ class VaultOrganizer:
                 first_para = line
                 break
 
+        # Build a more descriptive summary
+        theme_desc = ", ".join(themes[:2]) if themes else "general"
+        intent_desc = intents[0] if intents else "note"
+        
         if first_para:
-            # Truncate to ~100 chars
-            if len(first_para) > 100:
-                first_para = first_para[:97] + "..."
-            return first_para
+            # Truncate to ~150 chars
+            if len(first_para) > 150:
+                first_para = first_para[:147] + "..."
+            return f"This {intent_desc} explores {theme_desc} topics. {first_para}"
 
-        return f"Note about {title}"
+        return f"A {intent_desc} note covering {theme_desc} themes."
+
+    def _has_summary_section(self, content: str) -> bool:
+        """Check if note already has a Summary section."""
+        return bool(re.search(r"^##?\s*Summary", content, re.MULTILINE | re.IGNORECASE))
+
+    def _append_summary_section(self, content: str, summary: str) -> str:
+        """Append a Summary section to the end of the note content."""
+        if self._has_summary_section(content):
+            return content
+        
+        # Ensure there's proper spacing before the summary
+        if not content.endswith("\n"):
+            content += "\n"
+        if not content.endswith("\n\n"):
+            content += "\n"
+        
+        content += f"## Summary\n\n{summary}\n"
+        return content
+
+    def _insert_wikilinks(self, content: str, note_titles: list[str], current_title: str) -> str:
+        """Insert wikilinks where note titles are mentioned in the text."""
+        # Build a list of titles to link (excluding current note)
+        linkable_titles = [t for t in note_titles if t != current_title]
+        
+        for title in linkable_titles:
+            # Skip if already linked
+            if f"[[{title}]]" in content:
+                continue
+            
+            # Create pattern to find title mentions not already in wikilinks
+            # Match the title but not if it's inside [[ ]]
+            pattern = r"(?<!\[\[)\b" + re.escape(title) + r"\b(?!\]\])"
+            
+            # Replace first occurrence only (to be conservative)
+            match = re.search(pattern, content, re.IGNORECASE)
+            if match:
+                # Preserve original case in the link display
+                original_text = match.group(0)
+                # Only link if it matches closely (case-insensitive but similar)
+                if original_text.lower() == title.lower():
+                    content = content[:match.start()] + f"[[{title}]]" + content[match.end():]
+        
+        return content
+
+    def _find_related_keywords_in_content(self, content: str, related_notes: list[tuple[str, float]]) -> list[str]:
+        """Find keywords from related notes that appear in content."""
+        found_refs = []
+        content_lower = content.lower()
+        
+        for related_path, similarity in related_notes:
+            related_title = self.notes_index[related_path]["title"]
+            # Check if title words appear in content
+            title_words = related_title.lower().split()
+            if any(word in content_lower for word in title_words if len(word) > 3):
+                found_refs.append(related_title)
+        
+        return found_refs
 
     def scan_vault(self):
         """Scan all notes in the vault."""
@@ -262,9 +323,12 @@ class VaultOrganizer:
         print(f"Found {len(self.notes_index)} notes")
 
     def analyze_and_tag(self):
-        """Analyze notes and add/update tags in frontmatter."""
-        print("Analyzing notes for themes and intent...")
+        """Analyze notes, add tags, wikilinks, and summaries."""
+        print("Analyzing notes for themes, intent, and connections...")
         updates = []
+        
+        # Get all note titles for wikilink insertion
+        all_titles = [data["title"] for data in self.notes_index.values()]
 
         for rel_path, note_data in self.notes_index.items():
             file_path = self.vault_path / rel_path
@@ -273,13 +337,9 @@ class VaultOrganizer:
                 content = f.read()
 
             frontmatter, body = self._extract_frontmatter(content)
+            original_body = body  # Keep original to detect changes
 
-            # Skip if already processed and unchanged
-            prev_hash = self.state["processed_notes"].get(rel_path, {}).get("hash")
-            if prev_hash == note_data["hash"] and "oz_tags" in frontmatter:
-                continue
-
-            # Classify
+            # Classify themes and intents
             themes = self._classify_theme(body, note_data["keywords"])
             intents = self._detect_intent(body)
 
@@ -288,11 +348,18 @@ class VaultOrganizer:
 
             # Update frontmatter (preserve user tags)
             frontmatter["oz_tags"] = oz_tags
-            if "oz_updated" not in frontmatter:
+            if "oz_created" not in frontmatter:
                 frontmatter["oz_created"] = datetime.now().strftime("%Y-%m-%d")
             frontmatter["oz_updated"] = datetime.now().strftime("%Y-%m-%d")
 
-            # Rebuild note
+            # Insert wikilinks to related notes where titles are mentioned
+            body = self._insert_wikilinks(body, all_titles, note_data["title"])
+            
+            # Generate and append summary section if not present
+            summary = self._generate_summary(original_body, note_data["title"], themes, intents)
+            body = self._append_summary_section(body, summary)
+
+            # Rebuild note with updated frontmatter and body
             new_frontmatter = self._build_frontmatter(frontmatter)
             new_content = new_frontmatter + body
 
@@ -301,11 +368,12 @@ class VaultOrganizer:
 
             updates.append(rel_path)
 
-            # Update state
+            # Update state with summary info
             self.state["processed_notes"][rel_path] = {
                 "hash": note_data["hash"],
                 "themes": themes,
                 "intents": intents,
+                "summary": summary,
                 "processed": datetime.now().isoformat(),
             }
 
@@ -313,7 +381,7 @@ class VaultOrganizer:
             for theme in themes:
                 self.theme_groups[theme].append(rel_path)
 
-        print(f"Tagged {len(updates)} notes")
+        print(f"Updated {len(updates)} notes with tags, links, and summaries")
         return updates
 
     def link_related_notes(self):
@@ -386,26 +454,24 @@ class VaultOrganizer:
         print(f"Theme index updated with {len(self.theme_groups)} themes")
 
     def generate_summaries(self):
-        """Generate context summaries for each note."""
+        """Generate context summaries JSON for each note."""
         if not self.config.get("generate_summaries", True):
             return
 
-        print("Generating note summaries...")
+        print("Generating note summaries JSON...")
 
         summaries = {}
         for rel_path, note_data in self.notes_index.items():
-            file_path = self.vault_path / rel_path
-
-            with open(file_path, encoding="utf-8") as f:
-                content = f.read()
-
-            _, body = self._extract_frontmatter(content)
-            summary = self._generate_summary(body, note_data["title"])
+            # Get themes and intents from processed state
+            processed = self.state["processed_notes"].get(rel_path, {})
+            themes = processed.get("themes", [])
+            intents = processed.get("intents", [])
+            summary = processed.get("summary", f"Note about {note_data['title']}")
 
             summaries[rel_path] = {
                 "title": note_data["title"],
                 "summary": summary,
-                "themes": self.state["processed_notes"].get(rel_path, {}).get("themes", []),
+                "themes": themes,
                 "keywords": note_data["keywords"][:10],
             }
 

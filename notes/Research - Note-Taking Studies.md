@@ -1,7 +1,7 @@
 ---
 oz_tags: [ideas, personal, research, learning, creative, intent:note]
 oz_created: 2026-02-10
-oz_updated: 2026-02-10
+oz_updated: 2026-06-19
 ---
 # Research: Note-Taking Studies
 
@@ -37,3 +37,17 @@ How does digital note-taking compare to physical?
 Can AI augmentation enhance or hinder the generation effect?
 
 These questions connect to my exploration of [[AI Writing Assistant Idea]].
+
+## Summary
+
+This note collects research findings on effective note-taking, including the generation effect, spacing effect, and elaborative interrogation. The author's intent is to build an evidence base supporting active note-taking practices—writing in your own words, connecting ideas, and reviewing at intervals—and to raise questions about how AI augmentation might enhance or hinder these effects.
+
+## Tags
+
+#research #note-taking #learning-science #generation-effect #spacing-effect #pkm #cognitive-science #retrieval-practice #study-methods
+
+## Related Notes
+
+- [[Personal Knowledge Management]] — Directly referenced; these research findings inform PKM principles
+- [[AI Writing Assistant Idea]] — Directly referenced; questions about AI augmentation and the generation effect
+- [[2024-02-10 Morning Reflection]] — Personal context for why this research matters to the author

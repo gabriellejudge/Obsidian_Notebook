@@ -1,7 +1,7 @@
 ---
 oz_tags: [ideas, references, personal, projects, research, learning, creative, intent:note]
 oz_created: 2026-02-10
-oz_updated: 2026-02-10
+oz_updated: 2026-06-19
 ---
 # Obsidian Vault with AI Organization Agent
 
@@ -134,3 +134,24 @@ After running, check these files in Obsidian:
 ```bash
 rm _meta/agent_state.json
 ```
+
+## Summary
+
+This note serves as the documentation hub for the Obsidian vault, explaining how the AI-powered organization agent works. The author's intent is to provide users with a clear guide on installation, configuration, and usage of the automated note organization system, including folder structure, agent capabilities, and troubleshooting tips.
+
+## Tags
+
+#documentation #obsidian #automation #ai-agent #knowledge-management #organization #vault-setup
+
+## Related Notes
+
+- [[Personal Knowledge Management]] - Core PKM principles that this vault and agent system implement
+- [[AI Writing Assistant Idea]] - Context-aware AI concept closely aligned with this agent's approach
+- [[Research - Note-Taking Studies]] - Research evidence supporting the automated organization this agent provides
+- [[2024-02-10 Morning Reflection]] - Personal motivation behind building this AI-powered organization system
+- [[Palantir Products]] - Data integration and analysis platforms that parallel the agent's note organization capabilities
+- [[Palantir Origin Story]] - Founding narrative demonstrating the interconnected research this vault organizes
+- [[LinkedIn]] - Example of a data aggregation platform discussed in this vault
+- [[All Kings]] - Central hub note demonstrating interconnected knowledge networks
+- [[Corporate Cabal]] - Explores institutional power networks, exemplifying the connected research this agent helps organize
+- [[Flock Camera Investors]] - Surveillance startup investment patterns tracked across vault notes
