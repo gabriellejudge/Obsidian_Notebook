@@ -1,6 +1,6 @@
 # Vault Insights
 
-_Generated: 2026-06-19 06:00_
+_Generated: 2026-06-19 12:00_
 
 ## Recurring Concepts
 
@@ -36,8 +36,8 @@ Keywords that appear across multiple notes:
 - Ideas: 6 notes
 - Personal: 5 notes
 - Projects: 2 notes
-- Drafts: 1 notes
 - Meeting: 1 notes
+- Drafts: 1 notes
 
 ## Suggested Next Steps
 
