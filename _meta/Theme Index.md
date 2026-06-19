@@ -2,19 +2,21 @@
 
 _Last updated: 2026-06-19 12:00_
 
+Existing notes grouped by theme, derived from each note's `oz_tags` frontmatter.
+
 ## Creative
 
-- [[README]]
-- [[All Kings]]
-- [[Palantir Origin Story]]
-- [[Palantir Products]]
-- [[Corporate Cabal]]
-- [[LinkedIn]]
 - [[2024-02-10 Morning Reflection]]
 - [[AI Writing Assistant Idea]]
-- [[Personal Knowledge Management]]
-- [[Research - Note-Taking Studies]]
+- [[All Kings]]
+- [[Corporate Cabal]]
 - [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[Palantir Origin Story]]
+- [[Palantir Products]]
+- [[Personal Knowledge Management]]
+- [[README]]
+- [[Research - Note-Taking Studies]]
 
 ## Drafts
 
@@ -22,26 +24,26 @@ _Last updated: 2026-06-19 12:00_
 
 ## Ideas
 
-- [[README]]
-- [[Corporate Cabal]]
 - [[2024-02-10 Morning Reflection]]
 - [[AI Writing Assistant Idea]]
+- [[Corporate Cabal]]
 - [[Personal Knowledge Management]]
+- [[README]]
 - [[Research - Note-Taking Studies]]
 
 ## Learning
 
-- [[README]]
-- [[All Kings]]
-- [[Palantir Origin Story]]
-- [[Palantir Products]]
-- [[Corporate Cabal]]
-- [[LinkedIn]]
 - [[2024-02-10 Morning Reflection]]
 - [[AI Writing Assistant Idea]]
-- [[Personal Knowledge Management]]
-- [[Research - Note-Taking Studies]]
+- [[All Kings]]
+- [[Corporate Cabal]]
 - [[Flock Camera Investors]]
+- [[LinkedIn]]
+- [[Palantir Origin Story]]
+- [[Palantir Products]]
+- [[Personal Knowledge Management]]
+- [[README]]
+- [[Research - Note-Taking Studies]]
 
 ## Meeting
 
@@ -49,39 +51,38 @@ _Last updated: 2026-06-19 12:00_
 
 ## Personal
 
-- [[README]]
 - [[2024-02-10 Morning Reflection]]
 - [[AI Writing Assistant Idea]]
 - [[Personal Knowledge Management]]
+- [[README]]
 - [[Research - Note-Taking Studies]]
 
 ## Projects
 
-- [[README]]
 - [[2024-02-10 Morning Reflection]]
+- [[README]]
 
 ## References
 
-- [[README]]
 - [[All Kings]]
+- [[Corporate Cabal]]
+- [[Flock Camera Investors]]
+- [[LinkedIn]]
 - [[Palantir Origin Story]]
 - [[Palantir Products]]
-- [[Corporate Cabal]]
-- [[LinkedIn]]
 - [[Personal Knowledge Management]]
-- [[Flock Camera Investors]]
+- [[README]]
 
 ## Research
 
-- [[README]]
-- [[All Kings]]
-- [[Palantir Origin Story]]
-- [[Palantir Products]]
-- [[Corporate Cabal]]
-- [[LinkedIn]]
 - [[2024-02-10 Morning Reflection]]
 - [[AI Writing Assistant Idea]]
-- [[Personal Knowledge Management]]
-- [[Research - Note-Taking Studies]]
+- [[All Kings]]
+- [[Corporate Cabal]]
 - [[Flock Camera Investors]]
-
+- [[LinkedIn]]
+- [[Palantir Origin Story]]
+- [[Palantir Products]]
+- [[Personal Knowledge Management]]
+- [[README]]
+- [[Research - Note-Taking Studies]]
